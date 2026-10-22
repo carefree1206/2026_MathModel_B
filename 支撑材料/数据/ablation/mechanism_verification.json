@@ -1,0 +1,74 @@
+{
+  "passed": true,
+  "runs": 168,
+  "source_instances": 2184,
+  "actual_actions": 33941,
+  "independent_worlds": 56,
+  "complete_solution_and_actions_equal_rows": 56,
+  "comparison_ignores_only": "real_timestamp_ms (execution date/time)",
+  "archived_execution_sources_match_preregistered_hashes": true,
+  "source_hashes_unchanged_during_execution": true,
+  "scope": "Archived configuration differences, disabled/retained mechanisms, input identity, source clearing, solution equality and fee sum; original per-run auditors also independently check physical responses and geometry.",
+  "event_counts": [
+    {
+      "problem": "q3",
+      "label": "complete",
+      "m020_cost5_pair_ranking": 120,
+      "m020_posterior_optical_choice": 253,
+      "v14_geometric_pair_without_cost_ranking": 0,
+      "enroute_measure_choice": 0,
+      "optional_known_scan_skipped": 0,
+      "stationary_information_choice": 0
+    },
+    {
+      "problem": "q3",
+      "label": "no_posterior_optical",
+      "m020_cost5_pair_ranking": 129,
+      "m020_posterior_optical_choice": 0,
+      "v14_geometric_pair_without_cost_ranking": 0,
+      "enroute_measure_choice": 0,
+      "optional_known_scan_skipped": 0,
+      "stationary_information_choice": 0
+    },
+    {
+      "problem": "q3",
+      "label": "no_cost_pair",
+      "m020_cost5_pair_ranking": 0,
+      "m020_posterior_optical_choice": 245,
+      "v14_geometric_pair_without_cost_ranking": 106,
+      "enroute_measure_choice": 0,
+      "optional_known_scan_skipped": 0,
+      "stationary_information_choice": 0
+    },
+    {
+      "problem": "q4",
+      "label": "complete",
+      "m020_cost5_pair_ranking": 59,
+      "m020_posterior_optical_choice": 266,
+      "v14_geometric_pair_without_cost_ranking": 0,
+      "enroute_measure_choice": 443,
+      "optional_known_scan_skipped": 411,
+      "stationary_information_choice": 402
+    },
+    {
+      "problem": "q4",
+      "label": "no_transit",
+      "m020_cost5_pair_ranking": 40,
+      "m020_posterior_optical_choice": 244,
+      "v14_geometric_pair_without_cost_ranking": 0,
+      "enroute_measure_choice": 0,
+      "optional_known_scan_skipped": 617,
+      "stationary_information_choice": 358
+    },
+    {
+      "problem": "q4",
+      "label": "no_known_gate",
+      "m020_cost5_pair_ranking": 59,
+      "m020_posterior_optical_choice": 177,
+      "v14_geometric_pair_without_cost_ranking": 0,
+      "enroute_measure_choice": 454,
+      "optional_known_scan_skipped": 0,
+      "stationary_information_choice": 414
+    }
+  ]
+}

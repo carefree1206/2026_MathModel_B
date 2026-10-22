@@ -1,0 +1,1330 @@
+{
+  "说明": "路径相对于支撑材料根目录；摘要用于检查文件完整性。",
+  "文件": [
+    {
+      "path": "AI工具使用详情.docx",
+      "size": 312043,
+      "sha256": "78f46828d481390890f2cef9b86148755e6de4673654b1d4ebb41faf3c1683b2"
+    },
+    {
+      "path": "图件/01_多测点定位区域收缩.png",
+      "size": 132768,
+      "sha256": "a4f5be171d7b512350d036d302e244d3638150898de37c1a8946f388c89f79ae"
+    },
+    {
+      "path": "图件/01_多测点定位区域收缩.svg",
+      "size": 21374,
+      "sha256": "9103aa2430d1138c53dca363fc8d0be133cc13a286a04cb113d5e3f7a9269c9e"
+    },
+    {
+      "path": "图件/02_定位直径与最小包围圆.png",
+      "size": 107887,
+      "sha256": "832705917fd3238bc31526e62cc8b4897c2ebdd8203acd234df7667d3cc6a084"
+    },
+    {
+      "path": "图件/02_定位直径与最小包围圆.svg",
+      "size": 11618,
+      "sha256": "c2c7bae331c328945de990b022d215e2501cccb424bfa01cca2cc1603be758be"
+    },
+    {
+      "path": "图件/03_第二测点安全域与候选位置.png",
+      "size": 102025,
+      "sha256": "209bd20839fec815cfeb284fc4b26b0c3f23b9196992a43b74739e417cd34787"
+    },
+    {
+      "path": "图件/03_第二测点安全域与候选位置.svg",
+      "size": 101281,
+      "sha256": "0cae8600b63bdd15c5e847ed3b59641ccbf73d2cb0568ba32c46db4d0313e9a7"
+    },
+    {
+      "path": "图件/04_问题二移动费用与定位精度.png",
+      "size": 191842,
+      "sha256": "464b529444600da908899c2b981441d6cc809bf13b90ebc84a7ffda052127a22"
+    },
+    {
+      "path": "图件/04_问题二移动费用与定位精度.svg",
+      "size": 256311,
+      "sha256": "060bd998269035d264ab66efdba41080c58cc7476c5f877e4eaae0dec17f3dd5"
+    },
+    {
+      "path": "图件/05_搜索定位与清除流程.png",
+      "size": 136607,
+      "sha256": "0197bd8014a2dd1430152a2208aac7a86501ce57a2a22c21e7d576a565e13b04"
+    },
+    {
+      "path": "图件/05_搜索定位与清除流程.svg",
+      "size": 9368,
+      "sha256": "3302862f60230bc5d11cbd8e9574183c7fd47d5549d5331df87e6007cfca8ced"
+    },
+    {
+      "path": "图件/06_问题三七点巡检布局.png",
+      "size": 471926,
+      "sha256": "fe02971301269926d95eb9748fd84788b0c707991e34e4bfe7022f41f4bdda49"
+    },
+    {
+      "path": "图件/06_问题三七点巡检布局.svg",
+      "size": 629749,
+      "sha256": "fe1a08b0ec1ec69e62f8e3a457be16457bc6ec9f6964d0d1ccd2ca436a9cd05d"
+    },
+    {
+      "path": "图件/07_问题三局部测点费用比较.png",
+      "size": 147891,
+      "sha256": "7903519c8d8e9571468ba92d43e4638f51369692f43f21b09ec6d744caf8480f"
+    },
+    {
+      "path": "图件/07_问题三局部测点费用比较.svg",
+      "size": 25240,
+      "sha256": "2db9eed6a0fac56536a43a0972352aabcb113ba6f6489c7cde050851728d6f8a"
+    },
+    {
+      "path": "图件/08_问题三同场策略对照.png",
+      "size": 184045,
+      "sha256": "1fbcc4316a6391d2a8e6e585debe8dedd7601d7a107e2f55952896146a9b25a7"
+    },
+    {
+      "path": "图件/08_问题三同场策略对照.svg",
+      "size": 70539,
+      "sha256": "258b51722898dad76fae4fc8c9ea5abed5775cf5b20174fa3c9cc236e04bec4e"
+    },
+    {
+      "path": "图件/09_问题三困难场景费用权衡.png",
+      "size": 122266,
+      "sha256": "11567a6282d101e443b04a6d72563dd062260a5d4a4832b92bc2133a51aeb28d"
+    },
+    {
+      "path": "图件/09_问题三困难场景费用权衡.svg",
+      "size": 25073,
+      "sha256": "7d1886948f04f6a038ca88447c2b0cbfd822e05070c842bfc0687f312b956fe4"
+    },
+    {
+      "path": "图件/10_定向源近邻凸包覆盖.png",
+      "size": 154183,
+      "sha256": "e9a54ab41ce72ddc51ce54cda584937963bfc90c8cdf67e69be428a875434a2f"
+    },
+    {
+      "path": "图件/10_定向源近邻凸包覆盖.svg",
+      "size": 8852,
+      "sha256": "477ff83651dad71df8b54fd191a94d662c01a490bd8ba198cf683be6443cb57e"
+    },
+    {
+      "path": "图件/11_问题四二十一点发现布局.png",
+      "size": 131008,
+      "sha256": "7b38e5728f9871523e7552f1054812a85a42733bb85fb66eb8ef44386d684f25"
+    },
+    {
+      "path": "图件/11_问题四二十一点发现布局.svg",
+      "size": 32017,
+      "sha256": "4afbbbfc9f6821217a2984894c1e854a361fa3886a439087a8066d910d1c02e8"
+    },
+    {
+      "path": "图件/12_问题四途中测向决策.png",
+      "size": 106563,
+      "sha256": "fc8a0cdf5d2ce174a17dda5eea392d1ded31c35666c785d08a60ef88f1bf5d85"
+    },
+    {
+      "path": "图件/12_问题四途中测向决策.svg",
+      "size": 10592,
+      "sha256": "f664d7d4ec11cbf33940f7a2736817803a20f58ff10e1a1dfafca9080a7317db"
+    },
+    {
+      "path": "图件/13_问题四退步案例分析.png",
+      "size": 113902,
+      "sha256": "6df325ec6a0b1c0e4e22b099eff4a637221eb322b1ee797591e00a0cab03eb5c"
+    },
+    {
+      "path": "图件/13_问题四退步案例分析.svg",
+      "size": 21100,
+      "sha256": "3874b1dfc6ecff70f81b15220f121d2f1f4360a87207e28a85ba03f6f6578084"
+    },
+    {
+      "path": "图件/14_源数量与每源费用.png",
+      "size": 123854,
+      "sha256": "9703e69d37747fd7f6a21cb0c3e1a8b0da7d56f031c35076a3667ba5d3b03ff3"
+    },
+    {
+      "path": "图件/14_源数量与每源费用.svg",
+      "size": 27236,
+      "sha256": "44b3e05d8ab2bfee666d88bedae709d952bbc005b8a87184ffb30a01ffed1da0"
+    },
+    {
+      "path": "图件/15_官方演练费用构成.png",
+      "size": 161387,
+      "sha256": "6dd291e62e517e063c707c1ac3c910e09e39e039ca0f096035514068b2dbf955"
+    },
+    {
+      "path": "图件/15_官方演练费用构成.svg",
+      "size": 215691,
+      "sha256": "44c578993c2678211c9267c202cedb48ed5cfcca44896b3858c3576cbca3785a"
+    },
+    {
+      "path": "图件/16_官方演练轨迹.png",
+      "size": 196698,
+      "sha256": "f79e67f925d65b5dc9a97abef2e2274161f2b9b853c3dd9cbdfa6824a1071514"
+    },
+    {
+      "path": "图件/16_官方演练轨迹.svg",
+      "size": 22971,
+      "sha256": "e18fe982007c4e2565bc848f2c828b9b66ff036dea660f1b3972a62e79825232"
+    },
+    {
+      "path": "复现说明.md",
+      "size": 7529,
+      "sha256": "eef621221f22b078065865c1d298893dfab919e884b9b5bcc502557ecddff391"
+    },
+    {
+      "path": "数据/01_问题二候选测点与定位界.csv",
+      "size": 900,
+      "sha256": "4b6dcfbce9cede0b1d45ff35c07f99189f675c16ec585e1b790259340eebfea4"
+    },
+    {
+      "path": "数据/02_十二局官方演练结果.csv",
+      "size": 1633,
+      "sha256": "0f112f03588a784a007a2bc0b02a9fe4bbf32073175002e9b10ffd3adbbefc77"
+    },
+    {
+      "path": "数据/03_同场策略比较汇总.csv",
+      "size": 2444,
+      "sha256": "0ff7dd3890d76fd18a3c1d26b8a0f477f889859efa34149bfb747a1ab24e5e1b"
+    },
+    {
+      "path": "数据/04_问题三巡检布局比较.csv",
+      "size": 769,
+      "sha256": "d2c5e9ac95d4b87eef37db1598caf7ae1dea11b6cb4fe9b88eb4658250446b13"
+    },
+    {
+      "path": "数据/05_问题四二十七点与二十一点比较.csv",
+      "size": 419,
+      "sha256": "a18c18e22af0f071a14c29a3a1cecfd22829188d5411edd5fb3cf994ba85834a"
+    },
+    {
+      "path": "数据/06_关键机制消融结果.csv",
+      "size": 848,
+      "sha256": "98bc505ad65e02dad70e9be78c5b543a4bb8269066572d4f52a94c75b8c87743"
+    },
+    {
+      "path": "数据/ablation/cases.json",
+      "size": 187651,
+      "sha256": "f12abc9c3ecd4f555939c79076ad99fda9e6fcc13dae953927ee40e27b434722"
+    },
+    {
+      "path": "数据/ablation/complete_reference.json.gz",
+      "size": 1177856,
+      "sha256": "8251dbc47b521dd54b0df28209dabbe03bd0d2f08d12ca1833e86101b85e471f"
+    },
+    {
+      "path": "数据/ablation/integrity.json",
+      "size": 193,
+      "sha256": "c3930780210ec66f4e1cc2ac8ac21f98f985c8f1da89cf5133a919bb61c67bad"
+    },
+    {
+      "path": "数据/ablation/mechanism_verification.json",
+      "size": 2592,
+      "sha256": "3003b7bbd2dbf451e2fc03adf3932c7d2a71bd1d153a8bea7bb3954d10bbde88"
+    },
+    {
+      "path": "数据/ablation/protocol.json",
+      "size": 4315,
+      "sha256": "2cbc006e43735c760a152dbfbcf6729634a055e49a3122095e39844ee5e62bf4"
+    },
+    {
+      "path": "数据/ablation/rows.json",
+      "size": 122811,
+      "sha256": "22b5312fd7752500d428f3038bc372732205a279d9fdfece294f2154cfeb422a"
+    },
+    {
+      "path": "数据/ablation/runs.zip",
+      "size": 4528182,
+      "sha256": "027cbdee4dfaa9bc306eeb9c114b7b6ead6627eb8590d581787b98cdcf78776b"
+    },
+    {
+      "path": "数据/ablation/summary.json",
+      "size": 142191,
+      "sha256": "1e9eaaaf95c1fa00219984e5a184d71e1aabc1fbbf7380a09181124745aff729"
+    },
+    {
+      "path": "数据/ablation/原执行源码核对.json",
+      "size": 1157,
+      "sha256": "4d527da9f207d1e78ee222ef1668decf978fba40d6f639343513dc8516822512"
+    },
+    {
+      "path": "数据/ablation_for_paper.json",
+      "size": 133866,
+      "sha256": "d8c28346c308c41354e13be06a9da17312171cdffab7b59944f37026a2deb286"
+    },
+    {
+      "path": "数据/benchmark.json.gz",
+      "size": 62143,
+      "sha256": "ab25a9d13936ac7adf460acd3340443c7af5f19c982876c9934477928a30452b"
+    },
+    {
+      "path": "数据/benchmark_summary.json",
+      "size": 5887,
+      "sha256": "ba3afb3436e3d240424abe15fc433dd883a7115f493a8ce050036e7c7bfc19b2"
+    },
+    {
+      "path": "数据/fresh_confirmation_cases.json",
+      "size": 602299,
+      "sha256": "b3af2a0e99671091a28a6aae9e787c4ada1dc726364e21bd65ee774d604a5e46"
+    },
+    {
+      "path": "数据/layout_comparison.json",
+      "size": 7609,
+      "sha256": "70f1b3c9558c4bc85112015e8b4bf524fa0807f745e868ca61edca23b0cf184d"
+    },
+    {
+      "path": "数据/layouts/m012_triangular27_certificate.json",
+      "size": 60189,
+      "sha256": "5604bdff2cb69e05f1af5dbcaf9b31f58469f4ddc4d81ebe1f4c43219d59fbcf"
+    },
+    {
+      "path": "数据/layouts/ring21_999_1867_phase15_certificate.json",
+      "size": 282991,
+      "sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948"
+    },
+    {
+      "path": "数据/official_logs/practice-p3-1696830051126850148-SQDS-KFK9-TX88-D263.jlog",
+      "size": 33004,
+      "sha256": "ea15125fb61eec30a79018d425884c399ac10aea89d045b13a950b73b4d13eaf"
+    },
+    {
+      "path": "数据/official_logs/practice-p3-3871783657009935898-2ZPG-KPEB-9RDV-86WU.jlog",
+      "size": 36226,
+      "sha256": "c76c626cb3452c51c8ac41bee2cb33a0cc40f61b45f7b776c2a80caa90c4fcc6"
+    },
+    {
+      "path": "数据/official_logs/practice-p3-5215294167507790703-78JR-RBZF-XBRR-DPXX.jlog",
+      "size": 35369,
+      "sha256": "784c4afba477cf941d92716f0b785ede358539202163dca0d5d48c1130635452"
+    },
+    {
+      "path": "数据/official_logs/practice-p3-5621729768883561376-89Y6-5Q9J-3AXY-472D.jlog",
+      "size": 33374,
+      "sha256": "df995b92aceb12b86bc61596e4e23454ee3dac12ac4fb33c3a7c864f9925c82b"
+    },
+    {
+      "path": "数据/official_logs/practice-p3-6924584107264297628-QE4D-F7CJ-2KGB-HAXX.jlog",
+      "size": 36238,
+      "sha256": "8effb1a696c3429ad08e9b6ff8a3473dc2924f4e3f77cba6984152d75693caf9"
+    },
+    {
+      "path": "数据/official_logs/practice-p3-7275701023370612396-SAGQ-TC3E-NQJP-DAFQ.jlog",
+      "size": 34524,
+      "sha256": "06bcb7424d6a6772d091ff54f5c683472bbb6024ec4484b4a075329f7b2ac8ea"
+    },
+    {
+      "path": "数据/official_logs/practice-p4-1119527567064111586-BN7C-7MVW-7XMM-HPFW.jlog",
+      "size": 72356,
+      "sha256": "dba662099dadaf3a45a964034fc4393e40990360ca486b80204ce53fca097ad1"
+    },
+    {
+      "path": "数据/official_logs/practice-p4-1440403775607591279-XE6X-MQSB-WP8X-W9BA.jlog",
+      "size": 67649,
+      "sha256": "e8dc09ae592e197f0c736cc4a4d74125cbc4dd5e0b95728637c0babeb96227c3"
+    },
+    {
+      "path": "数据/official_logs/practice-p4-169741363390010800-HADD-VY97-VNKS-SRXX.jlog",
+      "size": 65348,
+      "sha256": "e703e1df23982144eaa7ece32bfc6d99390f3660ce90d1e6d3974f6bd5cc5554"
+    },
+    {
+      "path": "数据/official_logs/practice-p4-5846854181220254910-XD9J-6HEH-V246-4PGY.jlog",
+      "size": 69606,
+      "sha256": "6cbcd52005a6de491dc0b6244a17156679b06d8faa89f7c31da2ebb2547ec6e7"
+    },
+    {
+      "path": "数据/official_logs/practice-p4-6005732216413951342-XPPZ-6GNM-3WXN-7P76.jlog",
+      "size": 56726,
+      "sha256": "a286996c5ebbfe0220d62e88ba78ef444f3506976a1d6c572ad044c60bbc24cc"
+    },
+    {
+      "path": "数据/official_logs/practice-p4-6924111626146687032-DGQV-55ES-YW63-X9C3.jlog",
+      "size": 74731,
+      "sha256": "e03f64579a3e78f2f7250aa94a0133cee58ef0d930621f69147e461a58a0d235"
+    },
+    {
+      "path": "数据/offline_cases.json.gz",
+      "size": 256291,
+      "sha256": "e308c8f26e508ca1e681e7c04ccd7f05264884908f653d2842417f90d4bb9c3d"
+    },
+    {
+      "path": "数据/p3_evidence.json",
+      "size": 23351,
+      "sha256": "4271867f8de45f98a1ffcbf70d90b630dff240f108ce2198b2307976b09a9b53"
+    },
+    {
+      "path": "数据/paper_evidence.json",
+      "size": 1265973,
+      "sha256": "931f12d4700e3d4fda6682f607a736648a054b2b607621324299f798ada76280"
+    },
+    {
+      "path": "数据/practice/2ZPG-KPEB-9RDV-86WU/actions.jsonl.gz",
+      "size": 4133,
+      "sha256": "f0ff18befb0054ff210e3460af7a5d22462ff6d07cbb10bb25c78f1b7e1505fe"
+    },
+    {
+      "path": "数据/practice/2ZPG-KPEB-9RDV-86WU/runtime_config.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/practice/2ZPG-KPEB-9RDV-86WU/strategy_settings.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/practice/78JR-RBZF-XBRR-DPXX/actions.jsonl.gz",
+      "size": 4144,
+      "sha256": "b23b5a6bb42a5f29790d4488d4b19c6500f40b32139a268514114e4c2cffc434"
+    },
+    {
+      "path": "数据/practice/78JR-RBZF-XBRR-DPXX/runtime_config.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/practice/78JR-RBZF-XBRR-DPXX/strategy_settings.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/practice/89Y6-5Q9J-3AXY-472D/actions.jsonl.gz",
+      "size": 3745,
+      "sha256": "1df304c89a58f2b696777e7910083c3372ca9ff0c22afe3370a752e7dcef5433"
+    },
+    {
+      "path": "数据/practice/89Y6-5Q9J-3AXY-472D/runtime_config.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/practice/89Y6-5Q9J-3AXY-472D/strategy_settings.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/practice/BN7C-7MVW-7XMM-HPFW/actions.jsonl.gz",
+      "size": 8262,
+      "sha256": "7a030fbba6f5af7c3c5d116b92b643161cc25ca7352b59e0d76191f02a180170"
+    },
+    {
+      "path": "数据/practice/BN7C-7MVW-7XMM-HPFW/runtime_config.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/practice/BN7C-7MVW-7XMM-HPFW/strategy_settings.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/practice/DGQV-55ES-YW63-X9C3/actions.jsonl.gz",
+      "size": 8508,
+      "sha256": "331a250ad4a58df3c8a60827f6c825571f4ca7a5944882f1c6b1967f285838e2"
+    },
+    {
+      "path": "数据/practice/DGQV-55ES-YW63-X9C3/runtime_config.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/practice/DGQV-55ES-YW63-X9C3/strategy_settings.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/practice/HADD-VY97-VNKS-SRXX/actions.jsonl.gz",
+      "size": 7295,
+      "sha256": "a8db8bec307211fd4d0909fbb341435dd805aad9f469c905b0bdea24b8a79f4b"
+    },
+    {
+      "path": "数据/practice/HADD-VY97-VNKS-SRXX/runtime_config.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/practice/HADD-VY97-VNKS-SRXX/strategy_settings.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/practice/QE4D-F7CJ-2KGB-HAXX/actions.jsonl.gz",
+      "size": 4207,
+      "sha256": "c17c3da557b69598c8eda256afe64be10e400f4ec2dc535c615d9dafb18f0ea0"
+    },
+    {
+      "path": "数据/practice/QE4D-F7CJ-2KGB-HAXX/runtime_config.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/practice/QE4D-F7CJ-2KGB-HAXX/strategy_settings.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/practice/SAGQ-TC3E-NQJP-DAFQ/actions.jsonl.gz",
+      "size": 3801,
+      "sha256": "ff2af598efa3dc9b0862be1c2e0cd0769cde2e58f4e99d39e0a2d63690e78962"
+    },
+    {
+      "path": "数据/practice/SAGQ-TC3E-NQJP-DAFQ/runtime_config.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/practice/SAGQ-TC3E-NQJP-DAFQ/strategy_settings.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/practice/SQDS-KFK9-TX88-D263/actions.jsonl.gz",
+      "size": 3742,
+      "sha256": "fd51063975c7eeaa09ca4a7c54058f0b9a040b1c0dc49c1c27542f8fadb9926e"
+    },
+    {
+      "path": "数据/practice/SQDS-KFK9-TX88-D263/runtime_config.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/practice/SQDS-KFK9-TX88-D263/strategy_settings.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/practice/XD9J-6HEH-V246-4PGY/actions.jsonl.gz",
+      "size": 7677,
+      "sha256": "13d2c58f5c975077601524ab7086b2c1ab34fb59fd864ec1a2db426a963192e3"
+    },
+    {
+      "path": "数据/practice/XD9J-6HEH-V246-4PGY/runtime_config.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/practice/XD9J-6HEH-V246-4PGY/strategy_settings.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/practice/XE6X-MQSB-WP8X-W9BA/actions.jsonl.gz",
+      "size": 8079,
+      "sha256": "b6f71650034430cc26159f8ec023ed5be364132a00971c43bb4ac584e1be3855"
+    },
+    {
+      "path": "数据/practice/XE6X-MQSB-WP8X-W9BA/runtime_config.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/practice/XE6X-MQSB-WP8X-W9BA/strategy_settings.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/practice/XPPZ-6GNM-3WXN-7P76/actions.jsonl.gz",
+      "size": 6488,
+      "sha256": "0de200ac4e06f451ce5f41fee30e316a3df7ed6df31f6e9c7e6a36e244586367"
+    },
+    {
+      "path": "数据/practice/XPPZ-6GNM-3WXN-7P76/runtime_config.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/practice/XPPZ-6GNM-3WXN-7P76/strategy_settings.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/practice_results.json",
+      "size": 95485,
+      "sha256": "e41c15ac8521caa42825366aecb042c694406c34f76c2a0c56e1f32917e285a1"
+    },
+    {
+      "path": "数据/q1_examples.json",
+      "size": 15446,
+      "sha256": "da2e7cdb404b5d16401de742c6ff1589e42cc1e7647ee5c471253bbe57c4134d"
+    },
+    {
+      "path": "数据/q2_results.json",
+      "size": 18792,
+      "sha256": "97f481281c10fc2b25513eb7929823040179c89aac76d3a599fdfd29abcd11aa"
+    },
+    {
+      "path": "数据/q4_coverage_certificate.json",
+      "size": 282991,
+      "sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948"
+    },
+    {
+      "path": "数据/stress_cases.json.gz",
+      "size": 3321958,
+      "sha256": "0dd70acd7104afd1aa30f1f838b1ccaebff42499495855a71921cea4e611c29a"
+    },
+    {
+      "path": "数据/stress_rows.json.gz",
+      "size": 35561,
+      "sha256": "be14718a46f9489795b5a40ddfcaf975e97feaffed556c74f030bf0b809d2483"
+    },
+    {
+      "path": "数据/参数/问题三_物理与动作参数.json",
+      "size": 649,
+      "sha256": "3e7c9426889da64fb7a16d13a923172c0cf0c3f56361a4811935239c496c3f1f"
+    },
+    {
+      "path": "数据/参数/问题三_算法参数.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/参数/问题三_阴性收缩候选参数.json",
+      "size": 6366,
+      "sha256": "776e6a9b12104b28a22523d459026d3e2f9bbf2d80fb19db4d7a6a09fe7b5b52"
+    },
+    {
+      "path": "数据/参数/问题三四_信息调度对照参数.json",
+      "size": 701,
+      "sha256": "c68ee6f19ab3f9af16742d904f5bf59546045aadc104594c437bd9ea35f15425"
+    },
+    {
+      "path": "数据/参数/问题三四_信息调度选型.json",
+      "size": 11718,
+      "sha256": "7594f72fb81029126187ec6f6020931485df07e70a824b7adabf950887e7a015"
+    },
+    {
+      "path": "数据/参数/问题三四_共同基线参数.json",
+      "size": 1331,
+      "sha256": "bd7306b4772ddb6122bc9b1e608d374dd2df436e0c0be7d37e12b676c070e330"
+    },
+    {
+      "path": "数据/参数/问题三四_原交付程序清单.json",
+      "size": 11833,
+      "sha256": "8d9f68af36b85f04d153955ce5479df99c660faa471cac20e23e7e95ef01cb6b"
+    },
+    {
+      "path": "数据/参数/问题三四_正式算法选型.json",
+      "size": 2286,
+      "sha256": "ffa8c652dfb788324a98ef0b1608f073125389086f80ce2ba0e32db61aa592de"
+    },
+    {
+      "path": "数据/参数/问题三四_费用模型基线参数.json",
+      "size": 1329,
+      "sha256": "b0438df82513094b7035281541ff23b113fbe4835b863da3bea0f6faadc0f2d3"
+    },
+    {
+      "path": "数据/参数/问题三四_费用模型对照参数.json",
+      "size": 828,
+      "sha256": "f29ec6a83130bfa6e3a017102b74ff3a03b9d27ff7e928a34cc34e446c5f5913"
+    },
+    {
+      "path": "数据/参数/问题三四_费用模型选型.json",
+      "size": 9603,
+      "sha256": "01c0d936f6e7c852c8fea087c7a1b9d1bb864962343fe5dff1796a81047fb1fa"
+    },
+    {
+      "path": "数据/参数/问题四_物理与动作参数.json",
+      "size": 629,
+      "sha256": "e27562bb020793e7a8ab653118eeae09d2ec76044cd398ea2904175f30b9b042"
+    },
+    {
+      "path": "数据/参数/问题四_算法参数.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/定稿图件/04_问题二移动费用与定位精度.png",
+      "size": 191842,
+      "sha256": "464b529444600da908899c2b981441d6cc809bf13b90ebc84a7ffda052127a22"
+    },
+    {
+      "path": "数据/定稿图件/05_搜索定位与清除流程.png",
+      "size": 136607,
+      "sha256": "0197bd8014a2dd1430152a2208aac7a86501ce57a2a22c21e7d576a565e13b04"
+    },
+    {
+      "path": "数据/定稿图件/06_问题三七点巡检布局.png",
+      "size": 471926,
+      "sha256": "fe02971301269926d95eb9748fd84788b0c707991e34e4bfe7022f41f4bdda49"
+    },
+    {
+      "path": "数据/定稿图件/14_源数量与每源费用.png",
+      "size": 123854,
+      "sha256": "9703e69d37747fd7f6a21cb0c3e1a8b0da7d56f031c35076a3667ba5d3b03ff3"
+    },
+    {
+      "path": "数据/定稿图件/15_官方演练费用构成.png",
+      "size": 161387,
+      "sha256": "6dd291e62e517e063c707c1ac3c910e09e39e039ca0f096035514068b2dbf955"
+    },
+    {
+      "path": "数据/定稿图件/说明.md",
+      "size": 4472,
+      "sha256": "23085b14726fb8b5171bad485a412bc33dd59128e6530f8da0a88bf6273686ca"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/formal-p3-1-RKMV-HG3J-9ZHA-WYCT.jlog",
+      "size": 116572,
+      "sha256": "56b109ec566039871ae06b8f819f7277aa382929b7afcf5070ae5fc3e30544fb"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/formal-p3-1-RKMV-HG3J-9ZHA-WYCT.result.json",
+      "size": 230,
+      "sha256": "f0dee5569043893f6c6fd56f6fa578b2e3d156f4f4a6ea2ef51ab5d76b45645b"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始动作.jsonl",
+      "size": 61483,
+      "sha256": "fad9f83ccce0ddbdd9ef48029af7600e7b0fb41686b2e9b8637296ef49694cbb"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始运行摘要.json",
+      "size": 969,
+      "sha256": "3ec2663cc0c6ebcba8fd47c2679b847d0d2ecb3839348ca05f418f65086c07f0"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始运行清单.json",
+      "size": 14771,
+      "sha256": "7622abca1acd477cb69e5ba8017b209266a1cdc8678d7e9802f78a4351ef6741"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/策略参数.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/运行配置.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/formal-p3-2-2JVQ-KT9B-D8Z7-4TMP.jlog",
+      "size": 117341,
+      "sha256": "a29b9fe1184ec48977ad6bf64fd89474374c2f5527aeb8f06d423f4c101f0c05"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/formal-p3-2-2JVQ-KT9B-D8Z7-4TMP.result.json",
+      "size": 229,
+      "sha256": "71c98c13b6fccd7fbae62c942c5ee094878c05d948d172b6f43b968cda4e4532"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始动作.jsonl",
+      "size": 61655,
+      "sha256": "567172bc34d9703cc231a284833c7d454e4e19330df0d19b30c50add6077ceb9"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始运行摘要.json",
+      "size": 969,
+      "sha256": "447c71723525e38c0f8ab90ad772751ef33369a492532510bd670139535dea18"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始运行清单.json",
+      "size": 14771,
+      "sha256": "200069ca84e6f85b2cf72a0302069a10d6868f09475dcb527ca7bc10a1961ea5"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/策略参数.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/运行配置.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/formal-p3-3-QWGB-TSJX-EJFR-2TGH.jlog",
+      "size": 102842,
+      "sha256": "d3d43b3cfc2ed6b12423d52da8671dc3b83d7e5d762472da964018e1c49ba1d1"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/formal-p3-3-QWGB-TSJX-EJFR-2TGH.result.json",
+      "size": 230,
+      "sha256": "2a5a2be598a773b37370f85c21108c6b3e73ed8030a237f7d43ba4bf0c986caf"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始动作.jsonl",
+      "size": 55891,
+      "sha256": "d73b9f9a5a5a5729ed5c9832c1c180166e929f17ac876e3c650f89eece48d3e4"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始运行摘要.json",
+      "size": 970,
+      "sha256": "561731b869324ff33d484ccf0cc3a127a69696acb7ba833aa595aec1ae043c76"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始运行清单.json",
+      "size": 14771,
+      "sha256": "665dd6c78c670f33eeffd3b5a0539a0387bf2ac450f31b97c044545ba35b50a6"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/策略参数.json",
+      "size": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f"
+    },
+    {
+      "path": "数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/运行配置.json",
+      "size": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/formal-p4-1-Y65D-NFHG-HSA7-PTJ2.jlog",
+      "size": 129622,
+      "sha256": "a1f4ce8a4f7c604005c8b65104a10575268175b5766ec4aa563c2b7d19669712"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/formal-p4-1-Y65D-NFHG-HSA7-PTJ2.result.json",
+      "size": 230,
+      "sha256": "6db5d162c5a1d23341629bfb007d9dbf3c9fe7b1b54bae6d8a840c3aee5f442e"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始动作.jsonl",
+      "size": 123850,
+      "sha256": "4f0a58634c668677b4b32304c77cbb5cc957ba074354ce9c2effa7446102c7b1"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始运行摘要.json",
+      "size": 953,
+      "sha256": "826ab3624ec0aef1c0709efdfbff197f7e12f9a5072320da0070f7c162483ffb"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始运行清单.json",
+      "size": 14754,
+      "sha256": "2bdee8acae3099fec53c8aae2f6f938a5cf2623eca852b4a5dd84bcc256f1c00"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/策略参数.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/运行配置.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/formal-p4-2-VWK5-49M4-GXCY-PD82.jlog",
+      "size": 132563,
+      "sha256": "e3ed55daf89b44a4f01ae8ab95fe146bac032d3de383fb0472114b15a0f9e588"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/formal-p4-2-VWK5-49M4-GXCY-PD82.result.json",
+      "size": 230,
+      "sha256": "7265988109b2239157eb898505ab0929982a4199806dab68e609e6b649234471"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始动作.jsonl",
+      "size": 125415,
+      "sha256": "70a293416f8831ae748981bdafa763aace88f56e8f144b5d8817313d8a09c14f"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始运行摘要.json",
+      "size": 955,
+      "sha256": "ef278de48c826401d98c73e77bc584e2f37b9b5c6c8331fdf721a567fbc73178"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始运行清单.json",
+      "size": 14754,
+      "sha256": "30ba6d098b19c043202a3bcfa1a5711a0ccf375bc67c3e6801a9b5172368d73c"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/策略参数.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/运行配置.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/formal-p4-3-PEAD-ET89-3T4M-3RFR.jlog",
+      "size": 125557,
+      "sha256": "956995e95ba615cf1fd700b68dc2bf7a46689321fe500f4b7f358046c82f30ea"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/formal-p4-3-PEAD-ET89-3T4M-3RFR.result.json",
+      "size": 230,
+      "sha256": "7e6e4ce0d00037003f6fcd9d8b83a0d09f7df3b6b9cc56a0a41c318fdc413e6c"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始动作.jsonl",
+      "size": 103967,
+      "sha256": "3b05c6f294a3b00293f5dd95d03ed39b3eef3c59977f463da2dc3ab3e741b1c2"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始运行摘要.json",
+      "size": 953,
+      "sha256": "70146c368d3194b2d430de5d61c418086a7aac33dd57e6e57ecb148edff00823"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始运行清单.json",
+      "size": 14754,
+      "sha256": "2b557c5f1f2a6ca51568e553f675a857422563b329e2cbab8e05847507999f8f"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/策略参数.json",
+      "size": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6"
+    },
+    {
+      "path": "数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/运行配置.json",
+      "size": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415"
+    },
+    {
+      "path": "数据/正式测试/正式结果摘要.csv",
+      "size": 979,
+      "sha256": "34337504a397d6ba0da130b284374c083399e97190c6d34fbe839f407ece95e4"
+    },
+    {
+      "path": "数据/正式测试/正式结果摘要.json",
+      "size": 6181,
+      "sha256": "401e9ad52ce7cb4c7c99208aa3fb4aa1db58ccf84a65313d556e2ea25a546463"
+    },
+    {
+      "path": "数据/正式测试/资料说明.md",
+      "size": 1635,
+      "sha256": "51b1353cfadc8a22e46b300a8a2e7616d5a60545751f428f9a4f373a1b1e1703"
+    },
+    {
+      "path": "数据/程序校验.json",
+      "size": 8209,
+      "sha256": "34974563e5f420884715506ae106ae63795a741dc3dc24236c53cd8ccc1c9652"
+    },
+    {
+      "path": "数据/问题三四稳健性/cases.json",
+      "size": 60772,
+      "sha256": "a20f9f85002b311567f62abaaca6eda44a97779c27efecb7fba81c1a3af81bb7"
+    },
+    {
+      "path": "数据/问题三四稳健性/outer_tangent_analysis.json",
+      "size": 58439,
+      "sha256": "3de92e5257ca250c5ecc9b7faff4d39b28a7b6a4668ad0b2c9fb9bbf12f80b80"
+    },
+    {
+      "path": "数据/问题三四稳健性/outer_tangent_v12.json.gz",
+      "size": 7809,
+      "sha256": "5b7856f1190c1883481a631444b927e67f9d1a271ce4203649cbad15cc7bf132"
+    },
+    {
+      "path": "数据/问题三四稳健性/outer_tangent_v14_p2.json.gz",
+      "size": 14010,
+      "sha256": "2ae0c72a5a5227e2ca93681ad12e7d22467e33c75ec184fc1f521fbb66c62469"
+    },
+    {
+      "path": "数据/问题三四稳健性/protocol.json",
+      "size": 1257,
+      "sha256": "824de6caedc571f0ba18edc35b1f04d555fb9a9836e44b76669200ecad667424"
+    },
+    {
+      "path": "数据/问题三四稳健性/run_evidence.json.gz",
+      "size": 1281975,
+      "sha256": "47ce62b89e94b778253d089e33d233595112237b972f8291e9783680be690438"
+    },
+    {
+      "path": "数据/问题三四稳健性/sensitivity_results.json",
+      "size": 66257,
+      "sha256": "f40eaf6d384766990b90f1f0c4c8aecfc2c67c984f6a3e3056404b6505b6f692"
+    },
+    {
+      "path": "数据/问题三四稳健性/说明.md",
+      "size": 3555,
+      "sha256": "212bbf34f2ddb85eb9e413d23444d3ebd71cd6cf7a8be992ca102224c37243d3"
+    },
+    {
+      "path": "数据/问题三巡检比较/frozen_inputs.json",
+      "size": 354828,
+      "sha256": "57cc0ee441e366d5d88f97547f944069cdadf419893b0853fae0833bae16bf3c"
+    },
+    {
+      "path": "数据/问题三巡检比较/README.md",
+      "size": 3327,
+      "sha256": "69cdf37399241d9cc4de1468d61bfd096ac4c9f476f573b9dadafaf8dc406d09"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/audit_summary.json",
+      "size": 67600,
+      "sha256": "cf71b1be88d7b3850f583073647dff03664bc02706a9cb8b18c65b62c474e55a"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/baseline_agreement.json",
+      "size": 83,
+      "sha256": "8ebacae9b62c6e176ef942ba35a5d333c568c971a09b36486b9c38b05780fb7f"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/integrity.json",
+      "size": 445,
+      "sha256": "f38b26a4f117c9449ad5230935162591d8c243ca7ce7d7d2d4b411023ed1713a"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/paired.json",
+      "size": 71291,
+      "sha256": "36e6227cd7f86eb30dce88b5c116a18fb301fa918bdf4cb5fed2450e2e2400e4"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/protocol.json",
+      "size": 9911,
+      "sha256": "39766d86bd9b72d207bd547e93ff8b6a39f96d5f22ed245de6e1cac4e7a9e7d6"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/rows.json",
+      "size": 146805,
+      "sha256": "ecaa0b0c8b7c02c7d7a78f99d28e68ffa5122f157819f248de002914f3ec2654"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/strata.json",
+      "size": 2605,
+      "sha256": "4ea1e8f5ce2c60aa4718cfd6cebedfadbdb41cb8b272bbe0ed8d64252322f6ed"
+    },
+    {
+      "path": "数据/问题三巡检比较/results/summary.json",
+      "size": 3625,
+      "sha256": "ef9f5acaea094be36e263167cc1dec0b49fecf7e2b6da92ac48191284793a81c"
+    },
+    {
+      "path": "数据/问题四覆盖证明/circle/circle_reference21.json",
+      "size": 134711,
+      "sha256": "a386c63964efcf002be5c5089cb446c18b190476268fc97dd0524a6c368fa4c9"
+    },
+    {
+      "path": "数据/问题四覆盖证明/circle/reference_layout.json",
+      "size": 2033,
+      "sha256": "689f92eb3b6192369f4fea1178d42414d3bef39ee064756f56bc228b9b12d351"
+    },
+    {
+      "path": "数据/问题四覆盖证明/circle/圆周覆盖判据.md",
+      "size": 3521,
+      "sha256": "0df310d72432f197eed72c0cba597122b7b1cffb5b3ec51fb6a2812c88f9fd5c"
+    },
+    {
+      "path": "数据/问题四覆盖证明/circle/复现说明.md",
+      "size": 1982,
+      "sha256": "b8192958164a6675aa26574fb1d55ba7bad47a1fd61cbfa4b3a1940993d9f7b9"
+    },
+    {
+      "path": "数据/问题四覆盖证明/latest/checks.json",
+      "size": 1925,
+      "sha256": "018992af941aec2e39ac4bcc5500aa2f361f72ba5b1ed4d15335f6113e5928fe"
+    },
+    {
+      "path": "数据/问题四覆盖证明/latest/evidence/inner660_exact.json",
+      "size": 1496784,
+      "sha256": "b6d8b7d359c3786cb9be0b34e4a760b6895b5d6328308f4483da599ad08da2a5"
+    },
+    {
+      "path": "数据/问题四覆盖证明/latest/evidence/n19_exact.json",
+      "size": 758745,
+      "sha256": "be29c0957913ea667b6c89d98a1a70f147a996ae707cc2c61e94c9a4074d9eae"
+    },
+    {
+      "path": "数据/问题四覆盖证明/latest/短说明.md",
+      "size": 5366,
+      "sha256": "705e64d27efb87205e8a4b614a5f90eff8fa08c1ebd05029bcbf1ce3abe4822f"
+    },
+    {
+      "path": "数据/问题四覆盖证明/q4_site_bounds_check.json",
+      "size": 1229,
+      "sha256": "3edef7e7a031d24203b57fd0d2fa543b084d76a630f30a876b80a77b163995b7"
+    },
+    {
+      "path": "数据/问题四覆盖证明/Q4固定发现布局的点数界.md",
+      "size": 6022,
+      "sha256": "471933c3668b9c8d973c237930dcd0e5226eb58942f4c1384095e432e2dba0bb"
+    },
+    {
+      "path": "环境依赖.txt",
+      "size": 45,
+      "sha256": "9e12d8381032a88603663fe5fffa6dd5c67b94cffaa602be4ad621b515194367"
+    },
+    {
+      "path": "问题一_多测点示例与退化检验.py",
+      "size": 11766,
+      "sha256": "f98fe4c313d984fa743298c6d06c93ecec99e86612cd21a7337048252da914d7"
+    },
+    {
+      "path": "问题一_定位区域与包围圆.py",
+      "size": 8087,
+      "sha256": "601b4c0daeb961b83eb7de6c65674258a5a270bc2c12b620419e7743609d31a5"
+    },
+    {
+      "path": "问题一至四_几何示意图绘制.py",
+      "size": 17041,
+      "sha256": "eef81fe9dcd75e3f6db1633d0bd82a29e9b144954a040984f5c74973ecded680"
+    },
+    {
+      "path": "问题一至四_实验结果图绘制.py",
+      "size": 15499,
+      "sha256": "dea1f8fd5a2d438e3924daf30e335f41ac439870b752334d13115dfeb3e4802e"
+    },
+    {
+      "path": "问题一至四_统一复现.py",
+      "size": 11207,
+      "sha256": "30c29b34470792905bd96665b534048e785b4f0f562553c99131f9fbd382dcac"
+    },
+    {
+      "path": "问题三_七八九点巡检对比.py",
+      "size": 11137,
+      "sha256": "8cf65df0833908b9247c23228cd1d914930edd34565d23b60a3c238185c9df0d"
+    },
+    {
+      "path": "问题三_主动测点选择.py",
+      "size": 6413,
+      "sha256": "39940c9d5cde3f5c8dc7adcba7f335f505fabf551746346a1294322b62f7227b"
+    },
+    {
+      "path": "问题三_全向扇形约束.py",
+      "size": 4975,
+      "sha256": "300537235530405a455843315ec51c1af24eb125f71925ce9c2c6226bbcc07ba"
+    },
+    {
+      "path": "问题三_阴性观测几何核验.py",
+      "size": 10677,
+      "sha256": "641418e56ac5b5c7321fcd94b6e59dd4e5f02b394ba90a2fccba28134333d415"
+    },
+    {
+      "path": "问题三_阴性观测收缩.py",
+      "size": 7956,
+      "sha256": "e7b24a6e84ea92631d8f301f20b1b4a3b041200d5625cd77270fe327e0feec34"
+    },
+    {
+      "path": "问题三四_交互模拟终端.py",
+      "size": 20584,
+      "sha256": "32b113212c7fe2362bd5270b7446ff5ad0dc9dd703718ef5c6e388361d38d2dd"
+    },
+    {
+      "path": "问题三四_信息调度基线.py",
+      "size": 14077,
+      "sha256": "a71cdfcb856083a5ff6cfed6efed39a5d003c334e835e0390f349cd07a91023f"
+    },
+    {
+      "path": "问题三四_信息费用调度.py",
+      "size": 6860,
+      "sha256": "59d546d33059e0285cbcdaaf1e9920efa694eece3126d2e5e3250ee28ff7ffa0"
+    },
+    {
+      "path": "问题三四_候选区域概率计算.py",
+      "size": 6785,
+      "sha256": "6ab1bb7d751e2e50bf9478dc3aaf6b5b14372de8a4a43083a64bb6f1bf5a2ba1"
+    },
+    {
+      "path": "问题三四_光学清除覆盖.py",
+      "size": 6742,
+      "sha256": "4295050dca10edfec50d50fc1b868432e47e4b7b9938e36b753fe1308fed4fba"
+    },
+    {
+      "path": "问题三四_光学试清位置选择.py",
+      "size": 7445,
+      "sha256": "4d4155caa769d3df4e4902ad2cca64b13902f59942812b149e5f387902de5736"
+    },
+    {
+      "path": "问题三四_全范围几何核验.py",
+      "size": 8543,
+      "sha256": "bbd1e9a8c88f79e9f8e68ea303b2783bc0d253a61b78c76c6cda64e777b45458"
+    },
+    {
+      "path": "问题三四_关键机制消融.py",
+      "size": 7221,
+      "sha256": "2a4e16216bf5196497b21eba1b32e43c46a5ebba249827df57c75eb0cffb5ede"
+    },
+    {
+      "path": "问题三四_几何求解基线.py",
+      "size": 18427,
+      "sha256": "b60f068b0145981e26879736246c5d39ddef975ca433d4cff964240d615bf489"
+    },
+    {
+      "path": "问题三四_动作接口协议.py",
+      "size": 8560,
+      "sha256": "fd04cde836cfb8859bafd64d1bf545b6b801c865de44c388b1fd147b7b93af7a"
+    },
+    {
+      "path": "问题三四_动作费用核算.py",
+      "size": 9035,
+      "sha256": "db0fb65bc8b4e5358659b510cb753ae9af499b3bbe7b186eb417ae0d0b484430"
+    },
+    {
+      "path": "问题三四_动作轨迹独立核验.py",
+      "size": 42026,
+      "sha256": "4348ae750ff31266730a4a7f29efe141ed8b1ac7adc80d845671686a06e43c0e"
+    },
+    {
+      "path": "问题三四_参数敏感性检验.py",
+      "size": 7396,
+      "sha256": "3bfb6693a6ff378215324837fde144d12299a61dc20a8151720da28b4042879f"
+    },
+    {
+      "path": "问题三四_同场策略比较.py",
+      "size": 7997,
+      "sha256": "137af7e7f68ab9d3ff27834cf462f4acb212810638e0129833527aceac084dd5"
+    },
+    {
+      "path": "问题三四_困难场景严格重放.py",
+      "size": 2124,
+      "sha256": "0f19db1cc9244f8097becccd20d94f92713a16bab51cba0ff4c5f6e98fa92483"
+    },
+    {
+      "path": "问题三四_场景求解与核验.py",
+      "size": 12238,
+      "sha256": "943481d24cc181d78521057665025fa247d309046456d3cd3072e8ec3eb7e82d"
+    },
+    {
+      "path": "问题三四_基础参数读取.py",
+      "size": 915,
+      "sha256": "b759abb3ddecf6e43fc955b223b5020c6722fb62460e71acb7e89ce2387fa5c4"
+    },
+    {
+      "path": "问题三四_安全定位候选.py",
+      "size": 3264,
+      "sha256": "53f07a9f89d7e74217e7ae63c7d74f801fe1a0facd16d9acb341da4d22be021b"
+    },
+    {
+      "path": "问题三四_完整费用选点.py",
+      "size": 7399,
+      "sha256": "60e525c172166a5e293512d44b9a2a0bc823e85ecb67e0a5a6dbf766b9598b9a"
+    },
+    {
+      "path": "问题三四_官方模拟器连接.py",
+      "size": 13510,
+      "sha256": "391a66c19fb4d30634b010d0bd093c336add48b1d9430794e883bfc689ef6ad0"
+    },
+    {
+      "path": "问题三四_局部候选测点评估.py",
+      "size": 6194,
+      "sha256": "76a648d91105d693e8dc4fc0da69cf051990e4cddcf8b7435c4abd2f95bcd141"
+    },
+    {
+      "path": "问题三四_巡检点与路线生成.py",
+      "size": 2976,
+      "sha256": "f842640ff2b1838ee1fbc9ba9ee361ca29469cf1f80fa4c06369cb864456ee9b"
+    },
+    {
+      "path": "问题三四_开放巡检路线优化.py",
+      "size": 3131,
+      "sha256": "dbf76c3a4b5b527619f72b1497d0ea37c2a5e8fa6c7f08c2ddea341e44930da4"
+    },
+    {
+      "path": "问题三四_搜索定位清除框架.py",
+      "size": 15712,
+      "sha256": "b56c7cb8e8555d4e0527e5b5a417182d3959774c23ac87c765ea3c3e2885c765"
+    },
+    {
+      "path": "问题三四_模型加载.py",
+      "size": 1807,
+      "sha256": "826c1f56f21d50af9b9cbfe99421686531bf76973a3a5095f03784a9a6575895"
+    },
+    {
+      "path": "问题三四_模拟与单局回放进程.py",
+      "size": 20990,
+      "sha256": "603d5fcc43c9723d82daaf0fc47f6dd1e25443b4fc06eae33051b5bb161bb275"
+    },
+    {
+      "path": "问题三四_模拟终端界面.html",
+      "size": 34321,
+      "sha256": "e430e5e011182b2ec7d068ea816173deb7c923de3182384501940a2c2f17d6ef"
+    },
+    {
+      "path": "问题三四_正式算法与参数入口.py",
+      "size": 3610,
+      "sha256": "69cbfc1f7581ecd5c7506dcf72bd6659ba237041802ac065a7c186c78e3d3794"
+    },
+    {
+      "path": "问题三四_测向动作选择.py",
+      "size": 1531,
+      "sha256": "6b115b105b5d60f514a704167b9d2860e41ea7984746332e12083343ac683f8f"
+    },
+    {
+      "path": "问题三四_测点与清除规则.py",
+      "size": 11434,
+      "sha256": "824bceb178bccffcfda57748e3b543d8325ed77967f8556451339c16b732eb8e"
+    },
+    {
+      "path": "问题三四_消融策略.py",
+      "size": 1668,
+      "sha256": "0ccfe612429ee98ceb2cb4228d9245571109fadafb268a9b14e8393c7722e732"
+    },
+    {
+      "path": "问题三四_消融记录独立核验.py",
+      "size": 7054,
+      "sha256": "2348a72432943e0ce4a88d4c02d4c5d4efcbc54350403d9aa27f7d43fac36d85"
+    },
+    {
+      "path": "问题三四_物理约束调度.py",
+      "size": 2037,
+      "sha256": "de21620bd152cd1d5d45e412075c6a4db82a34c9aada0d2f5454e9491001b82c"
+    },
+    {
+      "path": "问题三四_离线物理模拟.py",
+      "size": 9012,
+      "sha256": "78f9a38fdd08b78c05ad857c812019e3c3436a63d923cea60a11c7a702717835"
+    },
+    {
+      "path": "问题三四_论文统计汇总.py",
+      "size": 4699,
+      "sha256": "6a6b92813aedd0e7247828d1510680a35d07a4a3751cfaf32453367353fec91e"
+    },
+    {
+      "path": "问题三四_费用驱动候选求解.py",
+      "size": 437,
+      "sha256": "32e4de089825556bb9a0028dd4e53872ca57c6dd63e6daaec8f777069297ec24"
+    },
+    {
+      "path": "问题三四_边界场景构造.py",
+      "size": 2012,
+      "sha256": "4187e71d8fb7f217a06c63d148668a886392b8aff28e323521a47b2829e81617"
+    },
+    {
+      "path": "问题三四_连续覆盖构造.py",
+      "size": 11532,
+      "sha256": "3418bb4c6f9ec1c31cd81a770e4a69048b47207d8c3129d918bb84d955c0177e"
+    },
+    {
+      "path": "问题二_安全第二测点.py",
+      "size": 2836,
+      "sha256": "31fe84e958b57e86079d45a096d3c0c1a3dddc370541ddd2c3d0671626a92f18"
+    },
+    {
+      "path": "问题二_定位直径上下界.py",
+      "size": 4422,
+      "sha256": "ebdf1bfd09ce592d7cc29e3fb13ee840c158b22c98a35f8b1e6ba567af0cbb71"
+    },
+    {
+      "path": "问题四_三角网格覆盖.py",
+      "size": 1991,
+      "sha256": "7692128294dc5a2d2cfc073dbd40c640e754e9852600c6165a2988e33caf8ecd"
+    },
+    {
+      "path": "问题四_二十七点与二十一点对比.py",
+      "size": 1566,
+      "sha256": "a96ee6f90f1dd8648e49667bcb419efa4ec99acb2af2468060fc6ad45f713bbf"
+    },
+    {
+      "path": "问题四_切向退步案例分析.py",
+      "size": 5195,
+      "sha256": "90ea95857ccfd80853821edbdf865cca2c77cd3c5d8e5e8779e2c9d608a7d528"
+    },
+    {
+      "path": "问题四_十九点下界与内站核验.py",
+      "size": 10513,
+      "sha256": "13e6cd86f77d0ae387b3f7090b566a93950d61430b5bb3a9d466409bdd654c51"
+    },
+    {
+      "path": "问题四_圆周覆盖证书核验.py",
+      "size": 11976,
+      "sha256": "90136c3a49fddc6173e9dbc25948026cea3db5a6c5c229541d84ab0cd87ad595"
+    },
+    {
+      "path": "问题四_基础点数界核验.py",
+      "size": 7688,
+      "sha256": "97363067d32777ba0ef04fc95d6ddc42a4f826438b63c4c2a34416eaaf2f60bd"
+    },
+    {
+      "path": "问题四_途中信息收益求解.py",
+      "size": 2275,
+      "sha256": "51853365e157e327f15f2d5a67bdc429a2819e580278bf958ce6475b8f54917e"
+    },
+    {
+      "path": "问题四_阴影区域包含核验.py",
+      "size": 2029,
+      "sha256": "9337489ca1f636a11c1a59eea14f0baa7ab37d1b224e14dc569f82b990734daa"
+    }
+  ]
+}

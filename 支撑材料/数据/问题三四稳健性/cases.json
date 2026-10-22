@@ -1,0 +1,2144 @@
+[
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n10-00",
+    "problem": "q3",
+    "seed": 202609121000,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 10,
+        "x_m": -1047.9288979749144,
+        "y_m": -452.4411848419365,
+        "reception_radius_m": 1457.5377460811928,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 1,
+        "x_m": -211.54403704462717,
+        "y_m": -79.81054626370461,
+        "reception_radius_m": 1109.8198391324877,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 12,
+        "x_m": -514.7669836725009,
+        "y_m": 1020.9174059256806,
+        "reception_radius_m": 1381.7672834537868,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 9,
+        "x_m": 1053.355639112121,
+        "y_m": 298.64197869493256,
+        "reception_radius_m": 1052.6808994215244,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 17,
+        "x_m": 1277.3678366560403,
+        "y_m": -410.4323177387831,
+        "reception_radius_m": 1436.3969480023145,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 2,
+        "x_m": -483.73583718449066,
+        "y_m": 69.5246330381097,
+        "reception_radius_m": 1188.9126024701893,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 19,
+        "x_m": -683.3597371748066,
+        "y_m": 321.29528559997385,
+        "reception_radius_m": 1101.8002587890373,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 18,
+        "x_m": 331.136359224407,
+        "y_m": -401.28684532536414,
+        "reception_radius_m": 1276.9286446658468,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 8,
+        "x_m": 752.5659115289558,
+        "y_m": 557.6711467776621,
+        "reception_radius_m": 1383.0371006190808,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 6,
+        "x_m": -605.0789783453648,
+        "y_m": -1152.2266245761934,
+        "reception_radius_m": 1456.1547553845317,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121000
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n11-00",
+    "problem": "q3",
+    "seed": 202609121100,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 14,
+        "x_m": -1063.1755890497059,
+        "y_m": 466.5134102838194,
+        "reception_radius_m": 1200.973481029982,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 1,
+        "x_m": -169.1501549215392,
+        "y_m": -1120.2134409793796,
+        "reception_radius_m": 1389.2572914640366,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 11,
+        "x_m": -276.7872189301038,
+        "y_m": 1322.727950406286,
+        "reception_radius_m": 1059.9962747164532,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 6,
+        "x_m": 16.52845959152247,
+        "y_m": 552.0407392031632,
+        "reception_radius_m": 1489.016338342748,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 4,
+        "x_m": 373.8196408526374,
+        "y_m": -1407.633869652387,
+        "reception_radius_m": 1326.1824125396577,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 9,
+        "x_m": -225.44799693412952,
+        "y_m": 1558.4533490065746,
+        "reception_radius_m": 1159.176525995758,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 5,
+        "x_m": -941.205114312913,
+        "y_m": -1326.7727697154353,
+        "reception_radius_m": 1020.9883141670463,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 15,
+        "x_m": -891.0285684395475,
+        "y_m": 482.9653860703234,
+        "reception_radius_m": 1213.4405799713902,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 10,
+        "x_m": 1305.9395716297468,
+        "y_m": 298.2711887640504,
+        "reception_radius_m": 1137.6402906377907,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 12,
+        "x_m": 1314.6675229909456,
+        "y_m": -472.2002648192394,
+        "reception_radius_m": 1265.2078742885485,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 20,
+        "x_m": 304.4610587168858,
+        "y_m": -1454.8963762289516,
+        "reception_radius_m": 1390.5097825404468,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121100
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n12-00",
+    "problem": "q3",
+    "seed": 202609121200,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 4,
+        "x_m": 607.8322171389044,
+        "y_m": -1295.129147402407,
+        "reception_radius_m": 1304.6538437325403,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 10,
+        "x_m": -1663.3692377393993,
+        "y_m": 158.3540911809731,
+        "reception_radius_m": 1229.7471889567503,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 5,
+        "x_m": -977.9037027225105,
+        "y_m": 1077.0625004465317,
+        "reception_radius_m": 1203.322394442546,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 8,
+        "x_m": -52.97550795560402,
+        "y_m": 1353.5663134105544,
+        "reception_radius_m": 1296.3894302621904,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 16,
+        "x_m": 1523.032373277305,
+        "y_m": -778.4934204610576,
+        "reception_radius_m": 1438.8756890545008,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 19,
+        "x_m": -293.8974625483362,
+        "y_m": -102.43460201849749,
+        "reception_radius_m": 1238.8648810028596,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 15,
+        "x_m": -176.47232383685082,
+        "y_m": 1138.0612695516872,
+        "reception_radius_m": 1175.9492807942074,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 20,
+        "x_m": -1601.4713528291436,
+        "y_m": -89.76811927445327,
+        "reception_radius_m": 1099.3568148038203,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 14,
+        "x_m": 1499.9293399705093,
+        "y_m": -709.5683200424173,
+        "reception_radius_m": 1240.2414866603492,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 7,
+        "x_m": -346.49059132122227,
+        "y_m": -1538.278735011506,
+        "reception_radius_m": 1055.53338115571,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 6,
+        "x_m": -59.163700837902745,
+        "y_m": -1318.4200355474952,
+        "reception_radius_m": 1053.9520590586087,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 9,
+        "x_m": 1077.1559067739108,
+        "y_m": 1311.2743487549126,
+        "reception_radius_m": 1027.935141238894,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121200
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n13-00",
+    "problem": "q3",
+    "seed": 202609121300,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 15,
+        "x_m": 728.404186315622,
+        "y_m": 469.19169301171604,
+        "reception_radius_m": 1093.6058210925846,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 20,
+        "x_m": -1356.8321448662957,
+        "y_m": 126.11479157106946,
+        "reception_radius_m": 1426.620941458362,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 14,
+        "x_m": 224.33305767956625,
+        "y_m": -1116.8965855004858,
+        "reception_radius_m": 1454.698758060605,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 8,
+        "x_m": -929.414917707209,
+        "y_m": 26.134697549637046,
+        "reception_radius_m": 1138.122346041834,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 16,
+        "x_m": -591.7909798279554,
+        "y_m": 893.3441692556358,
+        "reception_radius_m": 1117.566696065581,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 1,
+        "x_m": -49.66011430873393,
+        "y_m": 1162.4426626734344,
+        "reception_radius_m": 1001.1245405816785,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 17,
+        "x_m": -212.9884994068555,
+        "y_m": 1723.162784516776,
+        "reception_radius_m": 1170.9944473016308,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 13,
+        "x_m": 155.23871449199285,
+        "y_m": -805.171247446092,
+        "reception_radius_m": 1249.769896628586,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 11,
+        "x_m": -409.07678719760304,
+        "y_m": -374.8758819227201,
+        "reception_radius_m": 1253.4382310668427,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 9,
+        "x_m": -647.314990309464,
+        "y_m": -565.5433005691767,
+        "reception_radius_m": 1009.0112356714199,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 18,
+        "x_m": 328.11780052162544,
+        "y_m": 1387.2695325347786,
+        "reception_radius_m": 1420.6866608182836,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 7,
+        "x_m": -90.04854681013465,
+        "y_m": 1761.5724249323644,
+        "reception_radius_m": 1368.1724792694276,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-12",
+        "channel": 12,
+        "x_m": -1143.5667705416733,
+        "y_m": 970.3878908690863,
+        "reception_radius_m": 1302.3511912141826,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121300
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n14-00",
+    "problem": "q3",
+    "seed": 202609121400,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 15,
+        "x_m": -295.57574061968717,
+        "y_m": -947.821998342702,
+        "reception_radius_m": 1297.6670087780617,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 4,
+        "x_m": 561.1888080153118,
+        "y_m": -1537.7811445145737,
+        "reception_radius_m": 1272.46519383929,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 10,
+        "x_m": 609.3354451146065,
+        "y_m": -1066.0831172104192,
+        "reception_radius_m": 1467.5388588691094,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 6,
+        "x_m": 1025.7034788406777,
+        "y_m": 1155.0441102098255,
+        "reception_radius_m": 1125.018359120607,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 7,
+        "x_m": 691.3084398371768,
+        "y_m": -174.2210926548014,
+        "reception_radius_m": 1055.802048217635,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 20,
+        "x_m": -656.9234807492153,
+        "y_m": 874.7434027381543,
+        "reception_radius_m": 1308.5221155058118,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 2,
+        "x_m": -918.5029865868869,
+        "y_m": 830.137300831481,
+        "reception_radius_m": 1370.9698459464764,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 5,
+        "x_m": -1638.60526062597,
+        "y_m": -86.7001992003054,
+        "reception_radius_m": 1221.7486389965557,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 19,
+        "x_m": 1013.1126431450939,
+        "y_m": 75.18193315451532,
+        "reception_radius_m": 1491.3210957994008,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 3,
+        "x_m": -873.9930486130255,
+        "y_m": 332.11494304382353,
+        "reception_radius_m": 1176.5914851629286,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 9,
+        "x_m": -909.585819100991,
+        "y_m": 1343.7407786058411,
+        "reception_radius_m": 1188.7821484063056,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 1,
+        "x_m": 1707.03557452946,
+        "y_m": -461.3257934151203,
+        "reception_radius_m": 1112.411321217456,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-12",
+        "channel": 17,
+        "x_m": -729.4215430370973,
+        "y_m": -1274.500452555932,
+        "reception_radius_m": 1015.9727519568077,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-13",
+        "channel": 8,
+        "x_m": -373.7975910155851,
+        "y_m": 244.63079412387103,
+        "reception_radius_m": 1306.534351555253,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121400
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n15-00",
+    "problem": "q3",
+    "seed": 202609121500,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 19,
+        "x_m": 784.95842723802,
+        "y_m": 330.37918993541706,
+        "reception_radius_m": 1104.8532203957795,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 12,
+        "x_m": -1083.7455515247825,
+        "y_m": 622.1426135963866,
+        "reception_radius_m": 1392.2081069841302,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 6,
+        "x_m": 434.929777792095,
+        "y_m": 1255.0170977775058,
+        "reception_radius_m": 1026.9068536158895,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 8,
+        "x_m": -1666.3780365163454,
+        "y_m": 239.73944240710298,
+        "reception_radius_m": 1319.9251141429665,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 1,
+        "x_m": -523.1660457011235,
+        "y_m": -1338.651353800432,
+        "reception_radius_m": 1460.9232430345953,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 18,
+        "x_m": 135.79464876307355,
+        "y_m": 1257.9808461385371,
+        "reception_radius_m": 1096.6392526699292,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 5,
+        "x_m": 930.1973004085824,
+        "y_m": 214.7131100552541,
+        "reception_radius_m": 1110.3921518188452,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 4,
+        "x_m": 37.779936541225695,
+        "y_m": -732.6346904299736,
+        "reception_radius_m": 1345.3684038918768,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 9,
+        "x_m": 80.56547592953791,
+        "y_m": -1457.7096480115185,
+        "reception_radius_m": 1498.1446918304896,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 17,
+        "x_m": 218.14255886786054,
+        "y_m": -368.0594502905457,
+        "reception_radius_m": 1293.9794349730978,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 3,
+        "x_m": -899.8300578978973,
+        "y_m": 1143.6132619669215,
+        "reception_radius_m": 1173.5774539740896,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 7,
+        "x_m": -247.1661674812945,
+        "y_m": 657.5724959351696,
+        "reception_radius_m": 1337.418306832411,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-12",
+        "channel": 16,
+        "x_m": 1076.8757393294518,
+        "y_m": -53.93088715579019,
+        "reception_radius_m": 1261.0639243928968,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-13",
+        "channel": 20,
+        "x_m": -1571.0713896116058,
+        "y_m": 5.3259517061964115,
+        "reception_radius_m": 1063.8179007312795,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-14",
+        "channel": 13,
+        "x_m": 157.77568020519027,
+        "y_m": 256.48124150750374,
+        "reception_radius_m": 1343.4762757659296,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121500
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q3-n16-00",
+    "problem": "q3",
+    "seed": 202609121600,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 13,
+        "x_m": -1026.1383641875088,
+        "y_m": 1248.7475489071103,
+        "reception_radius_m": 1204.1103373750561,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 12,
+        "x_m": 10.113899592430844,
+        "y_m": 821.1516093836877,
+        "reception_radius_m": 1347.3767950622985,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 10,
+        "x_m": -1256.7099574502467,
+        "y_m": 170.51462171851267,
+        "reception_radius_m": 1455.8684894602018,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 6,
+        "x_m": -413.9087891241879,
+        "y_m": 9.175664195957498,
+        "reception_radius_m": 1460.2070753480145,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 19,
+        "x_m": -313.2616868538097,
+        "y_m": -1743.256961821395,
+        "reception_radius_m": 1192.2590282084134,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 8,
+        "x_m": -571.9099995691734,
+        "y_m": 1145.1403248883219,
+        "reception_radius_m": 1308.147915700957,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 20,
+        "x_m": -29.058476222625234,
+        "y_m": -98.92042623776392,
+        "reception_radius_m": 1089.0390980468137,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 15,
+        "x_m": -669.2686199491272,
+        "y_m": 1261.007471001366,
+        "reception_radius_m": 1267.7011035754756,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 17,
+        "x_m": -491.44378951107757,
+        "y_m": 1604.715707131433,
+        "reception_radius_m": 1182.9877320972264,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 2,
+        "x_m": 935.7737910138081,
+        "y_m": -1275.7764613641339,
+        "reception_radius_m": 1188.3422308791905,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 14,
+        "x_m": -383.43275816529655,
+        "y_m": -704.8889847809145,
+        "reception_radius_m": 1116.8793234534032,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 16,
+        "x_m": -141.76395434004925,
+        "y_m": -1468.2862279410033,
+        "reception_radius_m": 1314.0045166286156,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-12",
+        "channel": 7,
+        "x_m": -1562.4124274323297,
+        "y_m": 98.87960156282898,
+        "reception_radius_m": 1222.5848832754637,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-13",
+        "channel": 9,
+        "x_m": -610.0751034982708,
+        "y_m": -1485.3905604300446,
+        "reception_radius_m": 1210.9735786765768,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-14",
+        "channel": 18,
+        "x_m": 516.9703549346043,
+        "y_m": -1129.7036461660794,
+        "reception_radius_m": 1223.57230316499,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-15",
+        "channel": 4,
+        "x_m": -1233.6842168387068,
+        "y_m": -140.63061258579577,
+        "reception_radius_m": 1287.6449217769014,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615121600
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n10-00",
+    "problem": "q4",
+    "seed": 202609131000,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 19,
+        "x_m": 472.1419606736514,
+        "y_m": 1264.698917523985,
+        "reception_radius_m": 1255.225603109716,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 10,
+        "x_m": 414.40576894171215,
+        "y_m": 145.3325469218396,
+        "reception_radius_m": 1085.1415754923823,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 14,
+        "x_m": -301.79977891005393,
+        "y_m": 945.9966093038645,
+        "reception_radius_m": 1314.545470272351,
+        "orientation_deg": 152.61376354414654
+      },
+      {
+        "id": "source-3",
+        "channel": 15,
+        "x_m": -1394.012454910977,
+        "y_m": 248.16465543709103,
+        "reception_radius_m": 1433.0715841560311,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 3,
+        "x_m": -563.6471772083087,
+        "y_m": -18.649326255410035,
+        "reception_radius_m": 1299.4424977986034,
+        "orientation_deg": 76.8942192778022
+      },
+      {
+        "id": "source-5",
+        "channel": 12,
+        "x_m": -1388.4408756194775,
+        "y_m": -856.6136255803046,
+        "reception_radius_m": 1473.734774316235,
+        "orientation_deg": 177.03402440214822
+      },
+      {
+        "id": "source-6",
+        "channel": 2,
+        "x_m": 1390.0299405062965,
+        "y_m": -258.5741100805406,
+        "reception_radius_m": 1176.8900435245007,
+        "orientation_deg": 211.80120457583294
+      },
+      {
+        "id": "source-7",
+        "channel": 9,
+        "x_m": 1290.1735055257043,
+        "y_m": 556.3834600276884,
+        "reception_radius_m": 1460.5905300464237,
+        "orientation_deg": 71.79542875432324
+      },
+      {
+        "id": "source-8",
+        "channel": 6,
+        "x_m": 641.1939733426068,
+        "y_m": 1235.3843808994916,
+        "reception_radius_m": 1272.598293576105,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 7,
+        "x_m": -711.3312237098723,
+        "y_m": 70.49089223941728,
+        "reception_radius_m": 1150.672004135105,
+        "orientation_deg": 349.6887530281159
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131000
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n11-00",
+    "problem": "q4",
+    "seed": 202609131100,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 2,
+        "x_m": -432.73766219566085,
+        "y_m": -385.55471808136446,
+        "reception_radius_m": 1119.0118809881305,
+        "orientation_deg": 298.85355913530145
+      },
+      {
+        "id": "source-1",
+        "channel": 16,
+        "x_m": 1108.6520079451143,
+        "y_m": -898.506119274227,
+        "reception_radius_m": 1300.2848408363946,
+        "orientation_deg": 265.851464858206
+      },
+      {
+        "id": "source-2",
+        "channel": 13,
+        "x_m": 661.3355415759796,
+        "y_m": 759.5380571108036,
+        "reception_radius_m": 1069.1073968232336,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 17,
+        "x_m": -1593.4347815675203,
+        "y_m": -558.8850885131172,
+        "reception_radius_m": 1114.2180550254488,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 5,
+        "x_m": -695.2469846772267,
+        "y_m": 408.6874612422476,
+        "reception_radius_m": 1467.4587921632856,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 20,
+        "x_m": 969.7228431972723,
+        "y_m": -1251.7435149273122,
+        "reception_radius_m": 1344.9413207277446,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 9,
+        "x_m": 392.38232998521204,
+        "y_m": -1748.0056352353856,
+        "reception_radius_m": 1201.5834909776281,
+        "orientation_deg": 270.4227603276732
+      },
+      {
+        "id": "source-7",
+        "channel": 11,
+        "x_m": 210.86093718096714,
+        "y_m": -1619.274724110036,
+        "reception_radius_m": 1305.792796235665,
+        "orientation_deg": 355.41460798369917
+      },
+      {
+        "id": "source-8",
+        "channel": 3,
+        "x_m": 34.58149317030375,
+        "y_m": -945.6280366937108,
+        "reception_radius_m": 1271.022558135253,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 18,
+        "x_m": -1770.088086888916,
+        "y_m": 306.94382236707827,
+        "reception_radius_m": 1018.782696570013,
+        "orientation_deg": 23.075509760831356
+      },
+      {
+        "id": "source-10",
+        "channel": 10,
+        "x_m": -574.2697842395538,
+        "y_m": -1142.931163126087,
+        "reception_radius_m": 1199.5300426434274,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131100
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n12-00",
+    "problem": "q4",
+    "seed": 202609131200,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 11,
+        "x_m": -1444.0653256907458,
+        "y_m": 328.04905114397667,
+        "reception_radius_m": 1169.6813736447198,
+        "orientation_deg": 3.0679735282420095
+      },
+      {
+        "id": "source-1",
+        "channel": 6,
+        "x_m": 1166.7909581331571,
+        "y_m": 1185.4675636902855,
+        "reception_radius_m": 1329.0544037846987,
+        "orientation_deg": 359.1907852453724
+      },
+      {
+        "id": "source-2",
+        "channel": 9,
+        "x_m": 1218.278103658507,
+        "y_m": -173.19341320939458,
+        "reception_radius_m": 1170.202238121997,
+        "orientation_deg": 30.10294980957891
+      },
+      {
+        "id": "source-3",
+        "channel": 13,
+        "x_m": -1058.7529234161345,
+        "y_m": -7.336825468563709,
+        "reception_radius_m": 1280.5899369895667,
+        "orientation_deg": 207.7612217631465
+      },
+      {
+        "id": "source-4",
+        "channel": 7,
+        "x_m": -1379.9107375209226,
+        "y_m": -1045.4652520036066,
+        "reception_radius_m": 1436.7927572688775,
+        "orientation_deg": 292.4906455490189
+      },
+      {
+        "id": "source-5",
+        "channel": 3,
+        "x_m": 1511.1748726129845,
+        "y_m": 305.33163124284107,
+        "reception_radius_m": 1187.389285560354,
+        "orientation_deg": 358.90579120855665
+      },
+      {
+        "id": "source-6",
+        "channel": 5,
+        "x_m": -1643.8624110781602,
+        "y_m": -56.74914990812302,
+        "reception_radius_m": 1130.8215975804833,
+        "orientation_deg": 299.90310388832006
+      },
+      {
+        "id": "source-7",
+        "channel": 2,
+        "x_m": 26.42145335968075,
+        "y_m": -757.2713552904016,
+        "reception_radius_m": 1052.0933107095138,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 15,
+        "x_m": -223.46431018965708,
+        "y_m": 604.7029456120353,
+        "reception_radius_m": 1150.3090459690743,
+        "orientation_deg": 136.30770195408167
+      },
+      {
+        "id": "source-9",
+        "channel": 17,
+        "x_m": 419.59559262001835,
+        "y_m": 556.9624641145906,
+        "reception_radius_m": 1096.4086193641215,
+        "orientation_deg": 158.07422007648296
+      },
+      {
+        "id": "source-10",
+        "channel": 12,
+        "x_m": 628.6362058063934,
+        "y_m": -459.31456352923925,
+        "reception_radius_m": 1422.9911167860396,
+        "orientation_deg": 97.95865592615904
+      },
+      {
+        "id": "source-11",
+        "channel": 16,
+        "x_m": -278.1531920411102,
+        "y_m": 435.8214307279024,
+        "reception_radius_m": 1238.6122299965448,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131200
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n13-00",
+    "problem": "q4",
+    "seed": 202609131300,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 6,
+        "x_m": -565.4306181938953,
+        "y_m": 877.6312268757433,
+        "reception_radius_m": 1026.0282448523235,
+        "orientation_deg": 145.7285879887957
+      },
+      {
+        "id": "source-1",
+        "channel": 7,
+        "x_m": -24.17834227542548,
+        "y_m": 380.7276064011913,
+        "reception_radius_m": 1150.3167304395047,
+        "orientation_deg": 210.07693578909286
+      },
+      {
+        "id": "source-2",
+        "channel": 19,
+        "x_m": -84.25340463281822,
+        "y_m": 157.3717535122207,
+        "reception_radius_m": 1242.3894435824363,
+        "orientation_deg": 271.0143729076429
+      },
+      {
+        "id": "source-3",
+        "channel": 9,
+        "x_m": -411.87607876856674,
+        "y_m": -1706.7215721409846,
+        "reception_radius_m": 1252.8046284414595,
+        "orientation_deg": 353.85807492746875
+      },
+      {
+        "id": "source-4",
+        "channel": 10,
+        "x_m": -470.8662452371899,
+        "y_m": -436.4751890492947,
+        "reception_radius_m": 1413.7282875804895,
+        "orientation_deg": 248.60524226540946
+      },
+      {
+        "id": "source-5",
+        "channel": 14,
+        "x_m": 977.8123430645614,
+        "y_m": 879.3795730019464,
+        "reception_radius_m": 1192.5302171771662,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 11,
+        "x_m": 1312.0998877360469,
+        "y_m": 379.0900958343856,
+        "reception_radius_m": 1145.3121313113732,
+        "orientation_deg": 259.4263749175871
+      },
+      {
+        "id": "source-7",
+        "channel": 8,
+        "x_m": 1046.7731596172582,
+        "y_m": 1311.625748132293,
+        "reception_radius_m": 1265.2217389939556,
+        "orientation_deg": 331.76625610851926
+      },
+      {
+        "id": "source-8",
+        "channel": 16,
+        "x_m": -912.9200848060673,
+        "y_m": 638.633995580759,
+        "reception_radius_m": 1424.3540070067909,
+        "orientation_deg": 74.84754185702802
+      },
+      {
+        "id": "source-9",
+        "channel": 2,
+        "x_m": -1151.3925272051665,
+        "y_m": 599.3194654325246,
+        "reception_radius_m": 1463.3047831075053,
+        "orientation_deg": 27.847563947501357
+      },
+      {
+        "id": "source-10",
+        "channel": 18,
+        "x_m": 1662.832327474083,
+        "y_m": 8.964086313435155,
+        "reception_radius_m": 1059.2510596201212,
+        "orientation_deg": 339.2696783216778
+      },
+      {
+        "id": "source-11",
+        "channel": 5,
+        "x_m": -836.5984942253425,
+        "y_m": -1536.2522494764944,
+        "reception_radius_m": 1436.287486877509,
+        "orientation_deg": 301.02646028390177
+      },
+      {
+        "id": "source-12",
+        "channel": 1,
+        "x_m": -816.0535473368208,
+        "y_m": -732.2705089953912,
+        "reception_radius_m": 1264.093082742921,
+        "orientation_deg": 147.26919682387933
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131300
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n14-00",
+    "problem": "q4",
+    "seed": 202609131400,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 2,
+        "x_m": -1601.5720858884486,
+        "y_m": -659.163228160346,
+        "reception_radius_m": 1421.5089851039188,
+        "orientation_deg": 66.96087605583757
+      },
+      {
+        "id": "source-1",
+        "channel": 5,
+        "x_m": -382.37372410731956,
+        "y_m": -471.976641361333,
+        "reception_radius_m": 1263.5749109511632,
+        "orientation_deg": 56.98203796251289
+      },
+      {
+        "id": "source-2",
+        "channel": 15,
+        "x_m": 988.8403972993926,
+        "y_m": 877.891993889747,
+        "reception_radius_m": 1080.6697880932295,
+        "orientation_deg": 278.9867304656956
+      },
+      {
+        "id": "source-3",
+        "channel": 20,
+        "x_m": 642.0015918721044,
+        "y_m": 691.0529396491874,
+        "reception_radius_m": 1292.2153719666303,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 12,
+        "x_m": 948.2313100076154,
+        "y_m": -159.84390886587744,
+        "reception_radius_m": 1177.236396399868,
+        "orientation_deg": 30.84952712454735
+      },
+      {
+        "id": "source-5",
+        "channel": 7,
+        "x_m": -430.5192650404784,
+        "y_m": 974.463980358962,
+        "reception_radius_m": 1331.6506191443655,
+        "orientation_deg": 6.408081446968863
+      },
+      {
+        "id": "source-6",
+        "channel": 1,
+        "x_m": -1549.9825708861874,
+        "y_m": 660.9773589029778,
+        "reception_radius_m": 1074.6539618005843,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 17,
+        "x_m": 395.3055003671519,
+        "y_m": -505.1406798199337,
+        "reception_radius_m": 1443.3445386902536,
+        "orientation_deg": 214.77495267043025
+      },
+      {
+        "id": "source-8",
+        "channel": 3,
+        "x_m": 1356.738795856044,
+        "y_m": 593.8475854646025,
+        "reception_radius_m": 1354.4739426103265,
+        "orientation_deg": 56.08759304613785
+      },
+      {
+        "id": "source-9",
+        "channel": 16,
+        "x_m": 1231.9366810455413,
+        "y_m": 766.7835068257242,
+        "reception_radius_m": 1364.363264741396,
+        "orientation_deg": 80.01710588673717
+      },
+      {
+        "id": "source-10",
+        "channel": 6,
+        "x_m": 321.1320674517936,
+        "y_m": 1428.2977782088803,
+        "reception_radius_m": 1361.0457781052887,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 9,
+        "x_m": 902.0240077635102,
+        "y_m": -1005.0612979500326,
+        "reception_radius_m": 1465.2724306545379,
+        "orientation_deg": 10.029980131854593
+      },
+      {
+        "id": "source-12",
+        "channel": 11,
+        "x_m": 117.78702900514763,
+        "y_m": 1384.1149376709263,
+        "reception_radius_m": 1248.179925770608,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-13",
+        "channel": 4,
+        "x_m": 974.8156254373059,
+        "y_m": 302.12485133233935,
+        "reception_radius_m": 1152.5145350632772,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131400
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n15-00",
+    "problem": "q4",
+    "seed": 202609131500,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 1,
+        "x_m": 403.1960521956728,
+        "y_m": -515.4602807352899,
+        "reception_radius_m": 1180.2819937749625,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 15,
+        "x_m": 247.8805187583947,
+        "y_m": 22.99563868576054,
+        "reception_radius_m": 1448.8504266916427,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-2",
+        "channel": 4,
+        "x_m": -707.4154104437483,
+        "y_m": 1269.0903045536359,
+        "reception_radius_m": 1267.627254235374,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 18,
+        "x_m": 324.431757639918,
+        "y_m": -450.7707792882006,
+        "reception_radius_m": 1007.2983535301438,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 10,
+        "x_m": 1364.5816109827294,
+        "y_m": -634.0634610596509,
+        "reception_radius_m": 1474.608985316991,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-5",
+        "channel": 5,
+        "x_m": 1394.6760191333206,
+        "y_m": -740.6343875470429,
+        "reception_radius_m": 1052.6816734977606,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-6",
+        "channel": 3,
+        "x_m": -1182.5256913453193,
+        "y_m": -949.5387638484895,
+        "reception_radius_m": 1070.5186785207165,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-7",
+        "channel": 11,
+        "x_m": -934.6308066539043,
+        "y_m": 624.9113323446257,
+        "reception_radius_m": 1367.7250716299927,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-8",
+        "channel": 2,
+        "x_m": 900.3076900576858,
+        "y_m": 420.78074786218247,
+        "reception_radius_m": 1027.099538502881,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 20,
+        "x_m": 111.2408126032689,
+        "y_m": -855.5305267220668,
+        "reception_radius_m": 1084.0260971618159,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 9,
+        "x_m": -125.30502093291736,
+        "y_m": 1279.792713708874,
+        "reception_radius_m": 1430.224295174245,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 7,
+        "x_m": -461.77121691451515,
+        "y_m": -754.9677675262822,
+        "reception_radius_m": 1028.2270744557875,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-12",
+        "channel": 13,
+        "x_m": 188.2403551212256,
+        "y_m": 1329.092760348425,
+        "reception_radius_m": 1447.3526385217747,
+        "orientation_deg": 40.13001633485894
+      },
+      {
+        "id": "source-13",
+        "channel": 19,
+        "x_m": -250.83516859019812,
+        "y_m": 1112.9669272640192,
+        "reception_radius_m": 1078.9045862040832,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-14",
+        "channel": 8,
+        "x_m": 591.9907520294656,
+        "y_m": 798.8863268952872,
+        "reception_radius_m": 1480.7663034304835,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131500
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "v14-confirm-q4-n16-00",
+    "problem": "q4",
+    "seed": 202609131600,
+    "sources": [
+      {
+        "id": "source-0",
+        "channel": 10,
+        "x_m": 1114.9585819266517,
+        "y_m": 1123.3283859137448,
+        "reception_radius_m": 1119.6194607618886,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-1",
+        "channel": 7,
+        "x_m": 296.14722962816643,
+        "y_m": -887.2781548384709,
+        "reception_radius_m": 1046.6828675929976,
+        "orientation_deg": 269.69386728635516
+      },
+      {
+        "id": "source-2",
+        "channel": 3,
+        "x_m": 803.6321142233502,
+        "y_m": 752.391000994167,
+        "reception_radius_m": 1217.3785141854619,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-3",
+        "channel": 16,
+        "x_m": -1112.4514408254793,
+        "y_m": 1011.2250861922666,
+        "reception_radius_m": 1441.3988734446089,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-4",
+        "channel": 8,
+        "x_m": 1428.8747224157926,
+        "y_m": -38.895882648990394,
+        "reception_radius_m": 1052.2158733710705,
+        "orientation_deg": 342.4206667847159
+      },
+      {
+        "id": "source-5",
+        "channel": 13,
+        "x_m": 795.4521205555836,
+        "y_m": 1412.2432164878562,
+        "reception_radius_m": 1196.0664712514554,
+        "orientation_deg": 252.67814465953106
+      },
+      {
+        "id": "source-6",
+        "channel": 18,
+        "x_m": -1279.06200093832,
+        "y_m": -655.1942069656433,
+        "reception_radius_m": 1197.213172096225,
+        "orientation_deg": 313.41933554033034
+      },
+      {
+        "id": "source-7",
+        "channel": 9,
+        "x_m": -627.5082013493595,
+        "y_m": 530.5068506256387,
+        "reception_radius_m": 1435.908685034869,
+        "orientation_deg": 300.0458987641921
+      },
+      {
+        "id": "source-8",
+        "channel": 4,
+        "x_m": -876.1060041594369,
+        "y_m": -417.16789113763974,
+        "reception_radius_m": 1248.6581981712584,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-9",
+        "channel": 15,
+        "x_m": -442.46116407450813,
+        "y_m": -944.5549571447846,
+        "reception_radius_m": 1305.7182819106217,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-10",
+        "channel": 17,
+        "x_m": 1134.6350522118303,
+        "y_m": -755.7177027137061,
+        "reception_radius_m": 1387.095128260356,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-11",
+        "channel": 1,
+        "x_m": -1523.2965787114192,
+        "y_m": -900.9499903036341,
+        "reception_radius_m": 1331.97717557699,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-12",
+        "channel": 20,
+        "x_m": 646.979163125958,
+        "y_m": -1568.1635124808477,
+        "reception_radius_m": 1384.8858937474286,
+        "orientation_deg": null
+      },
+      {
+        "id": "source-13",
+        "channel": 14,
+        "x_m": -1424.2635679820144,
+        "y_m": 401.963399187743,
+        "reception_radius_m": 1261.316768686437,
+        "orientation_deg": 348.10828987829086
+      },
+      {
+        "id": "source-14",
+        "channel": 11,
+        "x_m": -461.9911950762685,
+        "y_m": 890.3015566232716,
+        "reception_radius_m": 1169.3390642762206,
+        "orientation_deg": 40.908272311933175
+      },
+      {
+        "id": "source-15",
+        "channel": 6,
+        "x_m": 597.9132856528179,
+        "y_m": -392.5730110700636,
+        "reception_radius_m": 1181.2128570486293,
+        "orientation_deg": 201.98406518102652
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 202615131600
+    },
+    "provenance": "New synthetic confirmation; frozen before execution; assumptions are not official distribution",
+    "sensitivity_panel": "confirmation_subset"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "p3-sensitivity-q3-outer_tangent-10",
+    "problem": "q3",
+    "seed": 260912031,
+    "sources": [
+      {
+        "id": "stress-0",
+        "channel": 5,
+        "x_m": 1718.4371089032218,
+        "y_m": 535.699451879817,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-1",
+        "channel": 9,
+        "x_m": 1075.3685873911406,
+        "y_m": 1443.4619500535448,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-2",
+        "channel": 4,
+        "x_m": 21.545815929605844,
+        "y_m": 1799.8710447740214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-3",
+        "channel": 12,
+        "x_m": -1040.5067249016897,
+        "y_m": 1468.790575757606,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-4",
+        "channel": 11,
+        "x_m": -1705.1210623433765,
+        "y_m": 576.6820291573122,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-5",
+        "channel": 8,
+        "x_m": -1718.4371089032218,
+        "y_m": -535.6994518798168,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-6",
+        "channel": 6,
+        "x_m": -1075.3685873911418,
+        "y_m": -1443.4619500535441,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-7",
+        "channel": 20,
+        "x_m": -21.54581592960527,
+        "y_m": -1799.8710447740214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-8",
+        "channel": 2,
+        "x_m": 1040.5067249016904,
+        "y_m": -1468.7905757576054,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-9",
+        "channel": 1,
+        "x_m": 1705.1210623433767,
+        "y_m": -576.6820291573116,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 260912031
+    },
+    "sensitivity_panel": "mechanism_stress",
+    "provenance": "预先固定的边界压力场景；不是官方分布。hash规则采用包内模拟器，区别于跨版本审查账本。"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "p3-sensitivity-q3-outer_outward-16",
+    "problem": "q3",
+    "seed": 260912031,
+    "sources": [
+      {
+        "id": "stress-0",
+        "channel": 4,
+        "x_m": 1718.4371089032218,
+        "y_m": 535.699451879817,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-1",
+        "channel": 1,
+        "x_m": 1382.62556786209,
+        "y_m": 1152.5391703079044,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-2",
+        "channel": 2,
+        "x_m": 836.3218176459386,
+        "y_m": 1593.915247850209,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-3",
+        "channel": 14,
+        "x_m": 162.69565196934866,
+        "y_m": 1792.6321777850214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-4",
+        "channel": 8,
+        "x_m": -535.6994518798174,
+        "y_m": 1718.4371089032218,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-5",
+        "channel": 5,
+        "x_m": -1152.5391703079044,
+        "y_m": 1382.6255678620903,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-6",
+        "channel": 7,
+        "x_m": -1593.915247850209,
+        "y_m": 836.3218176459387,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-7",
+        "channel": 15,
+        "x_m": -1792.6321777850214,
+        "y_m": 162.69565196934875,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-8",
+        "channel": 13,
+        "x_m": -1718.4371089032218,
+        "y_m": -535.6994518798168,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-9",
+        "channel": 11,
+        "x_m": -1382.6255678620903,
+        "y_m": -1152.5391703079044,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-10",
+        "channel": 12,
+        "x_m": -836.3218176459395,
+        "y_m": -1593.9152478502085,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-11",
+        "channel": 18,
+        "x_m": -162.6956519693489,
+        "y_m": -1792.6321777850214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-12",
+        "channel": 10,
+        "x_m": 535.6994518798175,
+        "y_m": -1718.4371089032218,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-13",
+        "channel": 19,
+        "x_m": 1152.5391703079042,
+        "y_m": -1382.6255678620905,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-14",
+        "channel": 6,
+        "x_m": 1593.9152478502094,
+        "y_m": -836.3218176459383,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-15",
+        "channel": 16,
+        "x_m": 1792.6321777850217,
+        "y_m": -162.69565196934738,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      }
+    ],
+    "error_model": {
+      "type": "constant",
+      "value_deg": -1.0
+    },
+    "sensitivity_panel": "mechanism_stress",
+    "provenance": "预先固定的边界压力场景；不是官方分布。hash规则采用包内模拟器，区别于跨版本审查账本。"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "p3-sensitivity-q4-outer_tangent-10",
+    "problem": "q4",
+    "seed": 260912031,
+    "sources": [
+      {
+        "id": "stress-0",
+        "channel": 5,
+        "x_m": 1718.4371089032218,
+        "y_m": 535.699451879817,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-1",
+        "channel": 9,
+        "x_m": 1075.3685873911406,
+        "y_m": 1443.4619500535448,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 143.31415900000002
+      },
+      {
+        "id": "stress-2",
+        "channel": 4,
+        "x_m": 21.545815929605844,
+        "y_m": 1799.8710447740214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 179.31415900000002
+      },
+      {
+        "id": "stress-3",
+        "channel": 12,
+        "x_m": -1040.5067249016897,
+        "y_m": 1468.790575757606,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 215.31415900000002
+      },
+      {
+        "id": "stress-4",
+        "channel": 11,
+        "x_m": -1705.1210623433765,
+        "y_m": 576.6820291573122,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 251.314159
+      },
+      {
+        "id": "stress-5",
+        "channel": 8,
+        "x_m": -1718.4371089032218,
+        "y_m": -535.6994518798168,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 287.314159
+      },
+      {
+        "id": "stress-6",
+        "channel": 6,
+        "x_m": -1075.3685873911418,
+        "y_m": -1443.4619500535441,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 323.314159
+      },
+      {
+        "id": "stress-7",
+        "channel": 20,
+        "x_m": -21.54581592960527,
+        "y_m": -1799.8710447740214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 359.314159
+      },
+      {
+        "id": "stress-8",
+        "channel": 2,
+        "x_m": 1040.5067249016904,
+        "y_m": -1468.7905757576054,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 35.31415900000002
+      },
+      {
+        "id": "stress-9",
+        "channel": 1,
+        "x_m": 1705.1210623433767,
+        "y_m": -576.6820291573116,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 71.31415900000002
+      }
+    ],
+    "error_model": {
+      "type": "hash",
+      "seed": 260912031
+    },
+    "sensitivity_panel": "mechanism_stress",
+    "provenance": "预先固定的边界压力场景；不是官方分布。hash规则采用包内模拟器，区别于跨版本审查账本。"
+  },
+  {
+    "schema_version": 1,
+    "case_kind": "full",
+    "case_id": "p3-sensitivity-q4-outer_outward-16",
+    "problem": "q4",
+    "seed": 260912031,
+    "sources": [
+      {
+        "id": "stress-0",
+        "channel": 4,
+        "x_m": 1718.4371089032218,
+        "y_m": 535.699451879817,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": null
+      },
+      {
+        "id": "stress-1",
+        "channel": 1,
+        "x_m": 1382.62556786209,
+        "y_m": 1152.5391703079044,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 39.814159000000004
+      },
+      {
+        "id": "stress-2",
+        "channel": 2,
+        "x_m": 836.3218176459386,
+        "y_m": 1593.915247850209,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 62.314159000000004
+      },
+      {
+        "id": "stress-3",
+        "channel": 14,
+        "x_m": 162.69565196934866,
+        "y_m": 1792.6321777850214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 84.814159
+      },
+      {
+        "id": "stress-4",
+        "channel": 8,
+        "x_m": -535.6994518798174,
+        "y_m": 1718.4371089032218,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 107.314159
+      },
+      {
+        "id": "stress-5",
+        "channel": 5,
+        "x_m": -1152.5391703079044,
+        "y_m": 1382.6255678620903,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 129.814159
+      },
+      {
+        "id": "stress-6",
+        "channel": 7,
+        "x_m": -1593.915247850209,
+        "y_m": 836.3218176459387,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 152.314159
+      },
+      {
+        "id": "stress-7",
+        "channel": 15,
+        "x_m": -1792.6321777850214,
+        "y_m": 162.69565196934875,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 174.814159
+      },
+      {
+        "id": "stress-8",
+        "channel": 13,
+        "x_m": -1718.4371089032218,
+        "y_m": -535.6994518798168,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 197.314159
+      },
+      {
+        "id": "stress-9",
+        "channel": 11,
+        "x_m": -1382.6255678620903,
+        "y_m": -1152.5391703079044,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 219.814159
+      },
+      {
+        "id": "stress-10",
+        "channel": 12,
+        "x_m": -836.3218176459395,
+        "y_m": -1593.9152478502085,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 242.314159
+      },
+      {
+        "id": "stress-11",
+        "channel": 18,
+        "x_m": -162.6956519693489,
+        "y_m": -1792.6321777850214,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 264.814159
+      },
+      {
+        "id": "stress-12",
+        "channel": 10,
+        "x_m": 535.6994518798175,
+        "y_m": -1718.4371089032218,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 287.314159
+      },
+      {
+        "id": "stress-13",
+        "channel": 19,
+        "x_m": 1152.5391703079042,
+        "y_m": -1382.6255678620905,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 309.814159
+      },
+      {
+        "id": "stress-14",
+        "channel": 6,
+        "x_m": 1593.9152478502094,
+        "y_m": -836.3218176459383,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 332.314159
+      },
+      {
+        "id": "stress-15",
+        "channel": 16,
+        "x_m": 1792.6321777850217,
+        "y_m": -162.69565196934738,
+        "reception_radius_m": 1000.0,
+        "orientation_deg": 354.814159
+      }
+    ],
+    "error_model": {
+      "type": "constant",
+      "value_deg": -1.0
+    },
+    "sensitivity_panel": "mechanism_stress",
+    "provenance": "预先固定的边界压力场景；不是官方分布。hash规则采用包内模拟器，区别于跨版本审查账本。"
+  }
+]

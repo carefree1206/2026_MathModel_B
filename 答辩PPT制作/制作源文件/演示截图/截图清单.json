@@ -1,0 +1,42 @@
+{
+  "Q3_动作3_首次示向.jpg": {
+    "bytes": 84628,
+    "sha256": "4c07030aa8e48e6240cce3d4d03c0c1c67c08b1e7712c3212a5003b4bf07b014"
+  },
+  "Q3_动作43_试清失败仍计费.jpg": {
+    "bytes": 84841,
+    "sha256": "11fd49096f44ace9fa3986d2eb11e29b310f7e014985c31e0c936e78f0c2ce48"
+  },
+  "Q3_动作46_包围半径15.63米.jpg": {
+    "bytes": 86183,
+    "sha256": "afaabd8b7e34bdb5254ab2f58ef2c79a342f81766b773ad275bb3dc09b18dbb9"
+  },
+  "Q3_动作47_清除成功.jpg": {
+    "bytes": 84567,
+    "sha256": "2ef06e0e3dee87115f98d5f0954a6a0b8ae4d7ffd3eabb7e52772875e5bb9105"
+  },
+  "Q3_完成汇总_真实回放.jpg": {
+    "bytes": 81040,
+    "sha256": "c97fd7c18f39832f5fa6da5a5a7383eb719c35c590a0495a862382740decfb28"
+  },
+  "Q4_动作263_阴性不直接排圆.jpg": {
+    "bytes": 83262,
+    "sha256": "84c54f7d3a9c832ed8de6a5db732f78d3b1a645e3a68bafc6fbcfbdab7aee666"
+  },
+  "Q4_动作288_途中测量.jpg": {
+    "bytes": 86480,
+    "sha256": "26462838f0b49f35e4682a1391a919aa22bc376cfd6ede02248740379c0edc66"
+  },
+  "Q4_动作290_包围半径19.26米.jpg": {
+    "bytes": 87696,
+    "sha256": "f3cd9593eeb8eef3aed4aa7603f116b81c621c4b4a54662e21727aef38ac4ff3"
+  },
+  "Q4_动作301_清除成功.jpg": {
+    "bytes": 88494,
+    "sha256": "3bf60ebd602053171283f7acc6b925f82f33bfb23d649baf75ee29a1c3e2fa68"
+  },
+  "Q4_完成汇总_真实回放.jpg": {
+    "bytes": 83146,
+    "sha256": "98d9f0282ffdfb545b4837f4897d039baaec3a6b84a4e36b05501ad0188d4006"
+  }
+}

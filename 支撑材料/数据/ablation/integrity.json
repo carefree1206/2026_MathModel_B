@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "runs": 168,
+  "source_unchanged": true,
+  "complete_policy_agreement_rows": 56,
+  "discrepancies": [],
+  "wall_s": 42.796000000002095,
+  "network_requests": 0
+}

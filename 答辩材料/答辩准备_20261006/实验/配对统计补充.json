@@ -1,0 +1,186 @@
+{
+  "passed": true,
+  "input_sha256": "ab25a9d13936ac7adf460acd3340443c7af5f19c982876c9934477928a30452b",
+  "rows_audited": 1008,
+  "maximum_cost_error_s": 4.547473508864641e-12,
+  "seed": 20261006,
+  "bootstrap_reps": 50000,
+  "method": "Within each source-count stratum, resample 12 whole paired worlds; preserve 7 equal strata; percentile 95% intervals. No action/source-level pseudoreplication.",
+  "multiplicity": "Holm correction for two adopted-policy sign tests",
+  "results": [
+    {
+      "problem": "q3",
+      "baseline": "m019",
+      "adopted": "m020",
+      "n": 84,
+      "baseline_mean_s": 243.46834478226378,
+      "adopted_mean_s": 240.4597527506941,
+      "mean_saving_s": 3.0085920315697385,
+      "mean_saving_percent": 1.2357220542408933,
+      "saving_s_ci95": [
+        2.140832706012543,
+        3.8988356958756674
+      ],
+      "saving_percent_ci95": [
+        0.8803553286871096,
+        1.5987360946667666
+      ],
+      "paired_difference_sd_s": 4.20176313861634,
+      "wins": 66,
+      "losses": 18,
+      "ties": 0,
+      "sign_test_two_sided_p": 1.3328736909323258e-07,
+      "sign_test_null": "Independent synthetic worlds; P(saving>0)=1/2 conditional on non-ties",
+      "worst_relative_increase_percent": 3.725059919621909,
+      "worst_case_id": "v14-confirm-q3-n11-06",
+      "strata": [
+        {
+          "source_count": 10,
+          "n": 12,
+          "baseline_mean_s": 288.7026599092121,
+          "adopted_mean_s": 285.1470682318705,
+          "saving_s": 3.555591677341648,
+          "saving_percent": 1.23157565588753
+        },
+        {
+          "source_count": 11,
+          "n": 12,
+          "baseline_mean_s": 272.39836580311317,
+          "adopted_mean_s": 270.0337622900051,
+          "saving_s": 2.364603513108063,
+          "saving_percent": 0.8680681714578241
+        },
+        {
+          "source_count": 12,
+          "n": 12,
+          "baseline_mean_s": 255.0585706401272,
+          "adopted_mean_s": 253.21842136701596,
+          "saving_s": 1.840149273111199,
+          "saving_percent": 0.7214614543212376
+        },
+        {
+          "source_count": 13,
+          "n": 12,
+          "baseline_mean_s": 232.3317427749087,
+          "adopted_mean_s": 228.68698386677136,
+          "saving_s": 3.6447589081373715,
+          "saving_percent": 1.5687735410604253
+        },
+        {
+          "source_count": 14,
+          "n": 12,
+          "baseline_mean_s": 231.3532923765451,
+          "adopted_mean_s": 228.91294567535587,
+          "saving_s": 2.4403467011892865,
+          "saving_percent": 1.054813906524136
+        },
+        {
+          "source_count": 15,
+          "n": 12,
+          "baseline_mean_s": 214.6283894556566,
+          "adopted_mean_s": 211.39791931009538,
+          "saving_s": 3.2304701455612395,
+          "saving_percent": 1.5051457795282233
+        },
+        {
+          "source_count": 16,
+          "n": 12,
+          "baseline_mean_s": 209.8053925162839,
+          "adopted_mean_s": 205.82116851374454,
+          "saving_s": 3.9842240025393614,
+          "saving_percent": 1.8990093413495637
+        }
+      ],
+      "pooled_per_source_s": 236.28882021436607,
+      "limitation": "Post-hoc supplemental analysis of archived synthetic confirmation; does not establish official-distribution performance or worst-case guarantee",
+      "sign_test_holm_adjusted_p": 1.3328736909323258e-07
+    },
+    {
+      "problem": "q4",
+      "baseline": "m019",
+      "adopted": "m021",
+      "n": 84,
+      "baseline_mean_s": 481.79910887350474,
+      "adopted_mean_s": 449.3508355618494,
+      "mean_saving_s": 32.44827331165537,
+      "mean_saving_percent": 6.734813891109655,
+      "saving_s_ci95": [
+        26.014004568421964,
+        39.16815287629308
+      ],
+      "saving_percent_ci95": [
+        5.458340948038415,
+        8.031404779295006
+      ],
+      "paired_difference_sd_s": 32.799422521141594,
+      "wins": 73,
+      "losses": 11,
+      "ties": 0,
+      "sign_test_two_sided_p": 2.2490938201170897e-12,
+      "sign_test_null": "Independent synthetic worlds; P(saving>0)=1/2 conditional on non-ties",
+      "worst_relative_increase_percent": 10.8408935609426,
+      "worst_case_id": "v14-confirm-q4-n16-04",
+      "strata": [
+        {
+          "source_count": 10,
+          "n": 12,
+          "baseline_mean_s": 609.1078416432002,
+          "adopted_mean_s": 587.2587949456557,
+          "saving_s": 21.849046697544292,
+          "saving_percent": 3.5870572013326862
+        },
+        {
+          "source_count": 11,
+          "n": 12,
+          "baseline_mean_s": 543.9186959682778,
+          "adopted_mean_s": 526.5583294069336,
+          "saving_s": 17.360366561344236,
+          "saving_percent": 3.191720874833967
+        },
+        {
+          "source_count": 12,
+          "n": 12,
+          "baseline_mean_s": 521.1187897093124,
+          "adopted_mean_s": 481.43408027229185,
+          "saving_s": 39.68470943702053,
+          "saving_percent": 7.615290452136117
+        },
+        {
+          "source_count": 13,
+          "n": 12,
+          "baseline_mean_s": 502.02167103982237,
+          "adopted_mean_s": 450.3909563625335,
+          "saving_s": 51.63071467728878,
+          "saving_percent": 10.28455894550284
+        },
+        {
+          "source_count": 14,
+          "n": 12,
+          "baseline_mean_s": 435.249824794713,
+          "adopted_mean_s": 406.9662819613629,
+          "saving_s": 28.283542833350058,
+          "saving_percent": 6.498231871015718
+        },
+        {
+          "source_count": 15,
+          "n": 12,
+          "baseline_mean_s": 405.40325486855687,
+          "adopted_mean_s": 370.3869209858013,
+          "saving_s": 35.01633388275564,
+          "saving_percent": 8.637408176238957
+        },
+        {
+          "source_count": 16,
+          "n": 12,
+          "baseline_mean_s": 355.77368409065076,
+          "adopted_mean_s": 322.4604849983667,
+          "saving_s": 33.31319909228409,
+          "saving_percent": 9.36359280687997
+        }
+      ],
+      "pooled_per_source_s": 436.37055484761794,
+      "limitation": "Post-hoc supplemental analysis of archived synthetic confirmation; does not establish official-distribution performance or worst-case guarantee",
+      "sign_test_holm_adjusted_p": 4.498187640234179e-12
+    }
+  ]
+}

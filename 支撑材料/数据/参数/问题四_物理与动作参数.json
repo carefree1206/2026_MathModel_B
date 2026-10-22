@@ -1,0 +1,24 @@
+{
+  "version": "B-M012-candidate-q4",
+  "strategy": "geometry",
+  "coverage_design": "triangular",
+  "scan_route": "two_opt",
+  "angle_bound_deg": 1.005,
+  "grid_coordinates_m": [],
+  "min_sources": 10,
+  "clearance_margin_m": 0.01,
+  "transport_timeout_s": 5.0,
+  "transport_retries": 2,
+  "exit_reserve_s": 5.0,
+  "policy_options": {
+    "early_detour_m": 240,
+    "clear_order": "exact12",
+    "dynamic_scan": true,
+    "safe_clear_shift": false,
+    "shared_clear": true,
+    "iterative_probe_rounds": 0,
+    "count_stop_unsettled": 2
+  },
+  "triangular_side_m": 900,
+  "triangular_phase": "centroid"
+}

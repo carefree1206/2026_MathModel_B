@@ -1,0 +1,33 @@
+{
+  "algorithm": "m021",
+  "version": "M021-v2-q4-selected",
+  "problem": "q4",
+  "module": "transit_policy_v2",
+  "mode": "official",
+  "test_mode": "practice",
+  "case_code": "Y65D-NFHG-HSA7-PTJ2",
+  "status": "completed",
+  "self_check": "passed",
+  "normal_exit": true,
+  "error": null,
+  "termination": "coverage_complete",
+  "virtual_time_s": 5471.801443,
+  "program_runtime_s": 3.187999999994645,
+  "cleared_count": 11,
+  "average_virtual_time_per_cleared_s": 497.43649481818187,
+  "cost_breakdown": {
+    "move_m": 19339.007232558088,
+    "move_s": 3867.801446511618,
+    "measure_s": 1305,
+    "switch_s": 241,
+    "optical_s": 36,
+    "laser_s": 22,
+    "measures": 261,
+    "clears": 12,
+    "successes": 11
+  },
+  "official_total_sources": null,
+  "official_clearance_ratio": null,
+  "official_result_verified": false,
+  "official_log": "请从模拟器导出本局原始 .jlog，并保存结果截图。"
+}

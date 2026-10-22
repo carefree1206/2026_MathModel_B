@@ -1,0 +1,24 @@
+{
+  "original_archive_verified_before_renaming": true,
+  "original_source_sha256": {
+    "outputs/v14_ablation/run_ablation.py": "3f83a2ad4fe30652f8b3d99fcdd047ddcaa9e19fed5f65c0b74331cf3a937e5f",
+    "outputs/v14_ablation/ablation_policy.py": "1ca97d515c09cc98a162033fe5eb7cc52074f7c9e4ca1425704314a8c1524a55",
+    "submission/word_sources_v14/support/runtime.py": "f209c5595edd416ccfbad2e5871e218f5f9cffcfffcd6c01042c76fd3b94e503",
+    "submission/word_sources_v14/support/data/fresh_confirmation_cases.json": "b3af2a0e99671091a28a6aae9e787c4ada1dc726364e21bd65ee774d604a5e46"
+  },
+  "original_archive_sha256": "49a5f5f0f50223d9f2ab67c6224945a511779baabbb967cb0916af9cd2ff67af",
+  "chinese_programs": [
+    {
+      "path": "问题三四_关键机制消融.py",
+      "sha256": "2a4e16216bf5196497b21eba1b32e43c46a5ebba249827df57c75eb0cffb5ede"
+    },
+    {
+      "path": "问题三四_消融策略.py",
+      "sha256": "0ccfe612429ee98ceb2cb4228d9245571109fadafb268a9b14e8393c7722e732"
+    },
+    {
+      "path": "问题三四_正式算法与参数入口.py",
+      "sha256": "69cbfc1f7581ecd5c7506dcf72bd6659ba237041802ac065a7c186c78e3d3794"
+    }
+  ]
+}

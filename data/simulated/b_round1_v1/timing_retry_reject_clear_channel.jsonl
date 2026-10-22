@@ -1,0 +1,8 @@
+{"run_id": "fixture", "seq": 1, "request_id": "enter-1", "endpoint": "/enter", "request": {}, "response": {"accepted": true, "virtual_time_s": 0}}
+{"run_id": "fixture", "seq": 2, "request_id": "bad-move", "endpoint": "/measure", "request": {"position": {"x": 2000001, "y": 0}, "channel": 9}, "response": {"accepted": false, "virtual_time_s": 0}}
+{"run_id": "fixture", "seq": 3, "request_id": "measure-1", "endpoint": "/measure", "request": {"position": {"x": 0, "y": 0}, "channel": 2}, "response": {"accepted": true, "virtual_time_s": 6, "measure_result": "near"}}
+{"run_id": "fixture", "seq": 4, "request_id": "clear-1", "endpoint": "/clear", "request": {"position": {"x": 3, "y": 4}, "channel": 19}, "response": {"accepted": true, "virtual_time_s": 10, "clear_result": "no_target_in_range"}}
+{"run_id": "fixture", "seq": 5, "request_id": "clear-1", "endpoint": "/clear", "request": {"position": {"x": 3, "y": 4}, "channel": 19}, "response": {"accepted": true, "virtual_time_s": 10, "clear_result": "no_target_in_range"}}
+{"run_id": "fixture", "seq": 6, "request_id": "clear-2", "endpoint": "/clear", "request": {"position": {"x": 3, "y": 4}, "channel": 2}, "response": {"accepted": true, "virtual_time_s": 15, "clear_result": "success"}}
+{"run_id": "fixture", "seq": 7, "request_id": "measure-2", "endpoint": "/measure", "request": {"position": {"x": 3, "y": 4}, "channel": 2}, "response": {"accepted": true, "virtual_time_s": 20, "measure_result": "no_signal"}}
+{"run_id": "fixture", "seq": 8, "request_id": "exit-1", "endpoint": "/exit", "request": {}, "response": {"accepted": true, "virtual_time_s": 20, "exit_reason": "user_exit"}}

@@ -1,0 +1,38 @@
+{
+  "q3": [
+    {
+      "name": "m019"
+    },
+    {
+      "name": "m020"
+    },
+    {
+      "name": "selected",
+      "module": "问题三四_信息费用调度",
+      "settings": {
+        "strong_route": true,
+        "scan_gain_m": 60,
+        "scan_count_stop": true
+      }
+    }
+  ],
+  "q4": [
+    {
+      "name": "m019"
+    },
+    {
+      "name": "m020"
+    },
+    {
+      "name": "selected",
+      "module": "问题四_途中信息收益求解",
+      "settings": {
+        "scan_gain_m": 30,
+        "scan_count_stop": true,
+        "intercept_gain_m": 120,
+        "intercept_efficiency": true,
+        "intercept_other_only": true
+      }
+    }
+  ]
+}

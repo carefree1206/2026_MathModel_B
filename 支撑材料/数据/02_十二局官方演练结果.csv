@@ -1,0 +1,13 @@
+﻿题号,算法,案例码,用户核对总源数,清除源数,总虚拟费用_s,每源费用_s,清除失败次数,用户核对清除比例,记录类别,数据来源
+Q3,M020-q3-physical_optical,78JR-RBZF-XBRR-DPXX,16,16,3177.410727,198.5881704375,5,1.0,演练,数据/practice_results.json
+Q3,M020-q3-physical_optical,89Y6-5Q9J-3AXY-472D,13,13,2794.883993,214.99107638461538,4,1.0,演练,数据/practice_results.json
+Q3,M020-q3-physical_optical,SQDS-KFK9-TX88-D263,15,15,3165.92228,211.0614853333333,2,1.0,演练,数据/practice_results.json
+Q3,M020-q3-physical_optical,2ZPG-KPEB-9RDV-86WU,15,15,3664.84005,244.32267,4,1.0,演练,数据/practice_results.json
+Q3,M020-q3-physical_optical,SAGQ-TC3E-NQJP-DAFQ,12,12,3185.454475,265.4545395833333,3,1.0,演练,数据/practice_results.json
+Q3,M020-q3-physical_optical,QE4D-F7CJ-2KGB-HAXX,15,15,3094.409128,206.29394186666664,6,1.0,演练,数据/practice_results.json
+Q4,M021-v2-q4-selected,XD9J-6HEH-V246-4PGY,10,10,5784.706601,578.4706601,1,1.0,演练,数据/practice_results.json
+Q4,M021-v2-q4-selected,XPPZ-6GNM-3WXN-7P76,16,16,5252.653543,328.2908464375,4,1.0,演练,数据/practice_results.json
+Q4,M021-v2-q4-selected,DGQV-55ES-YW63-X9C3,12,12,6427.586528,535.6322106666667,4,1.0,演练,数据/practice_results.json
+Q4,M021-v2-q4-selected,XE6X-MQSB-WP8X-W9BA,16,16,6567.388971,410.4618106875,14,1.0,演练,数据/practice_results.json
+Q4,M021-v2-q4-selected,BN7C-7MVW-7XMM-HPFW,14,14,6245.514461,446.10817578571425,2,1.0,演练,数据/practice_results.json
+Q4,M021-v2-q4-selected,HADD-VY97-VNKS-SRXX,10,10,5623.801743,562.3801743,4,1.0,演练,数据/practice_results.json

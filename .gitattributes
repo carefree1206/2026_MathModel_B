@@ -1,0 +1,3 @@
+# Preserve byte-for-byte hashes of frozen source, data and archived documents.
+* -text
+*.pptx filter=lfs diff=lfs merge=lfs -text

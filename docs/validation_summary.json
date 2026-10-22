@@ -1,0 +1,89 @@
+{
+  "verified_on": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "passed": true,
+  "environment": {
+    "python": "3.9.13",
+    "numpy": "1.21.5",
+    "scipy": "1.9.1",
+    "matplotlib": "3.5.2"
+  },
+  "checks": {
+    "archive": {
+      "passed": true,
+      "scope": "all",
+      "materials_checked": 352,
+      "frozen_files_checked": 70,
+      "failures": [],
+      "network_requests": 0
+    },
+    "preflight": {
+      "passed": true,
+      "frozen_files": 70,
+      "original_candidate_source_files": 84,
+      "chinese_program_copy": true,
+      "network_requests": 0,
+      "adopted": {
+        "q3": "M020-q3-physical_optical",
+        "q4": "M021-v2-q4-selected"
+      }
+    },
+    "geometry": {
+      "passed": true
+    },
+    "q2": {
+      "passed": true,
+      "rows": 6
+    },
+    "theory": {
+      "passed": true,
+      "fixed_layout_bounds": [
+        19,
+        21
+      ],
+      "relative_point_gap_upper": "2/19",
+      "unique_inner_station_lt_m": 660,
+      "other_18_stations_gt_m": 800,
+      "circle_leaves": 720,
+      "network_requests": 0
+    },
+    "official_practice_replay": {
+      "passed": true,
+      "runs": 12,
+      "network_requests": 0
+    },
+    "read_only_replay_server": {
+      "passed": true,
+      "checks": [
+        {
+          "port": 8876,
+          "frames": 131,
+          "completed": true,
+          "post_status": 405
+        },
+        {
+          "port": 8877,
+          "frames": 323,
+          "completed": true,
+          "post_status": 405
+        }
+      ],
+      "official_simulator_requests": 0
+    },
+    "engineering": {
+      "python_syntax_files": 67,
+      "credential_pattern_findings": [],
+      "copied_materials": 352,
+      "transformed_materials": [
+        "答辩PPT制作/制作源文件/单局离线演示.py",
+        "答辩PPT制作/制作源文件/汇出演示锚点.py"
+      ]
+    }
+  },
+  "not_rerun": [
+    "Full 1482-configuration performance suite",
+    "Six formal runs against official simulator",
+    "Interactive GUI end-to-end new-run flow"
+  ],
+  "official_simulator_requests": 0
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checked_outputs": {
+    "补充核验总览.json": true,
+    "配对统计补充.json": true,
+    "正式账本独立计费.json": true,
+    "几何反例与边界核验.json": true,
+    "geometry_gpu/geometry.json": true,
+    "q2/q2_recomputed.json": true,
+    "theory/theory_checks.json": true,
+    "stress_py39/stress_replay.json": true,
+    "切向退步账本.json": true
+  },
+  "statistics_scope": "post-hoc archived synthetic confirmation",
+  "solver_stress_environment": "Python3.9.13 NumPy1.21.5 SciPy1.9.1",
+  "original_manuscript_and_frozen_code_unchanged": true,
+  "new_official_test": false
+}

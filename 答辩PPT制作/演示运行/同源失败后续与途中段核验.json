@@ -1,0 +1,238 @@
+{
+  "q3_same_source_failure_chain": [
+    {
+      "action_number": 42,
+      "frame_index": 41,
+      "channel": 8,
+      "action": "measure",
+      "result": "direction",
+      "position": [
+        1410.7613849257937,
+        125.67112009666668
+      ],
+      "time_s": 531.4348619093719,
+      "radius_m": 90.89043070375793,
+      "events": [
+        "m020_posterior_optical_choice",
+        "observe",
+        "q3_negative_reception"
+      ],
+      "explanation": "频道8第3次实际检测：已取得示向并更新角楔约束；有效观测共2次。已使用同源半径固定的正负距离半平面。已执行999.9米阴性圆盘排除及保守凸外包更新。包围圆半径由383.001米变为90.890米。尚未满足19.99米一次保证清除阈值。"
+    },
+    {
+      "action_number": 43,
+      "frame_index": 42,
+      "channel": 8,
+      "action": "clear",
+      "result": "no_target_in_range",
+      "position": [
+        1654.626155081489,
+        361.2794279136917
+      ],
+      "time_s": 602.2526474336698,
+      "radius_m": 90.89043070375793,
+      "events": [
+        "m020_posterior_optical_probe"
+      ],
+      "explanation": "频道8执行光学尝试：未发现目标，本次3秒光学费用已计入，目标仍保留。该动作是允许失败的试探，不能因成功就倒推整个区域已被覆盖。"
+    },
+    {
+      "action_number": 44,
+      "frame_index": 43,
+      "channel": 8,
+      "action": "measure",
+      "result": "direction",
+      "position": [
+        1678.8715469855804,
+        387.1631411724526
+      ],
+      "time_s": 614.3457585723585,
+      "radius_m": 24.887304432056837,
+      "events": [
+        "observe",
+        "q3_negative_reception"
+      ],
+      "explanation": "频道8第4次实际检测：已取得示向并更新角楔约束；有效观测共3次。已使用同源半径固定的正负距离半平面。已执行999.9米阴性圆盘排除及保守凸外包更新。包围圆半径由90.890米变为24.887米。尚未满足19.99米一次保证清除阈值。"
+    },
+    {
+      "action_number": 45,
+      "frame_index": 44,
+      "channel": 8,
+      "action": "clear",
+      "result": "success",
+      "position": [
+        1695.6097609886165,
+        405.5807871822502
+      ],
+      "time_s": 624.3232177336321,
+      "radius_m": 24.887304432056837,
+      "events": [
+        "center_probe"
+      ],
+      "explanation": "频道8执行局部中心方案试清：已成功清除；该位置只证明源在20米内，不是精确源坐标。该动作是允许失败的试探，不能因成功就倒推整个区域已被覆盖。"
+    }
+  ],
+  "q3_scope": "第45动作成功时半径24.887m仍高于19.99m，属于可失败试探，不是保证清除证据；46/47为另一频道1。",
+  "q4_segment_frames": [
+    {
+      "action_number": 287,
+      "frame_index": 286,
+      "channel": 19,
+      "action": "measure",
+      "result": "no_signal",
+      "position": [
+        1320.168,
+        1320.168
+      ],
+      "time_s": 4978.472586398147,
+      "radius_m": null,
+      "events": [
+        "enroute_measure_choice",
+        "observe"
+      ],
+      "explanation": "频道19第18次实际检测：无信号。尚未发现该频道源，继续积累真实检测位置作为覆盖证据。"
+    },
+    {
+      "action_number": 288,
+      "frame_index": 287,
+      "channel": 16,
+      "action": "measure",
+      "result": "direction",
+      "position": [
+        1194.6250499999999,
+        1392.6504
+      ],
+      "time_s": 5013.465503191365,
+      "radius_m": 309.8110703196607,
+      "events": [
+        "enroute_measure_choice",
+        "observe"
+      ],
+      "explanation": "频道16第19次实际检测：已取得示向并更新角楔约束；有效观测共2次。包围圆半径由703.507米变为309.811米。尚未满足19.99米一次保证清除阈值。"
+    },
+    {
+      "action_number": 289,
+      "frame_index": 288,
+      "channel": 16,
+      "action": "measure",
+      "result": "direction",
+      "position": [
+        981.2020349999999,
+        1515.87048
+      ],
+      "time_s": 5067.753461739837,
+      "radius_m": 192.91168723943105,
+      "events": [
+        "observe"
+      ],
+      "explanation": "频道16第20次实际检测：已取得示向并更新角楔约束；有效观测共3次。包围圆半径由309.811米变为192.912米。尚未满足19.99米一次保证清除阈值。"
+    },
+    {
+      "action_number": 290,
+      "frame_index": 289,
+      "channel": 16,
+      "action": "measure",
+      "result": "direction",
+      "position": [
+        483.215,
+        1803.384
+      ],
+      "time_s": 5187.758698352937,
+      "radius_m": 19.257667309286077,
+      "events": [
+        "observe"
+      ],
+      "explanation": "频道16第21次实际检测：已取得示向并更新角楔约束；有效观测共4次。包围圆半径由192.912米变为19.258米。满足19.99米工作阈值。"
+    }
+  ],
+  "q4_verified_insertions": [
+    {
+      "action_number": 288,
+      "original_event": {
+        "method": "enroute_measure_choice",
+        "channel": 16,
+        "position": [
+          1194.6250499999999,
+          1392.6504
+        ],
+        "planned_next": [
+          "scan",
+          19
+        ],
+        "planned_endpoint": [
+          483.215,
+          1803.384
+        ],
+        "start": [
+          1320.168,
+          1320.168
+        ],
+        "predicted_radius_gain_m": 420.5099260539079,
+        "interpolation_fraction": 0.15,
+        "attempt": 1,
+        "ranking": 2.403400256907989,
+        "note": "Planning heuristic; no deletion of coverage or guarantee of lower total cost"
+      },
+      "actual_previous_position": [
+        1320.168,
+        1320.168
+      ],
+      "actual_position": [
+        1194.6250499999999,
+        1392.6504
+      ],
+      "original_planned_endpoint": [
+        483.215,
+        1803.384
+      ],
+      "interpolation_residual_m": 0.0,
+      "segment_extra_distance_m": 0.0,
+      "meaning": "途中插入检测；原计划为scan 19，非该巡检端点首任务补测"
+    },
+    {
+      "action_number": 289,
+      "original_event": {
+        "method": "enroute_measure_choice",
+        "channel": 16,
+        "position": [
+          981.2020349999999,
+          1515.87048
+        ],
+        "planned_next": [
+          "scan",
+          19
+        ],
+        "planned_endpoint": [
+          483.215,
+          1803.384
+        ],
+        "start": [
+          1194.6250499999999,
+          1392.6504
+        ],
+        "predicted_radius_gain_m": 160.1592929655922,
+        "interpolation_fraction": 0.3,
+        "attempt": 2,
+        "ranking": 0.5793641044828175,
+        "note": "Planning heuristic; no deletion of coverage or guarantee of lower total cost"
+      },
+      "actual_previous_position": [
+        1194.6250499999999,
+        1392.6504
+      ],
+      "actual_position": [
+        981.2020349999999,
+        1515.87048
+      ],
+      "original_planned_endpoint": [
+        483.215,
+        1803.384
+      ],
+      "interpolation_residual_m": 0.0,
+      "segment_extra_distance_m": 0.0,
+      "meaning": "途中插入检测；原计划为scan 19，非该巡检端点首任务补测"
+    }
+  ],
+  "q4_scope": "对所记录计划线段为零几何绕行，不保证总费用下降，也不推断后续最优路线。",
+  "execution": "read_only_existing_records_no_new_solver_run"
+}

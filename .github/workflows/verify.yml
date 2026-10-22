@@ -1,0 +1,42 @@
+name: Verify frozen model
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: windows-latest
+    timeout-minutes: 15
+    env:
+      PYTHONUTF8: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+      PYTHONNOUSERSITE: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.9.13"
+          cache: pip
+          cache-dependency-path: requirements-lock.txt
+      - name: Install pinned dependencies
+        run: python -m pip install -r requirements-lock.txt
+      - name: Verify core material hashes
+        run: python scripts/verify_archive.py --scope core --output results/archive-core.json
+      - name: Verify frozen algorithms and parameters
+        run: python -s -B -X utf8 scripts/reproduce.py --task verify --output results/verify
+      - name: Check geometric invariants
+        run: python -s -B -X utf8 scripts/reproduce.py --task geometry --output results/geometry
+      - name: Recompute Q2 bounds
+        run: python -s -B -X utf8 scripts/reproduce.py --task q2 --output results/q2
+      - name: Verify Q4 theoretical certificates
+        run: python -s -B -X utf8 scripts/reproduce.py --task theory --output results/theory
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: verification-results
+          path: results/

@@ -1,0 +1,2832 @@
+{
+  "schema_version": 1,
+  "assembled_on": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "description": "Curated final materials. Paths are relative to repository root; source hashes refer to the original local project.",
+  "historical_manifest_note": "支撑材料/文件清单.json lists AI工具使用详情.docx, which is absent in the current source project and its RAR; the available AI工具使用详情.pdf is included instead. All other 264 listed files match the historical hashes.",
+  "excluded": [
+    "Virtual environments and bytecode",
+    "Temporary .codex-defense and .chart-data directories",
+    "Duplicate historical PPTs and RAR/ZIP delivery bundles",
+    "Failed or incomplete GUI runs",
+    "Presentation generation caches, previews and API upload scripts"
+  ],
+  "files": [
+    {
+      "path": "data/processed/.gitkeep",
+      "source_path": "data/processed/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "source_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "transformation": "none"
+    },
+    {
+      "path": "data/raw/CUMCM2026Problems/B题/B题.pdf",
+      "source_path": "data/raw/CUMCM2026Problems/B题/B题.pdf",
+      "bytes": 514825,
+      "sha256": "81c992a9bee5376308c4768b58719b177f17d6ee1f9861577a851924c5a838ca",
+      "source_sha256": "81c992a9bee5376308c4768b58719b177f17d6ee1f9861577a851924c5a838ca",
+      "transformation": "none"
+    },
+    {
+      "path": "data/raw/CUMCM2026Problems/B题/附件/附件1.docx",
+      "source_path": "data/raw/CUMCM2026Problems/B题/附件/附件1.docx",
+      "bytes": 33675,
+      "sha256": "20a27603ea81efa8f11658b3fa5b859a69aa3ff88fb3664d2abb80d740b47553",
+      "source_sha256": "20a27603ea81efa8f11658b3fa5b859a69aa3ff88fb3664d2abb80d740b47553",
+      "transformation": "none"
+    },
+    {
+      "path": "data/raw/CUMCM2026Problems/B题/附件/附件2.docx",
+      "source_path": "data/raw/CUMCM2026Problems/B题/附件/附件2.docx",
+      "bytes": 57179,
+      "sha256": "c882513d5b7e0ec50f3068570ea55fdc1b5c4a5fa2d6e9e54e79b33cf0858cb2",
+      "source_sha256": "c882513d5b7e0ec50f3068570ea55fdc1b5c4a5fa2d6e9e54e79b33cf0858cb2",
+      "transformation": "none"
+    },
+    {
+      "path": "data/raw/CUMCM2026Problems/format2026.doc",
+      "source_path": "data/raw/CUMCM2026Problems/format2026.doc",
+      "bytes": 71168,
+      "sha256": "d77de49534649b46ca195d32bd9c56a1fbe06dc96fdcf3e1199e6dd7d9831f4a",
+      "source_sha256": "d77de49534649b46ca195d32bd9c56a1fbe06dc96fdcf3e1199e6dd7d9831f4a",
+      "transformation": "none"
+    },
+    {
+      "path": "data/simulated/.gitkeep",
+      "source_path": "data/simulated/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "source_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "transformation": "none"
+    },
+    {
+      "path": "data/simulated/b_round1_v1/README.json",
+      "source_path": "data/simulated/b_round1_v1/README.json",
+      "bytes": 348,
+      "sha256": "b8d3e10b8d3096e00c5eec64de0edaa78900af9edf8613f76c392c2f4982ca3b",
+      "source_sha256": "b8d3e10b8d3096e00c5eec64de0edaa78900af9edf8613f76c392c2f4982ca3b",
+      "transformation": "none"
+    },
+    {
+      "path": "data/simulated/b_round1_v1/adversarial_cases.json",
+      "source_path": "data/simulated/b_round1_v1/adversarial_cases.json",
+      "bytes": 7319,
+      "sha256": "2430c373d89b9d5a8d51be9738613e75dcddd2f5fc4fcd94b8ff00c2a5ee4b01",
+      "source_sha256": "2430c373d89b9d5a8d51be9738613e75dcddd2f5fc4fcd94b8ff00c2a5ee4b01",
+      "transformation": "none"
+    },
+    {
+      "path": "data/simulated/b_round1_v1/manifest.json",
+      "source_path": "data/simulated/b_round1_v1/manifest.json",
+      "bytes": 719,
+      "sha256": "28bef5b439d6abe5ccba2264254cf9d8758e40b75768ac8943a0bd78d23492e5",
+      "source_sha256": "28bef5b439d6abe5ccba2264254cf9d8758e40b75768ac8943a0bd78d23492e5",
+      "transformation": "none"
+    },
+    {
+      "path": "data/simulated/b_round1_v1/timing_official_199.jsonl",
+      "source_path": "data/simulated/b_round1_v1/timing_official_199.jsonl",
+      "bytes": 1281,
+      "sha256": "2e8765e72f10349841e10722294870223f79ffccf47136343c6a7760d77ce9e4",
+      "source_sha256": "2e8765e72f10349841e10722294870223f79ffccf47136343c6a7760d77ce9e4",
+      "transformation": "none"
+    },
+    {
+      "path": "data/simulated/b_round1_v1/timing_retry_reject_clear_channel.jsonl",
+      "source_path": "data/simulated/b_round1_v1/timing_retry_reject_clear_channel.jsonl",
+      "bytes": 1647,
+      "sha256": "f1edaa43b874421a3158e631583dc2e7240bb608afceba605d58c70f97054489",
+      "source_sha256": "f1edaa43b874421a3158e631583dc2e7240bb608afceba605d58c70f97054489",
+      "transformation": "none"
+    },
+    {
+      "path": "我的论文.docx",
+      "source_path": "我的论文.docx",
+      "bytes": 2866924,
+      "sha256": "e3f7134166d1bdc147bfc419f5d092944f1cab2065dd74d2ab1dd404c9c69aad",
+      "source_sha256": "e3f7134166d1bdc147bfc419f5d092944f1cab2065dd74d2ab1dd404c9c69aad",
+      "transformation": "none"
+    },
+    {
+      "path": "我的论文.pdf",
+      "source_path": "我的论文.pdf",
+      "bytes": 3432324,
+      "sha256": "d30afac4141dae9fd67819eaf7a3347ababb40f65d2fcef73510382823cc8916",
+      "source_sha256": "d30afac4141dae9fd67819eaf7a3347ababb40f65d2fcef73510382823cc8916",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/AI工具使用详情.pdf",
+      "source_path": "支撑材料/AI工具使用详情.pdf",
+      "bytes": 294635,
+      "sha256": "ef70585dbe0742f3f5aec0cd792c5b9d1892bfe98443871e95543259052dfb57",
+      "source_sha256": "ef70585dbe0742f3f5aec0cd792c5b9d1892bfe98443871e95543259052dfb57",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/01_多测点定位区域收缩.png",
+      "source_path": "支撑材料/图件/01_多测点定位区域收缩.png",
+      "bytes": 132768,
+      "sha256": "a4f5be171d7b512350d036d302e244d3638150898de37c1a8946f388c89f79ae",
+      "source_sha256": "a4f5be171d7b512350d036d302e244d3638150898de37c1a8946f388c89f79ae",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/01_多测点定位区域收缩.svg",
+      "source_path": "支撑材料/图件/01_多测点定位区域收缩.svg",
+      "bytes": 21374,
+      "sha256": "9103aa2430d1138c53dca363fc8d0be133cc13a286a04cb113d5e3f7a9269c9e",
+      "source_sha256": "9103aa2430d1138c53dca363fc8d0be133cc13a286a04cb113d5e3f7a9269c9e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/02_定位直径与最小包围圆.png",
+      "source_path": "支撑材料/图件/02_定位直径与最小包围圆.png",
+      "bytes": 107887,
+      "sha256": "832705917fd3238bc31526e62cc8b4897c2ebdd8203acd234df7667d3cc6a084",
+      "source_sha256": "832705917fd3238bc31526e62cc8b4897c2ebdd8203acd234df7667d3cc6a084",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/02_定位直径与最小包围圆.svg",
+      "source_path": "支撑材料/图件/02_定位直径与最小包围圆.svg",
+      "bytes": 11618,
+      "sha256": "c2c7bae331c328945de990b022d215e2501cccb424bfa01cca2cc1603be758be",
+      "source_sha256": "c2c7bae331c328945de990b022d215e2501cccb424bfa01cca2cc1603be758be",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/03_第二测点安全域与候选位置.png",
+      "source_path": "支撑材料/图件/03_第二测点安全域与候选位置.png",
+      "bytes": 102025,
+      "sha256": "209bd20839fec815cfeb284fc4b26b0c3f23b9196992a43b74739e417cd34787",
+      "source_sha256": "209bd20839fec815cfeb284fc4b26b0c3f23b9196992a43b74739e417cd34787",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/03_第二测点安全域与候选位置.svg",
+      "source_path": "支撑材料/图件/03_第二测点安全域与候选位置.svg",
+      "bytes": 101281,
+      "sha256": "0cae8600b63bdd15c5e847ed3b59641ccbf73d2cb0568ba32c46db4d0313e9a7",
+      "source_sha256": "0cae8600b63bdd15c5e847ed3b59641ccbf73d2cb0568ba32c46db4d0313e9a7",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/04_问题二移动费用与定位精度.png",
+      "source_path": "支撑材料/图件/04_问题二移动费用与定位精度.png",
+      "bytes": 191842,
+      "sha256": "464b529444600da908899c2b981441d6cc809bf13b90ebc84a7ffda052127a22",
+      "source_sha256": "464b529444600da908899c2b981441d6cc809bf13b90ebc84a7ffda052127a22",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/04_问题二移动费用与定位精度.svg",
+      "source_path": "支撑材料/图件/04_问题二移动费用与定位精度.svg",
+      "bytes": 256311,
+      "sha256": "060bd998269035d264ab66efdba41080c58cc7476c5f877e4eaae0dec17f3dd5",
+      "source_sha256": "060bd998269035d264ab66efdba41080c58cc7476c5f877e4eaae0dec17f3dd5",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/05_搜索定位与清除流程.png",
+      "source_path": "支撑材料/图件/05_搜索定位与清除流程.png",
+      "bytes": 136607,
+      "sha256": "0197bd8014a2dd1430152a2208aac7a86501ce57a2a22c21e7d576a565e13b04",
+      "source_sha256": "0197bd8014a2dd1430152a2208aac7a86501ce57a2a22c21e7d576a565e13b04",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/05_搜索定位与清除流程.svg",
+      "source_path": "支撑材料/图件/05_搜索定位与清除流程.svg",
+      "bytes": 9368,
+      "sha256": "3302862f60230bc5d11cbd8e9574183c7fd47d5549d5331df87e6007cfca8ced",
+      "source_sha256": "3302862f60230bc5d11cbd8e9574183c7fd47d5549d5331df87e6007cfca8ced",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/06_问题三七点巡检布局.png",
+      "source_path": "支撑材料/图件/06_问题三七点巡检布局.png",
+      "bytes": 471926,
+      "sha256": "fe02971301269926d95eb9748fd84788b0c707991e34e4bfe7022f41f4bdda49",
+      "source_sha256": "fe02971301269926d95eb9748fd84788b0c707991e34e4bfe7022f41f4bdda49",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/06_问题三七点巡检布局.svg",
+      "source_path": "支撑材料/图件/06_问题三七点巡检布局.svg",
+      "bytes": 629749,
+      "sha256": "fe1a08b0ec1ec69e62f8e3a457be16457bc6ec9f6964d0d1ccd2ca436a9cd05d",
+      "source_sha256": "fe1a08b0ec1ec69e62f8e3a457be16457bc6ec9f6964d0d1ccd2ca436a9cd05d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/07_问题三局部测点费用比较.png",
+      "source_path": "支撑材料/图件/07_问题三局部测点费用比较.png",
+      "bytes": 147891,
+      "sha256": "7903519c8d8e9571468ba92d43e4638f51369692f43f21b09ec6d744caf8480f",
+      "source_sha256": "7903519c8d8e9571468ba92d43e4638f51369692f43f21b09ec6d744caf8480f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/07_问题三局部测点费用比较.svg",
+      "source_path": "支撑材料/图件/07_问题三局部测点费用比较.svg",
+      "bytes": 25240,
+      "sha256": "2db9eed6a0fac56536a43a0972352aabcb113ba6f6489c7cde050851728d6f8a",
+      "source_sha256": "2db9eed6a0fac56536a43a0972352aabcb113ba6f6489c7cde050851728d6f8a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/08_问题三同场策略对照.png",
+      "source_path": "支撑材料/图件/08_问题三同场策略对照.png",
+      "bytes": 184045,
+      "sha256": "1fbcc4316a6391d2a8e6e585debe8dedd7601d7a107e2f55952896146a9b25a7",
+      "source_sha256": "1fbcc4316a6391d2a8e6e585debe8dedd7601d7a107e2f55952896146a9b25a7",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/08_问题三同场策略对照.svg",
+      "source_path": "支撑材料/图件/08_问题三同场策略对照.svg",
+      "bytes": 70539,
+      "sha256": "258b51722898dad76fae4fc8c9ea5abed5775cf5b20174fa3c9cc236e04bec4e",
+      "source_sha256": "258b51722898dad76fae4fc8c9ea5abed5775cf5b20174fa3c9cc236e04bec4e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/09_问题三困难场景费用权衡.png",
+      "source_path": "支撑材料/图件/09_问题三困难场景费用权衡.png",
+      "bytes": 122266,
+      "sha256": "11567a6282d101e443b04a6d72563dd062260a5d4a4832b92bc2133a51aeb28d",
+      "source_sha256": "11567a6282d101e443b04a6d72563dd062260a5d4a4832b92bc2133a51aeb28d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/09_问题三困难场景费用权衡.svg",
+      "source_path": "支撑材料/图件/09_问题三困难场景费用权衡.svg",
+      "bytes": 25073,
+      "sha256": "7d1886948f04f6a038ca88447c2b0cbfd822e05070c842bfc0687f312b956fe4",
+      "source_sha256": "7d1886948f04f6a038ca88447c2b0cbfd822e05070c842bfc0687f312b956fe4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/10_定向源近邻凸包覆盖.png",
+      "source_path": "支撑材料/图件/10_定向源近邻凸包覆盖.png",
+      "bytes": 154183,
+      "sha256": "e9a54ab41ce72ddc51ce54cda584937963bfc90c8cdf67e69be428a875434a2f",
+      "source_sha256": "e9a54ab41ce72ddc51ce54cda584937963bfc90c8cdf67e69be428a875434a2f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/10_定向源近邻凸包覆盖.svg",
+      "source_path": "支撑材料/图件/10_定向源近邻凸包覆盖.svg",
+      "bytes": 8852,
+      "sha256": "477ff83651dad71df8b54fd191a94d662c01a490bd8ba198cf683be6443cb57e",
+      "source_sha256": "477ff83651dad71df8b54fd191a94d662c01a490bd8ba198cf683be6443cb57e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/11_问题四二十一点发现布局.png",
+      "source_path": "支撑材料/图件/11_问题四二十一点发现布局.png",
+      "bytes": 131008,
+      "sha256": "7b38e5728f9871523e7552f1054812a85a42733bb85fb66eb8ef44386d684f25",
+      "source_sha256": "7b38e5728f9871523e7552f1054812a85a42733bb85fb66eb8ef44386d684f25",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/11_问题四二十一点发现布局.svg",
+      "source_path": "支撑材料/图件/11_问题四二十一点发现布局.svg",
+      "bytes": 32017,
+      "sha256": "4afbbbfc9f6821217a2984894c1e854a361fa3886a439087a8066d910d1c02e8",
+      "source_sha256": "4afbbbfc9f6821217a2984894c1e854a361fa3886a439087a8066d910d1c02e8",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/12_问题四途中测向决策.png",
+      "source_path": "支撑材料/图件/12_问题四途中测向决策.png",
+      "bytes": 106563,
+      "sha256": "fc8a0cdf5d2ce174a17dda5eea392d1ded31c35666c785d08a60ef88f1bf5d85",
+      "source_sha256": "fc8a0cdf5d2ce174a17dda5eea392d1ded31c35666c785d08a60ef88f1bf5d85",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/12_问题四途中测向决策.svg",
+      "source_path": "支撑材料/图件/12_问题四途中测向决策.svg",
+      "bytes": 10592,
+      "sha256": "f664d7d4ec11cbf33940f7a2736817803a20f58ff10e1a1dfafca9080a7317db",
+      "source_sha256": "f664d7d4ec11cbf33940f7a2736817803a20f58ff10e1a1dfafca9080a7317db",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/13_问题四退步案例分析.png",
+      "source_path": "支撑材料/图件/13_问题四退步案例分析.png",
+      "bytes": 113902,
+      "sha256": "6df325ec6a0b1c0e4e22b099eff4a637221eb322b1ee797591e00a0cab03eb5c",
+      "source_sha256": "6df325ec6a0b1c0e4e22b099eff4a637221eb322b1ee797591e00a0cab03eb5c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/13_问题四退步案例分析.svg",
+      "source_path": "支撑材料/图件/13_问题四退步案例分析.svg",
+      "bytes": 21100,
+      "sha256": "3874b1dfc6ecff70f81b15220f121d2f1f4360a87207e28a85ba03f6f6578084",
+      "source_sha256": "3874b1dfc6ecff70f81b15220f121d2f1f4360a87207e28a85ba03f6f6578084",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/14_源数量与每源费用.png",
+      "source_path": "支撑材料/图件/14_源数量与每源费用.png",
+      "bytes": 123854,
+      "sha256": "9703e69d37747fd7f6a21cb0c3e1a8b0da7d56f031c35076a3667ba5d3b03ff3",
+      "source_sha256": "9703e69d37747fd7f6a21cb0c3e1a8b0da7d56f031c35076a3667ba5d3b03ff3",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/14_源数量与每源费用.svg",
+      "source_path": "支撑材料/图件/14_源数量与每源费用.svg",
+      "bytes": 27236,
+      "sha256": "44b3e05d8ab2bfee666d88bedae709d952bbc005b8a87184ffb30a01ffed1da0",
+      "source_sha256": "44b3e05d8ab2bfee666d88bedae709d952bbc005b8a87184ffb30a01ffed1da0",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/15_官方演练费用构成.png",
+      "source_path": "支撑材料/图件/15_官方演练费用构成.png",
+      "bytes": 161387,
+      "sha256": "6dd291e62e517e063c707c1ac3c910e09e39e039ca0f096035514068b2dbf955",
+      "source_sha256": "6dd291e62e517e063c707c1ac3c910e09e39e039ca0f096035514068b2dbf955",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/15_官方演练费用构成.svg",
+      "source_path": "支撑材料/图件/15_官方演练费用构成.svg",
+      "bytes": 215691,
+      "sha256": "44c578993c2678211c9267c202cedb48ed5cfcca44896b3858c3576cbca3785a",
+      "source_sha256": "44c578993c2678211c9267c202cedb48ed5cfcca44896b3858c3576cbca3785a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/16_官方演练轨迹.png",
+      "source_path": "支撑材料/图件/16_官方演练轨迹.png",
+      "bytes": 196698,
+      "sha256": "f79e67f925d65b5dc9a97abef2e2274161f2b9b853c3dd9cbdfa6824a1071514",
+      "source_sha256": "f79e67f925d65b5dc9a97abef2e2274161f2b9b853c3dd9cbdfa6824a1071514",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/图件/16_官方演练轨迹.svg",
+      "source_path": "支撑材料/图件/16_官方演练轨迹.svg",
+      "bytes": 22971,
+      "sha256": "e18fe982007c4e2565bc848f2c828b9b66ff036dea660f1b3972a62e79825232",
+      "source_sha256": "e18fe982007c4e2565bc848f2c828b9b66ff036dea660f1b3972a62e79825232",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/复现说明.md",
+      "source_path": "支撑材料/复现说明.md",
+      "bytes": 7529,
+      "sha256": "eef621221f22b078065865c1d298893dfab919e884b9b5bcc502557ecddff391",
+      "source_sha256": "eef621221f22b078065865c1d298893dfab919e884b9b5bcc502557ecddff391",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/01_问题二候选测点与定位界.csv",
+      "source_path": "支撑材料/数据/01_问题二候选测点与定位界.csv",
+      "bytes": 900,
+      "sha256": "4b6dcfbce9cede0b1d45ff35c07f99189f675c16ec585e1b790259340eebfea4",
+      "source_sha256": "4b6dcfbce9cede0b1d45ff35c07f99189f675c16ec585e1b790259340eebfea4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/02_十二局官方演练结果.csv",
+      "source_path": "支撑材料/数据/02_十二局官方演练结果.csv",
+      "bytes": 1633,
+      "sha256": "0f112f03588a784a007a2bc0b02a9fe4bbf32073175002e9b10ffd3adbbefc77",
+      "source_sha256": "0f112f03588a784a007a2bc0b02a9fe4bbf32073175002e9b10ffd3adbbefc77",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/03_同场策略比较汇总.csv",
+      "source_path": "支撑材料/数据/03_同场策略比较汇总.csv",
+      "bytes": 2444,
+      "sha256": "0ff7dd3890d76fd18a3c1d26b8a0f477f889859efa34149bfb747a1ab24e5e1b",
+      "source_sha256": "0ff7dd3890d76fd18a3c1d26b8a0f477f889859efa34149bfb747a1ab24e5e1b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/04_问题三巡检布局比较.csv",
+      "source_path": "支撑材料/数据/04_问题三巡检布局比较.csv",
+      "bytes": 769,
+      "sha256": "d2c5e9ac95d4b87eef37db1598caf7ae1dea11b6cb4fe9b88eb4658250446b13",
+      "source_sha256": "d2c5e9ac95d4b87eef37db1598caf7ae1dea11b6cb4fe9b88eb4658250446b13",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/05_问题四二十七点与二十一点比较.csv",
+      "source_path": "支撑材料/数据/05_问题四二十七点与二十一点比较.csv",
+      "bytes": 419,
+      "sha256": "a18c18e22af0f071a14c29a3a1cecfd22829188d5411edd5fb3cf994ba85834a",
+      "source_sha256": "a18c18e22af0f071a14c29a3a1cecfd22829188d5411edd5fb3cf994ba85834a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/06_关键机制消融结果.csv",
+      "source_path": "支撑材料/数据/06_关键机制消融结果.csv",
+      "bytes": 848,
+      "sha256": "98bc505ad65e02dad70e9be78c5b543a4bb8269066572d4f52a94c75b8c87743",
+      "source_sha256": "98bc505ad65e02dad70e9be78c5b543a4bb8269066572d4f52a94c75b8c87743",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/cases.json",
+      "source_path": "支撑材料/数据/ablation/cases.json",
+      "bytes": 187651,
+      "sha256": "f12abc9c3ecd4f555939c79076ad99fda9e6fcc13dae953927ee40e27b434722",
+      "source_sha256": "f12abc9c3ecd4f555939c79076ad99fda9e6fcc13dae953927ee40e27b434722",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/complete_reference.json.gz",
+      "source_path": "支撑材料/数据/ablation/complete_reference.json.gz",
+      "bytes": 1177856,
+      "sha256": "8251dbc47b521dd54b0df28209dabbe03bd0d2f08d12ca1833e86101b85e471f",
+      "source_sha256": "8251dbc47b521dd54b0df28209dabbe03bd0d2f08d12ca1833e86101b85e471f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/integrity.json",
+      "source_path": "支撑材料/数据/ablation/integrity.json",
+      "bytes": 193,
+      "sha256": "c3930780210ec66f4e1cc2ac8ac21f98f985c8f1da89cf5133a919bb61c67bad",
+      "source_sha256": "c3930780210ec66f4e1cc2ac8ac21f98f985c8f1da89cf5133a919bb61c67bad",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/mechanism_verification.json",
+      "source_path": "支撑材料/数据/ablation/mechanism_verification.json",
+      "bytes": 2592,
+      "sha256": "3003b7bbd2dbf451e2fc03adf3932c7d2a71bd1d153a8bea7bb3954d10bbde88",
+      "source_sha256": "3003b7bbd2dbf451e2fc03adf3932c7d2a71bd1d153a8bea7bb3954d10bbde88",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/protocol.json",
+      "source_path": "支撑材料/数据/ablation/protocol.json",
+      "bytes": 4315,
+      "sha256": "2cbc006e43735c760a152dbfbcf6729634a055e49a3122095e39844ee5e62bf4",
+      "source_sha256": "2cbc006e43735c760a152dbfbcf6729634a055e49a3122095e39844ee5e62bf4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/rows.json",
+      "source_path": "支撑材料/数据/ablation/rows.json",
+      "bytes": 122811,
+      "sha256": "22b5312fd7752500d428f3038bc372732205a279d9fdfece294f2154cfeb422a",
+      "source_sha256": "22b5312fd7752500d428f3038bc372732205a279d9fdfece294f2154cfeb422a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/runs.zip",
+      "source_path": "支撑材料/数据/ablation/runs.zip",
+      "bytes": 4528182,
+      "sha256": "027cbdee4dfaa9bc306eeb9c114b7b6ead6627eb8590d581787b98cdcf78776b",
+      "source_sha256": "027cbdee4dfaa9bc306eeb9c114b7b6ead6627eb8590d581787b98cdcf78776b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/summary.json",
+      "source_path": "支撑材料/数据/ablation/summary.json",
+      "bytes": 142191,
+      "sha256": "1e9eaaaf95c1fa00219984e5a184d71e1aabc1fbbf7380a09181124745aff729",
+      "source_sha256": "1e9eaaaf95c1fa00219984e5a184d71e1aabc1fbbf7380a09181124745aff729",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation/原执行源码核对.json",
+      "source_path": "支撑材料/数据/ablation/原执行源码核对.json",
+      "bytes": 1157,
+      "sha256": "4d527da9f207d1e78ee222ef1668decf978fba40d6f639343513dc8516822512",
+      "source_sha256": "4d527da9f207d1e78ee222ef1668decf978fba40d6f639343513dc8516822512",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/ablation_for_paper.json",
+      "source_path": "支撑材料/数据/ablation_for_paper.json",
+      "bytes": 133866,
+      "sha256": "d8c28346c308c41354e13be06a9da17312171cdffab7b59944f37026a2deb286",
+      "source_sha256": "d8c28346c308c41354e13be06a9da17312171cdffab7b59944f37026a2deb286",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/benchmark.json.gz",
+      "source_path": "支撑材料/数据/benchmark.json.gz",
+      "bytes": 62143,
+      "sha256": "ab25a9d13936ac7adf460acd3340443c7af5f19c982876c9934477928a30452b",
+      "source_sha256": "ab25a9d13936ac7adf460acd3340443c7af5f19c982876c9934477928a30452b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/benchmark_summary.json",
+      "source_path": "支撑材料/数据/benchmark_summary.json",
+      "bytes": 5887,
+      "sha256": "ba3afb3436e3d240424abe15fc433dd883a7115f493a8ce050036e7c7bfc19b2",
+      "source_sha256": "ba3afb3436e3d240424abe15fc433dd883a7115f493a8ce050036e7c7bfc19b2",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/fresh_confirmation_cases.json",
+      "source_path": "支撑材料/数据/fresh_confirmation_cases.json",
+      "bytes": 602299,
+      "sha256": "b3af2a0e99671091a28a6aae9e787c4ada1dc726364e21bd65ee774d604a5e46",
+      "source_sha256": "b3af2a0e99671091a28a6aae9e787c4ada1dc726364e21bd65ee774d604a5e46",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/layout_comparison.json",
+      "source_path": "支撑材料/数据/layout_comparison.json",
+      "bytes": 7609,
+      "sha256": "70f1b3c9558c4bc85112015e8b4bf524fa0807f745e868ca61edca23b0cf184d",
+      "source_sha256": "70f1b3c9558c4bc85112015e8b4bf524fa0807f745e868ca61edca23b0cf184d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/layouts/m012_triangular27_certificate.json",
+      "source_path": "支撑材料/数据/layouts/m012_triangular27_certificate.json",
+      "bytes": 60189,
+      "sha256": "5604bdff2cb69e05f1af5dbcaf9b31f58469f4ddc4d81ebe1f4c43219d59fbcf",
+      "source_sha256": "5604bdff2cb69e05f1af5dbcaf9b31f58469f4ddc4d81ebe1f4c43219d59fbcf",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/layouts/ring21_999_1867_phase15_certificate.json",
+      "source_path": "支撑材料/数据/layouts/ring21_999_1867_phase15_certificate.json",
+      "bytes": 282991,
+      "sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+      "source_sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p3-1696830051126850148-SQDS-KFK9-TX88-D263.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p3-1696830051126850148-SQDS-KFK9-TX88-D263.jlog",
+      "bytes": 33004,
+      "sha256": "ea15125fb61eec30a79018d425884c399ac10aea89d045b13a950b73b4d13eaf",
+      "source_sha256": "ea15125fb61eec30a79018d425884c399ac10aea89d045b13a950b73b4d13eaf",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p3-3871783657009935898-2ZPG-KPEB-9RDV-86WU.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p3-3871783657009935898-2ZPG-KPEB-9RDV-86WU.jlog",
+      "bytes": 36226,
+      "sha256": "c76c626cb3452c51c8ac41bee2cb33a0cc40f61b45f7b776c2a80caa90c4fcc6",
+      "source_sha256": "c76c626cb3452c51c8ac41bee2cb33a0cc40f61b45f7b776c2a80caa90c4fcc6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p3-5215294167507790703-78JR-RBZF-XBRR-DPXX.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p3-5215294167507790703-78JR-RBZF-XBRR-DPXX.jlog",
+      "bytes": 35369,
+      "sha256": "784c4afba477cf941d92716f0b785ede358539202163dca0d5d48c1130635452",
+      "source_sha256": "784c4afba477cf941d92716f0b785ede358539202163dca0d5d48c1130635452",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p3-5621729768883561376-89Y6-5Q9J-3AXY-472D.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p3-5621729768883561376-89Y6-5Q9J-3AXY-472D.jlog",
+      "bytes": 33374,
+      "sha256": "df995b92aceb12b86bc61596e4e23454ee3dac12ac4fb33c3a7c864f9925c82b",
+      "source_sha256": "df995b92aceb12b86bc61596e4e23454ee3dac12ac4fb33c3a7c864f9925c82b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p3-6924584107264297628-QE4D-F7CJ-2KGB-HAXX.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p3-6924584107264297628-QE4D-F7CJ-2KGB-HAXX.jlog",
+      "bytes": 36238,
+      "sha256": "8effb1a696c3429ad08e9b6ff8a3473dc2924f4e3f77cba6984152d75693caf9",
+      "source_sha256": "8effb1a696c3429ad08e9b6ff8a3473dc2924f4e3f77cba6984152d75693caf9",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p3-7275701023370612396-SAGQ-TC3E-NQJP-DAFQ.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p3-7275701023370612396-SAGQ-TC3E-NQJP-DAFQ.jlog",
+      "bytes": 34524,
+      "sha256": "06bcb7424d6a6772d091ff54f5c683472bbb6024ec4484b4a075329f7b2ac8ea",
+      "source_sha256": "06bcb7424d6a6772d091ff54f5c683472bbb6024ec4484b4a075329f7b2ac8ea",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p4-1119527567064111586-BN7C-7MVW-7XMM-HPFW.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p4-1119527567064111586-BN7C-7MVW-7XMM-HPFW.jlog",
+      "bytes": 72356,
+      "sha256": "dba662099dadaf3a45a964034fc4393e40990360ca486b80204ce53fca097ad1",
+      "source_sha256": "dba662099dadaf3a45a964034fc4393e40990360ca486b80204ce53fca097ad1",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p4-1440403775607591279-XE6X-MQSB-WP8X-W9BA.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p4-1440403775607591279-XE6X-MQSB-WP8X-W9BA.jlog",
+      "bytes": 67649,
+      "sha256": "e8dc09ae592e197f0c736cc4a4d74125cbc4dd5e0b95728637c0babeb96227c3",
+      "source_sha256": "e8dc09ae592e197f0c736cc4a4d74125cbc4dd5e0b95728637c0babeb96227c3",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p4-169741363390010800-HADD-VY97-VNKS-SRXX.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p4-169741363390010800-HADD-VY97-VNKS-SRXX.jlog",
+      "bytes": 65348,
+      "sha256": "e703e1df23982144eaa7ece32bfc6d99390f3660ce90d1e6d3974f6bd5cc5554",
+      "source_sha256": "e703e1df23982144eaa7ece32bfc6d99390f3660ce90d1e6d3974f6bd5cc5554",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p4-5846854181220254910-XD9J-6HEH-V246-4PGY.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p4-5846854181220254910-XD9J-6HEH-V246-4PGY.jlog",
+      "bytes": 69606,
+      "sha256": "6cbcd52005a6de491dc0b6244a17156679b06d8faa89f7c31da2ebb2547ec6e7",
+      "source_sha256": "6cbcd52005a6de491dc0b6244a17156679b06d8faa89f7c31da2ebb2547ec6e7",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p4-6005732216413951342-XPPZ-6GNM-3WXN-7P76.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p4-6005732216413951342-XPPZ-6GNM-3WXN-7P76.jlog",
+      "bytes": 56726,
+      "sha256": "a286996c5ebbfe0220d62e88ba78ef444f3506976a1d6c572ad044c60bbc24cc",
+      "source_sha256": "a286996c5ebbfe0220d62e88ba78ef444f3506976a1d6c572ad044c60bbc24cc",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/official_logs/practice-p4-6924111626146687032-DGQV-55ES-YW63-X9C3.jlog",
+      "source_path": "支撑材料/数据/official_logs/practice-p4-6924111626146687032-DGQV-55ES-YW63-X9C3.jlog",
+      "bytes": 74731,
+      "sha256": "e03f64579a3e78f2f7250aa94a0133cee58ef0d930621f69147e461a58a0d235",
+      "source_sha256": "e03f64579a3e78f2f7250aa94a0133cee58ef0d930621f69147e461a58a0d235",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/offline_cases.json.gz",
+      "source_path": "支撑材料/数据/offline_cases.json.gz",
+      "bytes": 256291,
+      "sha256": "e308c8f26e508ca1e681e7c04ccd7f05264884908f653d2842417f90d4bb9c3d",
+      "source_sha256": "e308c8f26e508ca1e681e7c04ccd7f05264884908f653d2842417f90d4bb9c3d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/p3_evidence.json",
+      "source_path": "支撑材料/数据/p3_evidence.json",
+      "bytes": 23351,
+      "sha256": "4271867f8de45f98a1ffcbf70d90b630dff240f108ce2198b2307976b09a9b53",
+      "source_sha256": "4271867f8de45f98a1ffcbf70d90b630dff240f108ce2198b2307976b09a9b53",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/paper_evidence.json",
+      "source_path": "支撑材料/数据/paper_evidence.json",
+      "bytes": 1265973,
+      "sha256": "931f12d4700e3d4fda6682f607a736648a054b2b607621324299f798ada76280",
+      "source_sha256": "931f12d4700e3d4fda6682f607a736648a054b2b607621324299f798ada76280",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/2ZPG-KPEB-9RDV-86WU/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/2ZPG-KPEB-9RDV-86WU/actions.jsonl.gz",
+      "bytes": 4133,
+      "sha256": "f0ff18befb0054ff210e3460af7a5d22462ff6d07cbb10bb25c78f1b7e1505fe",
+      "source_sha256": "f0ff18befb0054ff210e3460af7a5d22462ff6d07cbb10bb25c78f1b7e1505fe",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/2ZPG-KPEB-9RDV-86WU/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/2ZPG-KPEB-9RDV-86WU/runtime_config.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/2ZPG-KPEB-9RDV-86WU/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/2ZPG-KPEB-9RDV-86WU/strategy_settings.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/78JR-RBZF-XBRR-DPXX/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/78JR-RBZF-XBRR-DPXX/actions.jsonl.gz",
+      "bytes": 4144,
+      "sha256": "b23b5a6bb42a5f29790d4488d4b19c6500f40b32139a268514114e4c2cffc434",
+      "source_sha256": "b23b5a6bb42a5f29790d4488d4b19c6500f40b32139a268514114e4c2cffc434",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/78JR-RBZF-XBRR-DPXX/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/78JR-RBZF-XBRR-DPXX/runtime_config.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/78JR-RBZF-XBRR-DPXX/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/78JR-RBZF-XBRR-DPXX/strategy_settings.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/89Y6-5Q9J-3AXY-472D/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/89Y6-5Q9J-3AXY-472D/actions.jsonl.gz",
+      "bytes": 3745,
+      "sha256": "1df304c89a58f2b696777e7910083c3372ca9ff0c22afe3370a752e7dcef5433",
+      "source_sha256": "1df304c89a58f2b696777e7910083c3372ca9ff0c22afe3370a752e7dcef5433",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/89Y6-5Q9J-3AXY-472D/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/89Y6-5Q9J-3AXY-472D/runtime_config.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/89Y6-5Q9J-3AXY-472D/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/89Y6-5Q9J-3AXY-472D/strategy_settings.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/BN7C-7MVW-7XMM-HPFW/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/BN7C-7MVW-7XMM-HPFW/actions.jsonl.gz",
+      "bytes": 8262,
+      "sha256": "7a030fbba6f5af7c3c5d116b92b643161cc25ca7352b59e0d76191f02a180170",
+      "source_sha256": "7a030fbba6f5af7c3c5d116b92b643161cc25ca7352b59e0d76191f02a180170",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/BN7C-7MVW-7XMM-HPFW/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/BN7C-7MVW-7XMM-HPFW/runtime_config.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/BN7C-7MVW-7XMM-HPFW/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/BN7C-7MVW-7XMM-HPFW/strategy_settings.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/DGQV-55ES-YW63-X9C3/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/DGQV-55ES-YW63-X9C3/actions.jsonl.gz",
+      "bytes": 8508,
+      "sha256": "331a250ad4a58df3c8a60827f6c825571f4ca7a5944882f1c6b1967f285838e2",
+      "source_sha256": "331a250ad4a58df3c8a60827f6c825571f4ca7a5944882f1c6b1967f285838e2",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/DGQV-55ES-YW63-X9C3/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/DGQV-55ES-YW63-X9C3/runtime_config.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/DGQV-55ES-YW63-X9C3/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/DGQV-55ES-YW63-X9C3/strategy_settings.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/HADD-VY97-VNKS-SRXX/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/HADD-VY97-VNKS-SRXX/actions.jsonl.gz",
+      "bytes": 7295,
+      "sha256": "a8db8bec307211fd4d0909fbb341435dd805aad9f469c905b0bdea24b8a79f4b",
+      "source_sha256": "a8db8bec307211fd4d0909fbb341435dd805aad9f469c905b0bdea24b8a79f4b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/HADD-VY97-VNKS-SRXX/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/HADD-VY97-VNKS-SRXX/runtime_config.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/HADD-VY97-VNKS-SRXX/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/HADD-VY97-VNKS-SRXX/strategy_settings.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/QE4D-F7CJ-2KGB-HAXX/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/QE4D-F7CJ-2KGB-HAXX/actions.jsonl.gz",
+      "bytes": 4207,
+      "sha256": "c17c3da557b69598c8eda256afe64be10e400f4ec2dc535c615d9dafb18f0ea0",
+      "source_sha256": "c17c3da557b69598c8eda256afe64be10e400f4ec2dc535c615d9dafb18f0ea0",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/QE4D-F7CJ-2KGB-HAXX/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/QE4D-F7CJ-2KGB-HAXX/runtime_config.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/QE4D-F7CJ-2KGB-HAXX/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/QE4D-F7CJ-2KGB-HAXX/strategy_settings.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/SAGQ-TC3E-NQJP-DAFQ/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/SAGQ-TC3E-NQJP-DAFQ/actions.jsonl.gz",
+      "bytes": 3801,
+      "sha256": "ff2af598efa3dc9b0862be1c2e0cd0769cde2e58f4e99d39e0a2d63690e78962",
+      "source_sha256": "ff2af598efa3dc9b0862be1c2e0cd0769cde2e58f4e99d39e0a2d63690e78962",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/SAGQ-TC3E-NQJP-DAFQ/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/SAGQ-TC3E-NQJP-DAFQ/runtime_config.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/SAGQ-TC3E-NQJP-DAFQ/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/SAGQ-TC3E-NQJP-DAFQ/strategy_settings.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/SQDS-KFK9-TX88-D263/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/SQDS-KFK9-TX88-D263/actions.jsonl.gz",
+      "bytes": 3742,
+      "sha256": "fd51063975c7eeaa09ca4a7c54058f0b9a040b1c0dc49c1c27542f8fadb9926e",
+      "source_sha256": "fd51063975c7eeaa09ca4a7c54058f0b9a040b1c0dc49c1c27542f8fadb9926e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/SQDS-KFK9-TX88-D263/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/SQDS-KFK9-TX88-D263/runtime_config.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/SQDS-KFK9-TX88-D263/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/SQDS-KFK9-TX88-D263/strategy_settings.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XD9J-6HEH-V246-4PGY/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/XD9J-6HEH-V246-4PGY/actions.jsonl.gz",
+      "bytes": 7677,
+      "sha256": "13d2c58f5c975077601524ab7086b2c1ab34fb59fd864ec1a2db426a963192e3",
+      "source_sha256": "13d2c58f5c975077601524ab7086b2c1ab34fb59fd864ec1a2db426a963192e3",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XD9J-6HEH-V246-4PGY/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/XD9J-6HEH-V246-4PGY/runtime_config.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XD9J-6HEH-V246-4PGY/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/XD9J-6HEH-V246-4PGY/strategy_settings.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XE6X-MQSB-WP8X-W9BA/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/XE6X-MQSB-WP8X-W9BA/actions.jsonl.gz",
+      "bytes": 8079,
+      "sha256": "b6f71650034430cc26159f8ec023ed5be364132a00971c43bb4ac584e1be3855",
+      "source_sha256": "b6f71650034430cc26159f8ec023ed5be364132a00971c43bb4ac584e1be3855",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XE6X-MQSB-WP8X-W9BA/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/XE6X-MQSB-WP8X-W9BA/runtime_config.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XE6X-MQSB-WP8X-W9BA/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/XE6X-MQSB-WP8X-W9BA/strategy_settings.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XPPZ-6GNM-3WXN-7P76/actions.jsonl.gz",
+      "source_path": "支撑材料/数据/practice/XPPZ-6GNM-3WXN-7P76/actions.jsonl.gz",
+      "bytes": 6488,
+      "sha256": "0de200ac4e06f451ce5f41fee30e316a3df7ed6df31f6e9c7e6a36e244586367",
+      "source_sha256": "0de200ac4e06f451ce5f41fee30e316a3df7ed6df31f6e9c7e6a36e244586367",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XPPZ-6GNM-3WXN-7P76/runtime_config.json",
+      "source_path": "支撑材料/数据/practice/XPPZ-6GNM-3WXN-7P76/runtime_config.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice/XPPZ-6GNM-3WXN-7P76/strategy_settings.json",
+      "source_path": "支撑材料/数据/practice/XPPZ-6GNM-3WXN-7P76/strategy_settings.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/practice_results.json",
+      "source_path": "支撑材料/数据/practice_results.json",
+      "bytes": 95485,
+      "sha256": "e41c15ac8521caa42825366aecb042c694406c34f76c2a0c56e1f32917e285a1",
+      "source_sha256": "e41c15ac8521caa42825366aecb042c694406c34f76c2a0c56e1f32917e285a1",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/q1_examples.json",
+      "source_path": "支撑材料/数据/q1_examples.json",
+      "bytes": 15446,
+      "sha256": "da2e7cdb404b5d16401de742c6ff1589e42cc1e7647ee5c471253bbe57c4134d",
+      "source_sha256": "da2e7cdb404b5d16401de742c6ff1589e42cc1e7647ee5c471253bbe57c4134d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/q2_results.json",
+      "source_path": "支撑材料/数据/q2_results.json",
+      "bytes": 18792,
+      "sha256": "97f481281c10fc2b25513eb7929823040179c89aac76d3a599fdfd29abcd11aa",
+      "source_sha256": "97f481281c10fc2b25513eb7929823040179c89aac76d3a599fdfd29abcd11aa",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/q4_coverage_certificate.json",
+      "source_path": "支撑材料/数据/q4_coverage_certificate.json",
+      "bytes": 282991,
+      "sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+      "source_sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/stress_cases.json.gz",
+      "source_path": "支撑材料/数据/stress_cases.json.gz",
+      "bytes": 3321958,
+      "sha256": "0dd70acd7104afd1aa30f1f838b1ccaebff42499495855a71921cea4e611c29a",
+      "source_sha256": "0dd70acd7104afd1aa30f1f838b1ccaebff42499495855a71921cea4e611c29a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/stress_rows.json.gz",
+      "source_path": "支撑材料/数据/stress_rows.json.gz",
+      "bytes": 35561,
+      "sha256": "be14718a46f9489795b5a40ddfcaf975e97feaffed556c74f030bf0b809d2483",
+      "source_sha256": "be14718a46f9489795b5a40ddfcaf975e97feaffed556c74f030bf0b809d2483",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三_物理与动作参数.json",
+      "source_path": "支撑材料/数据/参数/问题三_物理与动作参数.json",
+      "bytes": 649,
+      "sha256": "3e7c9426889da64fb7a16d13a923172c0cf0c3f56361a4811935239c496c3f1f",
+      "source_sha256": "3e7c9426889da64fb7a16d13a923172c0cf0c3f56361a4811935239c496c3f1f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三_算法参数.json",
+      "source_path": "支撑材料/数据/参数/问题三_算法参数.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三_阴性收缩候选参数.json",
+      "source_path": "支撑材料/数据/参数/问题三_阴性收缩候选参数.json",
+      "bytes": 6366,
+      "sha256": "776e6a9b12104b28a22523d459026d3e2f9bbf2d80fb19db4d7a6a09fe7b5b52",
+      "source_sha256": "776e6a9b12104b28a22523d459026d3e2f9bbf2d80fb19db4d7a6a09fe7b5b52",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_信息调度对照参数.json",
+      "source_path": "支撑材料/数据/参数/问题三四_信息调度对照参数.json",
+      "bytes": 701,
+      "sha256": "c68ee6f19ab3f9af16742d904f5bf59546045aadc104594c437bd9ea35f15425",
+      "source_sha256": "c68ee6f19ab3f9af16742d904f5bf59546045aadc104594c437bd9ea35f15425",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_信息调度选型.json",
+      "source_path": "支撑材料/数据/参数/问题三四_信息调度选型.json",
+      "bytes": 11718,
+      "sha256": "7594f72fb81029126187ec6f6020931485df07e70a824b7adabf950887e7a015",
+      "source_sha256": "7594f72fb81029126187ec6f6020931485df07e70a824b7adabf950887e7a015",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_共同基线参数.json",
+      "source_path": "支撑材料/数据/参数/问题三四_共同基线参数.json",
+      "bytes": 1331,
+      "sha256": "bd7306b4772ddb6122bc9b1e608d374dd2df436e0c0be7d37e12b676c070e330",
+      "source_sha256": "bd7306b4772ddb6122bc9b1e608d374dd2df436e0c0be7d37e12b676c070e330",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_原交付程序清单.json",
+      "source_path": "支撑材料/数据/参数/问题三四_原交付程序清单.json",
+      "bytes": 11833,
+      "sha256": "8d9f68af36b85f04d153955ce5479df99c660faa471cac20e23e7e95ef01cb6b",
+      "source_sha256": "8d9f68af36b85f04d153955ce5479df99c660faa471cac20e23e7e95ef01cb6b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_正式算法选型.json",
+      "source_path": "支撑材料/数据/参数/问题三四_正式算法选型.json",
+      "bytes": 2286,
+      "sha256": "ffa8c652dfb788324a98ef0b1608f073125389086f80ce2ba0e32db61aa592de",
+      "source_sha256": "ffa8c652dfb788324a98ef0b1608f073125389086f80ce2ba0e32db61aa592de",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_费用模型基线参数.json",
+      "source_path": "支撑材料/数据/参数/问题三四_费用模型基线参数.json",
+      "bytes": 1329,
+      "sha256": "b0438df82513094b7035281541ff23b113fbe4835b863da3bea0f6faadc0f2d3",
+      "source_sha256": "b0438df82513094b7035281541ff23b113fbe4835b863da3bea0f6faadc0f2d3",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_费用模型对照参数.json",
+      "source_path": "支撑材料/数据/参数/问题三四_费用模型对照参数.json",
+      "bytes": 828,
+      "sha256": "f29ec6a83130bfa6e3a017102b74ff3a03b9d27ff7e928a34cc34e446c5f5913",
+      "source_sha256": "f29ec6a83130bfa6e3a017102b74ff3a03b9d27ff7e928a34cc34e446c5f5913",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题三四_费用模型选型.json",
+      "source_path": "支撑材料/数据/参数/问题三四_费用模型选型.json",
+      "bytes": 9603,
+      "sha256": "01c0d936f6e7c852c8fea087c7a1b9d1bb864962343fe5dff1796a81047fb1fa",
+      "source_sha256": "01c0d936f6e7c852c8fea087c7a1b9d1bb864962343fe5dff1796a81047fb1fa",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题四_物理与动作参数.json",
+      "source_path": "支撑材料/数据/参数/问题四_物理与动作参数.json",
+      "bytes": 629,
+      "sha256": "e27562bb020793e7a8ab653118eeae09d2ec76044cd398ea2904175f30b9b042",
+      "source_sha256": "e27562bb020793e7a8ab653118eeae09d2ec76044cd398ea2904175f30b9b042",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/参数/问题四_算法参数.json",
+      "source_path": "支撑材料/数据/参数/问题四_算法参数.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/定稿图件/04_问题二移动费用与定位精度.png",
+      "source_path": "支撑材料/数据/定稿图件/04_问题二移动费用与定位精度.png",
+      "bytes": 191842,
+      "sha256": "464b529444600da908899c2b981441d6cc809bf13b90ebc84a7ffda052127a22",
+      "source_sha256": "464b529444600da908899c2b981441d6cc809bf13b90ebc84a7ffda052127a22",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/定稿图件/05_搜索定位与清除流程.png",
+      "source_path": "支撑材料/数据/定稿图件/05_搜索定位与清除流程.png",
+      "bytes": 136607,
+      "sha256": "0197bd8014a2dd1430152a2208aac7a86501ce57a2a22c21e7d576a565e13b04",
+      "source_sha256": "0197bd8014a2dd1430152a2208aac7a86501ce57a2a22c21e7d576a565e13b04",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/定稿图件/06_问题三七点巡检布局.png",
+      "source_path": "支撑材料/数据/定稿图件/06_问题三七点巡检布局.png",
+      "bytes": 471926,
+      "sha256": "fe02971301269926d95eb9748fd84788b0c707991e34e4bfe7022f41f4bdda49",
+      "source_sha256": "fe02971301269926d95eb9748fd84788b0c707991e34e4bfe7022f41f4bdda49",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/定稿图件/14_源数量与每源费用.png",
+      "source_path": "支撑材料/数据/定稿图件/14_源数量与每源费用.png",
+      "bytes": 123854,
+      "sha256": "9703e69d37747fd7f6a21cb0c3e1a8b0da7d56f031c35076a3667ba5d3b03ff3",
+      "source_sha256": "9703e69d37747fd7f6a21cb0c3e1a8b0da7d56f031c35076a3667ba5d3b03ff3",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/定稿图件/15_官方演练费用构成.png",
+      "source_path": "支撑材料/数据/定稿图件/15_官方演练费用构成.png",
+      "bytes": 161387,
+      "sha256": "6dd291e62e517e063c707c1ac3c910e09e39e039ca0f096035514068b2dbf955",
+      "source_sha256": "6dd291e62e517e063c707c1ac3c910e09e39e039ca0f096035514068b2dbf955",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/定稿图件/说明.md",
+      "source_path": "支撑材料/数据/定稿图件/说明.md",
+      "bytes": 4472,
+      "sha256": "23085b14726fb8b5171bad485a412bc33dd59128e6530f8da0a88bf6273686ca",
+      "source_sha256": "23085b14726fb8b5171bad485a412bc33dd59128e6530f8da0a88bf6273686ca",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/formal-p3-1-RKMV-HG3J-9ZHA-WYCT.jlog",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/formal-p3-1-RKMV-HG3J-9ZHA-WYCT.jlog",
+      "bytes": 116572,
+      "sha256": "56b109ec566039871ae06b8f819f7277aa382929b7afcf5070ae5fc3e30544fb",
+      "source_sha256": "56b109ec566039871ae06b8f819f7277aa382929b7afcf5070ae5fc3e30544fb",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/formal-p3-1-RKMV-HG3J-9ZHA-WYCT.result.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/formal-p3-1-RKMV-HG3J-9ZHA-WYCT.result.json",
+      "bytes": 230,
+      "sha256": "f0dee5569043893f6c6fd56f6fa578b2e3d156f4f4a6ea2ef51ab5d76b45645b",
+      "source_sha256": "f0dee5569043893f6c6fd56f6fa578b2e3d156f4f4a6ea2ef51ab5d76b45645b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始动作.jsonl",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始动作.jsonl",
+      "bytes": 61483,
+      "sha256": "fad9f83ccce0ddbdd9ef48029af7600e7b0fb41686b2e9b8637296ef49694cbb",
+      "source_sha256": "fad9f83ccce0ddbdd9ef48029af7600e7b0fb41686b2e9b8637296ef49694cbb",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始运行摘要.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始运行摘要.json",
+      "bytes": 969,
+      "sha256": "3ec2663cc0c6ebcba8fd47c2679b847d0d2ecb3839348ca05f418f65086c07f0",
+      "source_sha256": "3ec2663cc0c6ebcba8fd47c2679b847d0d2ecb3839348ca05f418f65086c07f0",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始运行清单.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/原始运行清单.json",
+      "bytes": 14771,
+      "sha256": "7622abca1acd477cb69e5ba8017b209266a1cdc8678d7e9802f78a4351ef6741",
+      "source_sha256": "7622abca1acd477cb69e5ba8017b209266a1cdc8678d7e9802f78a4351ef6741",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/策略参数.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/策略参数.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/运行配置.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_1_RKMV-HG3J-9ZHA-WYCT/运行配置.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/formal-p3-2-2JVQ-KT9B-D8Z7-4TMP.jlog",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/formal-p3-2-2JVQ-KT9B-D8Z7-4TMP.jlog",
+      "bytes": 117341,
+      "sha256": "a29b9fe1184ec48977ad6bf64fd89474374c2f5527aeb8f06d423f4c101f0c05",
+      "source_sha256": "a29b9fe1184ec48977ad6bf64fd89474374c2f5527aeb8f06d423f4c101f0c05",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/formal-p3-2-2JVQ-KT9B-D8Z7-4TMP.result.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/formal-p3-2-2JVQ-KT9B-D8Z7-4TMP.result.json",
+      "bytes": 229,
+      "sha256": "71c98c13b6fccd7fbae62c942c5ee094878c05d948d172b6f43b968cda4e4532",
+      "source_sha256": "71c98c13b6fccd7fbae62c942c5ee094878c05d948d172b6f43b968cda4e4532",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始动作.jsonl",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始动作.jsonl",
+      "bytes": 61655,
+      "sha256": "567172bc34d9703cc231a284833c7d454e4e19330df0d19b30c50add6077ceb9",
+      "source_sha256": "567172bc34d9703cc231a284833c7d454e4e19330df0d19b30c50add6077ceb9",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始运行摘要.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始运行摘要.json",
+      "bytes": 969,
+      "sha256": "447c71723525e38c0f8ab90ad772751ef33369a492532510bd670139535dea18",
+      "source_sha256": "447c71723525e38c0f8ab90ad772751ef33369a492532510bd670139535dea18",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始运行清单.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/原始运行清单.json",
+      "bytes": 14771,
+      "sha256": "200069ca84e6f85b2cf72a0302069a10d6868f09475dcb527ca7bc10a1961ea5",
+      "source_sha256": "200069ca84e6f85b2cf72a0302069a10d6868f09475dcb527ca7bc10a1961ea5",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/策略参数.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/策略参数.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/运行配置.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_2_2JVQ-KT9B-D8Z7-4TMP/运行配置.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/formal-p3-3-QWGB-TSJX-EJFR-2TGH.jlog",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/formal-p3-3-QWGB-TSJX-EJFR-2TGH.jlog",
+      "bytes": 102842,
+      "sha256": "d3d43b3cfc2ed6b12423d52da8671dc3b83d7e5d762472da964018e1c49ba1d1",
+      "source_sha256": "d3d43b3cfc2ed6b12423d52da8671dc3b83d7e5d762472da964018e1c49ba1d1",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/formal-p3-3-QWGB-TSJX-EJFR-2TGH.result.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/formal-p3-3-QWGB-TSJX-EJFR-2TGH.result.json",
+      "bytes": 230,
+      "sha256": "2a5a2be598a773b37370f85c21108c6b3e73ed8030a237f7d43ba4bf0c986caf",
+      "source_sha256": "2a5a2be598a773b37370f85c21108c6b3e73ed8030a237f7d43ba4bf0c986caf",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始动作.jsonl",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始动作.jsonl",
+      "bytes": 55891,
+      "sha256": "d73b9f9a5a5a5729ed5c9832c1c180166e929f17ac876e3c650f89eece48d3e4",
+      "source_sha256": "d73b9f9a5a5a5729ed5c9832c1c180166e929f17ac876e3c650f89eece48d3e4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始运行摘要.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始运行摘要.json",
+      "bytes": 970,
+      "sha256": "561731b869324ff33d484ccf0cc3a127a69696acb7ba833aa595aec1ae043c76",
+      "source_sha256": "561731b869324ff33d484ccf0cc3a127a69696acb7ba833aa595aec1ae043c76",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始运行清单.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/原始运行清单.json",
+      "bytes": 14771,
+      "sha256": "665dd6c78c670f33eeffd3b5a0539a0387bf2ac450f31b97c044545ba35b50a6",
+      "source_sha256": "665dd6c78c670f33eeffd3b5a0539a0387bf2ac450f31b97c044545ba35b50a6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/策略参数.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/策略参数.json",
+      "bytes": 1035,
+      "sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "source_sha256": "7038298d90bb7f7fd6c38e1e0e255d9e1f42e5cc0e63a2885b4246edf0ff671f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/运行配置.json",
+      "source_path": "支撑材料/数据/正式测试/Q3_3_QWGB-TSJX-EJFR-2TGH/运行配置.json",
+      "bytes": 656,
+      "sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "source_sha256": "6662b52d9fe1010ec4b962b0086c2f9db4dd31456259a3b9a4ab485adbaad26f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/formal-p4-1-Y65D-NFHG-HSA7-PTJ2.jlog",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/formal-p4-1-Y65D-NFHG-HSA7-PTJ2.jlog",
+      "bytes": 129622,
+      "sha256": "a1f4ce8a4f7c604005c8b65104a10575268175b5766ec4aa563c2b7d19669712",
+      "source_sha256": "a1f4ce8a4f7c604005c8b65104a10575268175b5766ec4aa563c2b7d19669712",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/formal-p4-1-Y65D-NFHG-HSA7-PTJ2.result.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/formal-p4-1-Y65D-NFHG-HSA7-PTJ2.result.json",
+      "bytes": 230,
+      "sha256": "6db5d162c5a1d23341629bfb007d9dbf3c9fe7b1b54bae6d8a840c3aee5f442e",
+      "source_sha256": "6db5d162c5a1d23341629bfb007d9dbf3c9fe7b1b54bae6d8a840c3aee5f442e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始动作.jsonl",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始动作.jsonl",
+      "bytes": 123850,
+      "sha256": "4f0a58634c668677b4b32304c77cbb5cc957ba074354ce9c2effa7446102c7b1",
+      "source_sha256": "4f0a58634c668677b4b32304c77cbb5cc957ba074354ce9c2effa7446102c7b1",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始运行摘要.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始运行摘要.json",
+      "bytes": 953,
+      "sha256": "826ab3624ec0aef1c0709efdfbff197f7e12f9a5072320da0070f7c162483ffb",
+      "source_sha256": "826ab3624ec0aef1c0709efdfbff197f7e12f9a5072320da0070f7c162483ffb",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始运行清单.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/原始运行清单.json",
+      "bytes": 14754,
+      "sha256": "2bdee8acae3099fec53c8aae2f6f938a5cf2623eca852b4a5dd84bcc256f1c00",
+      "source_sha256": "2bdee8acae3099fec53c8aae2f6f938a5cf2623eca852b4a5dd84bcc256f1c00",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/策略参数.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/策略参数.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/运行配置.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_1_Y65D-NFHG-HSA7-PTJ2/运行配置.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/formal-p4-2-VWK5-49M4-GXCY-PD82.jlog",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/formal-p4-2-VWK5-49M4-GXCY-PD82.jlog",
+      "bytes": 132563,
+      "sha256": "e3ed55daf89b44a4f01ae8ab95fe146bac032d3de383fb0472114b15a0f9e588",
+      "source_sha256": "e3ed55daf89b44a4f01ae8ab95fe146bac032d3de383fb0472114b15a0f9e588",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/formal-p4-2-VWK5-49M4-GXCY-PD82.result.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/formal-p4-2-VWK5-49M4-GXCY-PD82.result.json",
+      "bytes": 230,
+      "sha256": "7265988109b2239157eb898505ab0929982a4199806dab68e609e6b649234471",
+      "source_sha256": "7265988109b2239157eb898505ab0929982a4199806dab68e609e6b649234471",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始动作.jsonl",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始动作.jsonl",
+      "bytes": 125415,
+      "sha256": "70a293416f8831ae748981bdafa763aace88f56e8f144b5d8817313d8a09c14f",
+      "source_sha256": "70a293416f8831ae748981bdafa763aace88f56e8f144b5d8817313d8a09c14f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始运行摘要.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始运行摘要.json",
+      "bytes": 955,
+      "sha256": "ef278de48c826401d98c73e77bc584e2f37b9b5c6c8331fdf721a567fbc73178",
+      "source_sha256": "ef278de48c826401d98c73e77bc584e2f37b9b5c6c8331fdf721a567fbc73178",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始运行清单.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/原始运行清单.json",
+      "bytes": 14754,
+      "sha256": "30ba6d098b19c043202a3bcfa1a5711a0ccf375bc67c3e6801a9b5172368d73c",
+      "source_sha256": "30ba6d098b19c043202a3bcfa1a5711a0ccf375bc67c3e6801a9b5172368d73c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/策略参数.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/策略参数.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/运行配置.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_2_VWK5-49M4-GXCY-PD82/运行配置.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/formal-p4-3-PEAD-ET89-3T4M-3RFR.jlog",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/formal-p4-3-PEAD-ET89-3T4M-3RFR.jlog",
+      "bytes": 125557,
+      "sha256": "956995e95ba615cf1fd700b68dc2bf7a46689321fe500f4b7f358046c82f30ea",
+      "source_sha256": "956995e95ba615cf1fd700b68dc2bf7a46689321fe500f4b7f358046c82f30ea",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/formal-p4-3-PEAD-ET89-3T4M-3RFR.result.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/formal-p4-3-PEAD-ET89-3T4M-3RFR.result.json",
+      "bytes": 230,
+      "sha256": "7e6e4ce0d00037003f6fcd9d8b83a0d09f7df3b6b9cc56a0a41c318fdc413e6c",
+      "source_sha256": "7e6e4ce0d00037003f6fcd9d8b83a0d09f7df3b6b9cc56a0a41c318fdc413e6c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始动作.jsonl",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始动作.jsonl",
+      "bytes": 103967,
+      "sha256": "3b05c6f294a3b00293f5dd95d03ed39b3eef3c59977f463da2dc3ab3e741b1c2",
+      "source_sha256": "3b05c6f294a3b00293f5dd95d03ed39b3eef3c59977f463da2dc3ab3e741b1c2",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始运行摘要.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始运行摘要.json",
+      "bytes": 953,
+      "sha256": "70146c368d3194b2d430de5d61c418086a7aac33dd57e6e57ecb148edff00823",
+      "source_sha256": "70146c368d3194b2d430de5d61c418086a7aac33dd57e6e57ecb148edff00823",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始运行清单.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/原始运行清单.json",
+      "bytes": 14754,
+      "sha256": "2b557c5f1f2a6ca51568e553f675a857422563b329e2cbab8e05847507999f8f",
+      "source_sha256": "2b557c5f1f2a6ca51568e553f675a857422563b329e2cbab8e05847507999f8f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/策略参数.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/策略参数.json",
+      "bytes": 685,
+      "sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "source_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/运行配置.json",
+      "source_path": "支撑材料/数据/正式测试/Q4_3_PEAD-ET89-3T4M-3RFR/运行配置.json",
+      "bytes": 631,
+      "sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "source_sha256": "8bcac28f72e8636fda6213953325a44f8719f1c3ba117d2738eb5e053873a415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/正式结果摘要.csv",
+      "source_path": "支撑材料/数据/正式测试/正式结果摘要.csv",
+      "bytes": 979,
+      "sha256": "34337504a397d6ba0da130b284374c083399e97190c6d34fbe839f407ece95e4",
+      "source_sha256": "34337504a397d6ba0da130b284374c083399e97190c6d34fbe839f407ece95e4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/正式结果摘要.json",
+      "source_path": "支撑材料/数据/正式测试/正式结果摘要.json",
+      "bytes": 6181,
+      "sha256": "401e9ad52ce7cb4c7c99208aa3fb4aa1db58ccf84a65313d556e2ea25a546463",
+      "source_sha256": "401e9ad52ce7cb4c7c99208aa3fb4aa1db58ccf84a65313d556e2ea25a546463",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/正式测试/资料说明.md",
+      "source_path": "支撑材料/数据/正式测试/资料说明.md",
+      "bytes": 1635,
+      "sha256": "51b1353cfadc8a22e46b300a8a2e7616d5a60545751f428f9a4f373a1b1e1703",
+      "source_sha256": "51b1353cfadc8a22e46b300a8a2e7616d5a60545751f428f9a4f373a1b1e1703",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/程序校验.json",
+      "source_path": "支撑材料/数据/程序校验.json",
+      "bytes": 8209,
+      "sha256": "34974563e5f420884715506ae106ae63795a741dc3dc24236c53cd8ccc1c9652",
+      "source_sha256": "34974563e5f420884715506ae106ae63795a741dc3dc24236c53cd8ccc1c9652",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/cases.json",
+      "source_path": "支撑材料/数据/问题三四稳健性/cases.json",
+      "bytes": 60772,
+      "sha256": "a20f9f85002b311567f62abaaca6eda44a97779c27efecb7fba81c1a3af81bb7",
+      "source_sha256": "a20f9f85002b311567f62abaaca6eda44a97779c27efecb7fba81c1a3af81bb7",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/outer_tangent_analysis.json",
+      "source_path": "支撑材料/数据/问题三四稳健性/outer_tangent_analysis.json",
+      "bytes": 58439,
+      "sha256": "3de92e5257ca250c5ecc9b7faff4d39b28a7b6a4668ad0b2c9fb9bbf12f80b80",
+      "source_sha256": "3de92e5257ca250c5ecc9b7faff4d39b28a7b6a4668ad0b2c9fb9bbf12f80b80",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/outer_tangent_v12.json.gz",
+      "source_path": "支撑材料/数据/问题三四稳健性/outer_tangent_v12.json.gz",
+      "bytes": 7809,
+      "sha256": "5b7856f1190c1883481a631444b927e67f9d1a271ce4203649cbad15cc7bf132",
+      "source_sha256": "5b7856f1190c1883481a631444b927e67f9d1a271ce4203649cbad15cc7bf132",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/outer_tangent_v14_p2.json.gz",
+      "source_path": "支撑材料/数据/问题三四稳健性/outer_tangent_v14_p2.json.gz",
+      "bytes": 14010,
+      "sha256": "2ae0c72a5a5227e2ca93681ad12e7d22467e33c75ec184fc1f521fbb66c62469",
+      "source_sha256": "2ae0c72a5a5227e2ca93681ad12e7d22467e33c75ec184fc1f521fbb66c62469",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/protocol.json",
+      "source_path": "支撑材料/数据/问题三四稳健性/protocol.json",
+      "bytes": 1257,
+      "sha256": "824de6caedc571f0ba18edc35b1f04d555fb9a9836e44b76669200ecad667424",
+      "source_sha256": "824de6caedc571f0ba18edc35b1f04d555fb9a9836e44b76669200ecad667424",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/run_evidence.json.gz",
+      "source_path": "支撑材料/数据/问题三四稳健性/run_evidence.json.gz",
+      "bytes": 1281975,
+      "sha256": "47ce62b89e94b778253d089e33d233595112237b972f8291e9783680be690438",
+      "source_sha256": "47ce62b89e94b778253d089e33d233595112237b972f8291e9783680be690438",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/sensitivity_results.json",
+      "source_path": "支撑材料/数据/问题三四稳健性/sensitivity_results.json",
+      "bytes": 66257,
+      "sha256": "f40eaf6d384766990b90f1f0c4c8aecfc2c67c984f6a3e3056404b6505b6f692",
+      "source_sha256": "f40eaf6d384766990b90f1f0c4c8aecfc2c67c984f6a3e3056404b6505b6f692",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三四稳健性/说明.md",
+      "source_path": "支撑材料/数据/问题三四稳健性/说明.md",
+      "bytes": 3555,
+      "sha256": "212bbf34f2ddb85eb9e413d23444d3ebd71cd6cf7a8be992ca102224c37243d3",
+      "source_sha256": "212bbf34f2ddb85eb9e413d23444d3ebd71cd6cf7a8be992ca102224c37243d3",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/README.md",
+      "source_path": "支撑材料/数据/问题三巡检比较/README.md",
+      "bytes": 3327,
+      "sha256": "69cdf37399241d9cc4de1468d61bfd096ac4c9f476f573b9dadafaf8dc406d09",
+      "source_sha256": "69cdf37399241d9cc4de1468d61bfd096ac4c9f476f573b9dadafaf8dc406d09",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/frozen_inputs.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/frozen_inputs.json",
+      "bytes": 354828,
+      "sha256": "57cc0ee441e366d5d88f97547f944069cdadf419893b0853fae0833bae16bf3c",
+      "source_sha256": "57cc0ee441e366d5d88f97547f944069cdadf419893b0853fae0833bae16bf3c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/audit_summary.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/audit_summary.json",
+      "bytes": 67600,
+      "sha256": "cf71b1be88d7b3850f583073647dff03664bc02706a9cb8b18c65b62c474e55a",
+      "source_sha256": "cf71b1be88d7b3850f583073647dff03664bc02706a9cb8b18c65b62c474e55a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/baseline_agreement.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/baseline_agreement.json",
+      "bytes": 83,
+      "sha256": "8ebacae9b62c6e176ef942ba35a5d333c568c971a09b36486b9c38b05780fb7f",
+      "source_sha256": "8ebacae9b62c6e176ef942ba35a5d333c568c971a09b36486b9c38b05780fb7f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/integrity.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/integrity.json",
+      "bytes": 445,
+      "sha256": "f38b26a4f117c9449ad5230935162591d8c243ca7ce7d7d2d4b411023ed1713a",
+      "source_sha256": "f38b26a4f117c9449ad5230935162591d8c243ca7ce7d7d2d4b411023ed1713a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/paired.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/paired.json",
+      "bytes": 71291,
+      "sha256": "36e6227cd7f86eb30dce88b5c116a18fb301fa918bdf4cb5fed2450e2e2400e4",
+      "source_sha256": "36e6227cd7f86eb30dce88b5c116a18fb301fa918bdf4cb5fed2450e2e2400e4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/protocol.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/protocol.json",
+      "bytes": 9911,
+      "sha256": "39766d86bd9b72d207bd547e93ff8b6a39f96d5f22ed245de6e1cac4e7a9e7d6",
+      "source_sha256": "39766d86bd9b72d207bd547e93ff8b6a39f96d5f22ed245de6e1cac4e7a9e7d6",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/rows.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/rows.json",
+      "bytes": 146805,
+      "sha256": "ecaa0b0c8b7c02c7d7a78f99d28e68ffa5122f157819f248de002914f3ec2654",
+      "source_sha256": "ecaa0b0c8b7c02c7d7a78f99d28e68ffa5122f157819f248de002914f3ec2654",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/strata.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/strata.json",
+      "bytes": 2605,
+      "sha256": "4ea1e8f5ce2c60aa4718cfd6cebedfadbdb41cb8b272bbe0ed8d64252322f6ed",
+      "source_sha256": "4ea1e8f5ce2c60aa4718cfd6cebedfadbdb41cb8b272bbe0ed8d64252322f6ed",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题三巡检比较/results/summary.json",
+      "source_path": "支撑材料/数据/问题三巡检比较/results/summary.json",
+      "bytes": 3625,
+      "sha256": "ef9f5acaea094be36e263167cc1dec0b49fecf7e2b6da92ac48191284793a81c",
+      "source_sha256": "ef9f5acaea094be36e263167cc1dec0b49fecf7e2b6da92ac48191284793a81c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/Q4固定发现布局的点数界.md",
+      "source_path": "支撑材料/数据/问题四覆盖证明/Q4固定发现布局的点数界.md",
+      "bytes": 6022,
+      "sha256": "471933c3668b9c8d973c237930dcd0e5226eb58942f4c1384095e432e2dba0bb",
+      "source_sha256": "471933c3668b9c8d973c237930dcd0e5226eb58942f4c1384095e432e2dba0bb",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/circle/circle_reference21.json",
+      "source_path": "支撑材料/数据/问题四覆盖证明/circle/circle_reference21.json",
+      "bytes": 134711,
+      "sha256": "a386c63964efcf002be5c5089cb446c18b190476268fc97dd0524a6c368fa4c9",
+      "source_sha256": "a386c63964efcf002be5c5089cb446c18b190476268fc97dd0524a6c368fa4c9",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/circle/reference_layout.json",
+      "source_path": "支撑材料/数据/问题四覆盖证明/circle/reference_layout.json",
+      "bytes": 2033,
+      "sha256": "689f92eb3b6192369f4fea1178d42414d3bef39ee064756f56bc228b9b12d351",
+      "source_sha256": "689f92eb3b6192369f4fea1178d42414d3bef39ee064756f56bc228b9b12d351",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/circle/圆周覆盖判据.md",
+      "source_path": "支撑材料/数据/问题四覆盖证明/circle/圆周覆盖判据.md",
+      "bytes": 3521,
+      "sha256": "0df310d72432f197eed72c0cba597122b7b1cffb5b3ec51fb6a2812c88f9fd5c",
+      "source_sha256": "0df310d72432f197eed72c0cba597122b7b1cffb5b3ec51fb6a2812c88f9fd5c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/circle/复现说明.md",
+      "source_path": "支撑材料/数据/问题四覆盖证明/circle/复现说明.md",
+      "bytes": 1982,
+      "sha256": "b8192958164a6675aa26574fb1d55ba7bad47a1fd61cbfa4b3a1940993d9f7b9",
+      "source_sha256": "b8192958164a6675aa26574fb1d55ba7bad47a1fd61cbfa4b3a1940993d9f7b9",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/latest/checks.json",
+      "source_path": "支撑材料/数据/问题四覆盖证明/latest/checks.json",
+      "bytes": 1925,
+      "sha256": "018992af941aec2e39ac4bcc5500aa2f361f72ba5b1ed4d15335f6113e5928fe",
+      "source_sha256": "018992af941aec2e39ac4bcc5500aa2f361f72ba5b1ed4d15335f6113e5928fe",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/latest/evidence/inner660_exact.json",
+      "source_path": "支撑材料/数据/问题四覆盖证明/latest/evidence/inner660_exact.json",
+      "bytes": 1496784,
+      "sha256": "b6d8b7d359c3786cb9be0b34e4a760b6895b5d6328308f4483da599ad08da2a5",
+      "source_sha256": "b6d8b7d359c3786cb9be0b34e4a760b6895b5d6328308f4483da599ad08da2a5",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/latest/evidence/n19_exact.json",
+      "source_path": "支撑材料/数据/问题四覆盖证明/latest/evidence/n19_exact.json",
+      "bytes": 758745,
+      "sha256": "be29c0957913ea667b6c89d98a1a70f147a996ae707cc2c61e94c9a4074d9eae",
+      "source_sha256": "be29c0957913ea667b6c89d98a1a70f147a996ae707cc2c61e94c9a4074d9eae",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/latest/短说明.md",
+      "source_path": "支撑材料/数据/问题四覆盖证明/latest/短说明.md",
+      "bytes": 5366,
+      "sha256": "705e64d27efb87205e8a4b614a5f90eff8fa08c1ebd05029bcbf1ce3abe4822f",
+      "source_sha256": "705e64d27efb87205e8a4b614a5f90eff8fa08c1ebd05029bcbf1ce3abe4822f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/数据/问题四覆盖证明/q4_site_bounds_check.json",
+      "source_path": "支撑材料/数据/问题四覆盖证明/q4_site_bounds_check.json",
+      "bytes": 1229,
+      "sha256": "3edef7e7a031d24203b57fd0d2fa543b084d76a630f30a876b80a77b163995b7",
+      "source_sha256": "3edef7e7a031d24203b57fd0d2fa543b084d76a630f30a876b80a77b163995b7",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/文件清单.json",
+      "source_path": "支撑材料/文件清单.json",
+      "bytes": 50023,
+      "sha256": "99bf3103b128204d3522b23ef184e7da695590008459dde81db2e012b3784b58",
+      "source_sha256": "99bf3103b128204d3522b23ef184e7da695590008459dde81db2e012b3784b58",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/环境依赖.txt",
+      "source_path": "支撑材料/环境依赖.txt",
+      "bytes": 45,
+      "sha256": "9e12d8381032a88603663fe5fffa6dd5c67b94cffaa602be4ad621b515194367",
+      "source_sha256": "9e12d8381032a88603663fe5fffa6dd5c67b94cffaa602be4ad621b515194367",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题一_多测点示例与退化检验.py",
+      "source_path": "支撑材料/问题一_多测点示例与退化检验.py",
+      "bytes": 11766,
+      "sha256": "f98fe4c313d984fa743298c6d06c93ecec99e86612cd21a7337048252da914d7",
+      "source_sha256": "f98fe4c313d984fa743298c6d06c93ecec99e86612cd21a7337048252da914d7",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题一_定位区域与包围圆.py",
+      "source_path": "支撑材料/问题一_定位区域与包围圆.py",
+      "bytes": 8087,
+      "sha256": "601b4c0daeb961b83eb7de6c65674258a5a270bc2c12b620419e7743609d31a5",
+      "source_sha256": "601b4c0daeb961b83eb7de6c65674258a5a270bc2c12b620419e7743609d31a5",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题一至四_几何示意图绘制.py",
+      "source_path": "支撑材料/问题一至四_几何示意图绘制.py",
+      "bytes": 17041,
+      "sha256": "eef81fe9dcd75e3f6db1633d0bd82a29e9b144954a040984f5c74973ecded680",
+      "source_sha256": "eef81fe9dcd75e3f6db1633d0bd82a29e9b144954a040984f5c74973ecded680",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题一至四_实验结果图绘制.py",
+      "source_path": "支撑材料/问题一至四_实验结果图绘制.py",
+      "bytes": 15499,
+      "sha256": "dea1f8fd5a2d438e3924daf30e335f41ac439870b752334d13115dfeb3e4802e",
+      "source_sha256": "dea1f8fd5a2d438e3924daf30e335f41ac439870b752334d13115dfeb3e4802e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题一至四_统一复现.py",
+      "source_path": "支撑材料/问题一至四_统一复现.py",
+      "bytes": 11207,
+      "sha256": "30c29b34470792905bd96665b534048e785b4f0f562553c99131f9fbd382dcac",
+      "source_sha256": "30c29b34470792905bd96665b534048e785b4f0f562553c99131f9fbd382dcac",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三_七八九点巡检对比.py",
+      "source_path": "支撑材料/问题三_七八九点巡检对比.py",
+      "bytes": 11137,
+      "sha256": "8cf65df0833908b9247c23228cd1d914930edd34565d23b60a3c238185c9df0d",
+      "source_sha256": "8cf65df0833908b9247c23228cd1d914930edd34565d23b60a3c238185c9df0d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三_主动测点选择.py",
+      "source_path": "支撑材料/问题三_主动测点选择.py",
+      "bytes": 6413,
+      "sha256": "39940c9d5cde3f5c8dc7adcba7f335f505fabf551746346a1294322b62f7227b",
+      "source_sha256": "39940c9d5cde3f5c8dc7adcba7f335f505fabf551746346a1294322b62f7227b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三_全向扇形约束.py",
+      "source_path": "支撑材料/问题三_全向扇形约束.py",
+      "bytes": 4975,
+      "sha256": "300537235530405a455843315ec51c1af24eb125f71925ce9c2c6226bbcc07ba",
+      "source_sha256": "300537235530405a455843315ec51c1af24eb125f71925ce9c2c6226bbcc07ba",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三_阴性观测几何核验.py",
+      "source_path": "支撑材料/问题三_阴性观测几何核验.py",
+      "bytes": 10677,
+      "sha256": "641418e56ac5b5c7321fcd94b6e59dd4e5f02b394ba90a2fccba28134333d415",
+      "source_sha256": "641418e56ac5b5c7321fcd94b6e59dd4e5f02b394ba90a2fccba28134333d415",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三_阴性观测收缩.py",
+      "source_path": "支撑材料/问题三_阴性观测收缩.py",
+      "bytes": 7956,
+      "sha256": "e7b24a6e84ea92631d8f301f20b1b4a3b041200d5625cd77270fe327e0feec34",
+      "source_sha256": "e7b24a6e84ea92631d8f301f20b1b4a3b041200d5625cd77270fe327e0feec34",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_交互模拟终端.py",
+      "source_path": "支撑材料/问题三四_交互模拟终端.py",
+      "bytes": 20584,
+      "sha256": "32b113212c7fe2362bd5270b7446ff5ad0dc9dd703718ef5c6e388361d38d2dd",
+      "source_sha256": "32b113212c7fe2362bd5270b7446ff5ad0dc9dd703718ef5c6e388361d38d2dd",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_信息调度基线.py",
+      "source_path": "支撑材料/问题三四_信息调度基线.py",
+      "bytes": 14077,
+      "sha256": "a71cdfcb856083a5ff6cfed6efed39a5d003c334e835e0390f349cd07a91023f",
+      "source_sha256": "a71cdfcb856083a5ff6cfed6efed39a5d003c334e835e0390f349cd07a91023f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_信息费用调度.py",
+      "source_path": "支撑材料/问题三四_信息费用调度.py",
+      "bytes": 6860,
+      "sha256": "59d546d33059e0285cbcdaaf1e9920efa694eece3126d2e5e3250ee28ff7ffa0",
+      "source_sha256": "59d546d33059e0285cbcdaaf1e9920efa694eece3126d2e5e3250ee28ff7ffa0",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_候选区域概率计算.py",
+      "source_path": "支撑材料/问题三四_候选区域概率计算.py",
+      "bytes": 6785,
+      "sha256": "6ab1bb7d751e2e50bf9478dc3aaf6b5b14372de8a4a43083a64bb6f1bf5a2ba1",
+      "source_sha256": "6ab1bb7d751e2e50bf9478dc3aaf6b5b14372de8a4a43083a64bb6f1bf5a2ba1",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_光学清除覆盖.py",
+      "source_path": "支撑材料/问题三四_光学清除覆盖.py",
+      "bytes": 6742,
+      "sha256": "4295050dca10edfec50d50fc1b868432e47e4b7b9938e36b753fe1308fed4fba",
+      "source_sha256": "4295050dca10edfec50d50fc1b868432e47e4b7b9938e36b753fe1308fed4fba",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_光学试清位置选择.py",
+      "source_path": "支撑材料/问题三四_光学试清位置选择.py",
+      "bytes": 7445,
+      "sha256": "4d4155caa769d3df4e4902ad2cca64b13902f59942812b149e5f387902de5736",
+      "source_sha256": "4d4155caa769d3df4e4902ad2cca64b13902f59942812b149e5f387902de5736",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_全范围几何核验.py",
+      "source_path": "支撑材料/问题三四_全范围几何核验.py",
+      "bytes": 8543,
+      "sha256": "bbd1e9a8c88f79e9f8e68ea303b2783bc0d253a61b78c76c6cda64e777b45458",
+      "source_sha256": "bbd1e9a8c88f79e9f8e68ea303b2783bc0d253a61b78c76c6cda64e777b45458",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_关键机制消融.py",
+      "source_path": "支撑材料/问题三四_关键机制消融.py",
+      "bytes": 7221,
+      "sha256": "2a4e16216bf5196497b21eba1b32e43c46a5ebba249827df57c75eb0cffb5ede",
+      "source_sha256": "2a4e16216bf5196497b21eba1b32e43c46a5ebba249827df57c75eb0cffb5ede",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_几何求解基线.py",
+      "source_path": "支撑材料/问题三四_几何求解基线.py",
+      "bytes": 18427,
+      "sha256": "b60f068b0145981e26879736246c5d39ddef975ca433d4cff964240d615bf489",
+      "source_sha256": "b60f068b0145981e26879736246c5d39ddef975ca433d4cff964240d615bf489",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_动作接口协议.py",
+      "source_path": "支撑材料/问题三四_动作接口协议.py",
+      "bytes": 8560,
+      "sha256": "fd04cde836cfb8859bafd64d1bf545b6b801c865de44c388b1fd147b7b93af7a",
+      "source_sha256": "fd04cde836cfb8859bafd64d1bf545b6b801c865de44c388b1fd147b7b93af7a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_动作费用核算.py",
+      "source_path": "支撑材料/问题三四_动作费用核算.py",
+      "bytes": 9035,
+      "sha256": "db0fb65bc8b4e5358659b510cb753ae9af499b3bbe7b186eb417ae0d0b484430",
+      "source_sha256": "db0fb65bc8b4e5358659b510cb753ae9af499b3bbe7b186eb417ae0d0b484430",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_动作轨迹独立核验.py",
+      "source_path": "支撑材料/问题三四_动作轨迹独立核验.py",
+      "bytes": 42026,
+      "sha256": "4348ae750ff31266730a4a7f29efe141ed8b1ac7adc80d845671686a06e43c0e",
+      "source_sha256": "4348ae750ff31266730a4a7f29efe141ed8b1ac7adc80d845671686a06e43c0e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_参数敏感性检验.py",
+      "source_path": "支撑材料/问题三四_参数敏感性检验.py",
+      "bytes": 7396,
+      "sha256": "3bfb6693a6ff378215324837fde144d12299a61dc20a8151720da28b4042879f",
+      "source_sha256": "3bfb6693a6ff378215324837fde144d12299a61dc20a8151720da28b4042879f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_同场策略比较.py",
+      "source_path": "支撑材料/问题三四_同场策略比较.py",
+      "bytes": 7997,
+      "sha256": "137af7e7f68ab9d3ff27834cf462f4acb212810638e0129833527aceac084dd5",
+      "source_sha256": "137af7e7f68ab9d3ff27834cf462f4acb212810638e0129833527aceac084dd5",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_困难场景严格重放.py",
+      "source_path": "支撑材料/问题三四_困难场景严格重放.py",
+      "bytes": 2124,
+      "sha256": "0f19db1cc9244f8097becccd20d94f92713a16bab51cba0ff4c5f6e98fa92483",
+      "source_sha256": "0f19db1cc9244f8097becccd20d94f92713a16bab51cba0ff4c5f6e98fa92483",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_场景求解与核验.py",
+      "source_path": "支撑材料/问题三四_场景求解与核验.py",
+      "bytes": 12238,
+      "sha256": "943481d24cc181d78521057665025fa247d309046456d3cd3072e8ec3eb7e82d",
+      "source_sha256": "943481d24cc181d78521057665025fa247d309046456d3cd3072e8ec3eb7e82d",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_基础参数读取.py",
+      "source_path": "支撑材料/问题三四_基础参数读取.py",
+      "bytes": 915,
+      "sha256": "b759abb3ddecf6e43fc955b223b5020c6722fb62460e71acb7e89ce2387fa5c4",
+      "source_sha256": "b759abb3ddecf6e43fc955b223b5020c6722fb62460e71acb7e89ce2387fa5c4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_安全定位候选.py",
+      "source_path": "支撑材料/问题三四_安全定位候选.py",
+      "bytes": 3264,
+      "sha256": "53f07a9f89d7e74217e7ae63c7d74f801fe1a0facd16d9acb341da4d22be021b",
+      "source_sha256": "53f07a9f89d7e74217e7ae63c7d74f801fe1a0facd16d9acb341da4d22be021b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_完整费用选点.py",
+      "source_path": "支撑材料/问题三四_完整费用选点.py",
+      "bytes": 7399,
+      "sha256": "60e525c172166a5e293512d44b9a2a0bc823e85ecb67e0a5a6dbf766b9598b9a",
+      "source_sha256": "60e525c172166a5e293512d44b9a2a0bc823e85ecb67e0a5a6dbf766b9598b9a",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_官方模拟器连接.py",
+      "source_path": "支撑材料/问题三四_官方模拟器连接.py",
+      "bytes": 13510,
+      "sha256": "391a66c19fb4d30634b010d0bd093c336add48b1d9430794e883bfc689ef6ad0",
+      "source_sha256": "391a66c19fb4d30634b010d0bd093c336add48b1d9430794e883bfc689ef6ad0",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_局部候选测点评估.py",
+      "source_path": "支撑材料/问题三四_局部候选测点评估.py",
+      "bytes": 6194,
+      "sha256": "76a648d91105d693e8dc4fc0da69cf051990e4cddcf8b7435c4abd2f95bcd141",
+      "source_sha256": "76a648d91105d693e8dc4fc0da69cf051990e4cddcf8b7435c4abd2f95bcd141",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_巡检点与路线生成.py",
+      "source_path": "支撑材料/问题三四_巡检点与路线生成.py",
+      "bytes": 2976,
+      "sha256": "f842640ff2b1838ee1fbc9ba9ee361ca29469cf1f80fa4c06369cb864456ee9b",
+      "source_sha256": "f842640ff2b1838ee1fbc9ba9ee361ca29469cf1f80fa4c06369cb864456ee9b",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_开放巡检路线优化.py",
+      "source_path": "支撑材料/问题三四_开放巡检路线优化.py",
+      "bytes": 3131,
+      "sha256": "dbf76c3a4b5b527619f72b1497d0ea37c2a5e8fa6c7f08c2ddea341e44930da4",
+      "source_sha256": "dbf76c3a4b5b527619f72b1497d0ea37c2a5e8fa6c7f08c2ddea341e44930da4",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_搜索定位清除框架.py",
+      "source_path": "支撑材料/问题三四_搜索定位清除框架.py",
+      "bytes": 15712,
+      "sha256": "b56c7cb8e8555d4e0527e5b5a417182d3959774c23ac87c765ea3c3e2885c765",
+      "source_sha256": "b56c7cb8e8555d4e0527e5b5a417182d3959774c23ac87c765ea3c3e2885c765",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_模型加载.py",
+      "source_path": "支撑材料/问题三四_模型加载.py",
+      "bytes": 1807,
+      "sha256": "826c1f56f21d50af9b9cbfe99421686531bf76973a3a5095f03784a9a6575895",
+      "source_sha256": "826c1f56f21d50af9b9cbfe99421686531bf76973a3a5095f03784a9a6575895",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_模拟与单局回放进程.py",
+      "source_path": "支撑材料/问题三四_模拟与单局回放进程.py",
+      "bytes": 20990,
+      "sha256": "603d5fcc43c9723d82daaf0fc47f6dd1e25443b4fc06eae33051b5bb161bb275",
+      "source_sha256": "603d5fcc43c9723d82daaf0fc47f6dd1e25443b4fc06eae33051b5bb161bb275",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_模拟终端界面.html",
+      "source_path": "支撑材料/问题三四_模拟终端界面.html",
+      "bytes": 34321,
+      "sha256": "e430e5e011182b2ec7d068ea816173deb7c923de3182384501940a2c2f17d6ef",
+      "source_sha256": "e430e5e011182b2ec7d068ea816173deb7c923de3182384501940a2c2f17d6ef",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_正式算法与参数入口.py",
+      "source_path": "支撑材料/问题三四_正式算法与参数入口.py",
+      "bytes": 3610,
+      "sha256": "69cbfc1f7581ecd5c7506dcf72bd6659ba237041802ac065a7c186c78e3d3794",
+      "source_sha256": "69cbfc1f7581ecd5c7506dcf72bd6659ba237041802ac065a7c186c78e3d3794",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_测向动作选择.py",
+      "source_path": "支撑材料/问题三四_测向动作选择.py",
+      "bytes": 1531,
+      "sha256": "6b115b105b5d60f514a704167b9d2860e41ea7984746332e12083343ac683f8f",
+      "source_sha256": "6b115b105b5d60f514a704167b9d2860e41ea7984746332e12083343ac683f8f",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_测点与清除规则.py",
+      "source_path": "支撑材料/问题三四_测点与清除规则.py",
+      "bytes": 11434,
+      "sha256": "824bceb178bccffcfda57748e3b543d8325ed77967f8556451339c16b732eb8e",
+      "source_sha256": "824bceb178bccffcfda57748e3b543d8325ed77967f8556451339c16b732eb8e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_消融策略.py",
+      "source_path": "支撑材料/问题三四_消融策略.py",
+      "bytes": 1668,
+      "sha256": "0ccfe612429ee98ceb2cb4228d9245571109fadafb268a9b14e8393c7722e732",
+      "source_sha256": "0ccfe612429ee98ceb2cb4228d9245571109fadafb268a9b14e8393c7722e732",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_消融记录独立核验.py",
+      "source_path": "支撑材料/问题三四_消融记录独立核验.py",
+      "bytes": 7054,
+      "sha256": "2348a72432943e0ce4a88d4c02d4c5d4efcbc54350403d9aa27f7d43fac36d85",
+      "source_sha256": "2348a72432943e0ce4a88d4c02d4c5d4efcbc54350403d9aa27f7d43fac36d85",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_物理约束调度.py",
+      "source_path": "支撑材料/问题三四_物理约束调度.py",
+      "bytes": 2037,
+      "sha256": "de21620bd152cd1d5d45e412075c6a4db82a34c9aada0d2f5454e9491001b82c",
+      "source_sha256": "de21620bd152cd1d5d45e412075c6a4db82a34c9aada0d2f5454e9491001b82c",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_离线物理模拟.py",
+      "source_path": "支撑材料/问题三四_离线物理模拟.py",
+      "bytes": 9012,
+      "sha256": "78f9a38fdd08b78c05ad857c812019e3c3436a63d923cea60a11c7a702717835",
+      "source_sha256": "78f9a38fdd08b78c05ad857c812019e3c3436a63d923cea60a11c7a702717835",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_论文统计汇总.py",
+      "source_path": "支撑材料/问题三四_论文统计汇总.py",
+      "bytes": 4699,
+      "sha256": "6a6b92813aedd0e7247828d1510680a35d07a4a3751cfaf32453367353fec91e",
+      "source_sha256": "6a6b92813aedd0e7247828d1510680a35d07a4a3751cfaf32453367353fec91e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_费用驱动候选求解.py",
+      "source_path": "支撑材料/问题三四_费用驱动候选求解.py",
+      "bytes": 437,
+      "sha256": "32e4de089825556bb9a0028dd4e53872ca57c6dd63e6daaec8f777069297ec24",
+      "source_sha256": "32e4de089825556bb9a0028dd4e53872ca57c6dd63e6daaec8f777069297ec24",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_边界场景构造.py",
+      "source_path": "支撑材料/问题三四_边界场景构造.py",
+      "bytes": 2012,
+      "sha256": "4187e71d8fb7f217a06c63d148668a886392b8aff28e323521a47b2829e81617",
+      "source_sha256": "4187e71d8fb7f217a06c63d148668a886392b8aff28e323521a47b2829e81617",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题三四_连续覆盖构造.py",
+      "source_path": "支撑材料/问题三四_连续覆盖构造.py",
+      "bytes": 11532,
+      "sha256": "3418bb4c6f9ec1c31cd81a770e4a69048b47207d8c3129d918bb84d955c0177e",
+      "source_sha256": "3418bb4c6f9ec1c31cd81a770e4a69048b47207d8c3129d918bb84d955c0177e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题二_安全第二测点.py",
+      "source_path": "支撑材料/问题二_安全第二测点.py",
+      "bytes": 2836,
+      "sha256": "31fe84e958b57e86079d45a096d3c0c1a3dddc370541ddd2c3d0671626a92f18",
+      "source_sha256": "31fe84e958b57e86079d45a096d3c0c1a3dddc370541ddd2c3d0671626a92f18",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题二_定位直径上下界.py",
+      "source_path": "支撑材料/问题二_定位直径上下界.py",
+      "bytes": 4422,
+      "sha256": "ebdf1bfd09ce592d7cc29e3fb13ee840c158b22c98a35f8b1e6ba567af0cbb71",
+      "source_sha256": "ebdf1bfd09ce592d7cc29e3fb13ee840c158b22c98a35f8b1e6ba567af0cbb71",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_三角网格覆盖.py",
+      "source_path": "支撑材料/问题四_三角网格覆盖.py",
+      "bytes": 1991,
+      "sha256": "7692128294dc5a2d2cfc073dbd40c640e754e9852600c6165a2988e33caf8ecd",
+      "source_sha256": "7692128294dc5a2d2cfc073dbd40c640e754e9852600c6165a2988e33caf8ecd",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_二十七点与二十一点对比.py",
+      "source_path": "支撑材料/问题四_二十七点与二十一点对比.py",
+      "bytes": 1566,
+      "sha256": "a96ee6f90f1dd8648e49667bcb419efa4ec99acb2af2468060fc6ad45f713bbf",
+      "source_sha256": "a96ee6f90f1dd8648e49667bcb419efa4ec99acb2af2468060fc6ad45f713bbf",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_切向退步案例分析.py",
+      "source_path": "支撑材料/问题四_切向退步案例分析.py",
+      "bytes": 5195,
+      "sha256": "90ea95857ccfd80853821edbdf865cca2c77cd3c5d8e5e8779e2c9d608a7d528",
+      "source_sha256": "90ea95857ccfd80853821edbdf865cca2c77cd3c5d8e5e8779e2c9d608a7d528",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_十九点下界与内站核验.py",
+      "source_path": "支撑材料/问题四_十九点下界与内站核验.py",
+      "bytes": 10513,
+      "sha256": "13e6cd86f77d0ae387b3f7090b566a93950d61430b5bb3a9d466409bdd654c51",
+      "source_sha256": "13e6cd86f77d0ae387b3f7090b566a93950d61430b5bb3a9d466409bdd654c51",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_圆周覆盖证书核验.py",
+      "source_path": "支撑材料/问题四_圆周覆盖证书核验.py",
+      "bytes": 11976,
+      "sha256": "90136c3a49fddc6173e9dbc25948026cea3db5a6c5c229541d84ab0cd87ad595",
+      "source_sha256": "90136c3a49fddc6173e9dbc25948026cea3db5a6c5c229541d84ab0cd87ad595",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_基础点数界核验.py",
+      "source_path": "支撑材料/问题四_基础点数界核验.py",
+      "bytes": 7688,
+      "sha256": "97363067d32777ba0ef04fc95d6ddc42a4f826438b63c4c2a34416eaaf2f60bd",
+      "source_sha256": "97363067d32777ba0ef04fc95d6ddc42a4f826438b63c4c2a34416eaaf2f60bd",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_途中信息收益求解.py",
+      "source_path": "支撑材料/问题四_途中信息收益求解.py",
+      "bytes": 2275,
+      "sha256": "51853365e157e327f15f2d5a67bdc429a2819e580278bf958ce6475b8f54917e",
+      "source_sha256": "51853365e157e327f15f2d5a67bdc429a2819e580278bf958ce6475b8f54917e",
+      "transformation": "none"
+    },
+    {
+      "path": "支撑材料/问题四_阴影区域包含核验.py",
+      "source_path": "支撑材料/问题四_阴影区域包含核验.py",
+      "bytes": 2029,
+      "sha256": "9337489ca1f636a11c1a59eea14f0baa7ab37d1b224e14dc569f82b990734daa",
+      "source_sha256": "9337489ca1f636a11c1a59eea14f0baa7ab37d1b224e14dc569f82b990734daa",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/交付说明.md",
+      "source_path": "答辩PPT制作/交付说明.md",
+      "bytes": 2513,
+      "sha256": "a76ac662b78939d2715468808c8e74d0373a9fb4ea10f6a3df63ba5e02dde81d",
+      "source_sha256": "a76ac662b78939d2715468808c8e74d0373a9fb4ea10f6a3df63ba5e02dde81d",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/交付检查.json",
+      "source_path": "答辩PPT制作/制作源文件/交付检查.json",
+      "bytes": 3461,
+      "sha256": "ec0d831ac7b4961f29da46f3e98768e2e0c17e3d3a2b7f5fae69d115fb04ef73",
+      "source_sha256": "ec0d831ac7b4961f29da46f3e98768e2e0c17e3d3a2b7f5fae69d115fb04ef73",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/单局离线演示.py",
+      "source_path": "答辩PPT制作/制作源文件/单局离线演示.py",
+      "bytes": 5043,
+      "sha256": "77ece1884e10b73b11e2727d86df8483113618d62d320f955d9b636e34358b1e",
+      "source_sha256": "dbfbca868339dc83d3326ec6f3ab9d7a715d86463284dbc653438fea1d167d86",
+      "transformation": "Replace machine-specific paths with repository-relative paths; write new demo runs to results/demo."
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/核验同源与途中段.py",
+      "source_path": "答辩PPT制作/制作源文件/核验同源与途中段.py",
+      "bytes": 2848,
+      "sha256": "57e00c9ac2cdcaefb17aec501bed89cafb7ca9dae7553c5c3032900d3240452f",
+      "source_sha256": "57e00c9ac2cdcaefb17aec501bed89cafb7ca9dae7553c5c3032900d3240452f",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/汇出演示锚点.py",
+      "source_path": "答辩PPT制作/制作源文件/汇出演示锚点.py",
+      "bytes": 1660,
+      "sha256": "17d3fb5519471dbb97cc8376fee490067b13fc1f91c95e980585451492fe7587",
+      "source_sha256": "f91de6180ef086588de409137308be55e6ae0d485f0968f6686229c0f0431152",
+      "transformation": "Replace machine-specific paths with repository-relative paths; write new demo runs to results/demo."
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q3_动作3_首次示向.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q3_动作3_首次示向.jpg",
+      "bytes": 84628,
+      "sha256": "4c07030aa8e48e6240cce3d4d03c0c1c67c08b1e7712c3212a5003b4bf07b014",
+      "source_sha256": "4c07030aa8e48e6240cce3d4d03c0c1c67c08b1e7712c3212a5003b4bf07b014",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q3_动作43_试清失败仍计费.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q3_动作43_试清失败仍计费.jpg",
+      "bytes": 84841,
+      "sha256": "11fd49096f44ace9fa3986d2eb11e29b310f7e014985c31e0c936e78f0c2ce48",
+      "source_sha256": "11fd49096f44ace9fa3986d2eb11e29b310f7e014985c31e0c936e78f0c2ce48",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q3_动作46_包围半径15.63米.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q3_动作46_包围半径15.63米.jpg",
+      "bytes": 86183,
+      "sha256": "afaabd8b7e34bdb5254ab2f58ef2c79a342f81766b773ad275bb3dc09b18dbb9",
+      "source_sha256": "afaabd8b7e34bdb5254ab2f58ef2c79a342f81766b773ad275bb3dc09b18dbb9",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q3_动作47_清除成功.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q3_动作47_清除成功.jpg",
+      "bytes": 84567,
+      "sha256": "2ef06e0e3dee87115f98d5f0954a6a0b8ae4d7ffd3eabb7e52772875e5bb9105",
+      "source_sha256": "2ef06e0e3dee87115f98d5f0954a6a0b8ae4d7ffd3eabb7e52772875e5bb9105",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q3_完成汇总_真实回放.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q3_完成汇总_真实回放.jpg",
+      "bytes": 81040,
+      "sha256": "c97fd7c18f39832f5fa6da5a5a7383eb719c35c590a0495a862382740decfb28",
+      "source_sha256": "c97fd7c18f39832f5fa6da5a5a7383eb719c35c590a0495a862382740decfb28",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q4_动作263_阴性不直接排圆.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q4_动作263_阴性不直接排圆.jpg",
+      "bytes": 83262,
+      "sha256": "84c54f7d3a9c832ed8de6a5db732f78d3b1a645e3a68bafc6fbcfbdab7aee666",
+      "source_sha256": "84c54f7d3a9c832ed8de6a5db732f78d3b1a645e3a68bafc6fbcfbdab7aee666",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q4_动作288_途中测量.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q4_动作288_途中测量.jpg",
+      "bytes": 86480,
+      "sha256": "26462838f0b49f35e4682a1391a919aa22bc376cfd6ede02248740379c0edc66",
+      "source_sha256": "26462838f0b49f35e4682a1391a919aa22bc376cfd6ede02248740379c0edc66",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q4_动作290_包围半径19.26米.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q4_动作290_包围半径19.26米.jpg",
+      "bytes": 87696,
+      "sha256": "f3cd9593eeb8eef3aed4aa7603f116b81c621c4b4a54662e21727aef38ac4ff3",
+      "source_sha256": "f3cd9593eeb8eef3aed4aa7603f116b81c621c4b4a54662e21727aef38ac4ff3",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q4_动作301_清除成功.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q4_动作301_清除成功.jpg",
+      "bytes": 88494,
+      "sha256": "3bf60ebd602053171283f7acc6b925f82f33bfb23d649baf75ee29a1c3e2fa68",
+      "source_sha256": "3bf60ebd602053171283f7acc6b925f82f33bfb23d649baf75ee29a1c3e2fa68",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/Q4_完成汇总_真实回放.jpg",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/Q4_完成汇总_真实回放.jpg",
+      "bytes": 83146,
+      "sha256": "98d9f0282ffdfb545b4837f4897d039baaec3a6b84a4e36b05501ad0188d4006",
+      "source_sha256": "98d9f0282ffdfb545b4837f4897d039baaec3a6b84a4e36b05501ad0188d4006",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/演示截图/截图清单.json",
+      "source_path": "答辩PPT制作/制作源文件/演示截图/截图清单.json",
+      "bytes": 1508,
+      "sha256": "5adcf6514f72235d1f574037d3b504f1936d69cd4a3d3b445cad538d6d96efb9",
+      "source_sha256": "5adcf6514f72235d1f574037d3b504f1936d69cd4a3d3b445cad538d6d96efb9",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/真实单局回放服务.py",
+      "source_path": "答辩PPT制作/制作源文件/真实单局回放服务.py",
+      "bytes": 1958,
+      "sha256": "eb5c4e2e34a65acd0850cbaafcc85d1823373f158963b2a9d4bf94d1e716cd2d",
+      "source_sha256": "eb5c4e2e34a65acd0850cbaafcc85d1823373f158963b2a9d4bf94d1e716cd2d",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/制作源文件/逐页讲者备注.md",
+      "source_path": "答辩PPT制作/制作源文件/逐页讲者备注.md",
+      "bytes": 20913,
+      "sha256": "73672d42ed27ebba173c903c5874b1f71012a4d15cfadb85de3f5c6cf522129d",
+      "source_sha256": "73672d42ed27ebba173c903c5874b1f71012a4d15cfadb85de3f5c6cf522129d",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/数学建模答辩_完整母版.pdf",
+      "source_path": "答辩PPT制作/数学建模答辩_完整母版.pdf",
+      "bytes": 1244973,
+      "sha256": "8e9b78a22ee0affb82e20f7eab029e584ae70f72084198213ffa38ea729b7dfd",
+      "source_sha256": "8e9b78a22ee0affb82e20f7eab029e584ae70f72084198213ffa38ea729b7dfd",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/数学建模答辩_完整母版.pptx",
+      "source_path": "答辩PPT制作/数学建模答辩_完整母版.pptx",
+      "bytes": 1063986,
+      "sha256": "30c752f5ec3159bcbd308970528d9e74d2f5649c91ffacc30fec6f345030df6a",
+      "source_sha256": "30c752f5ec3159bcbd308970528d9e74d2f5649c91ffacc30fec6f345030df6a",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/actions.jsonl",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/actions.jsonl",
+      "bytes": 66023,
+      "sha256": "a70f2fe1ac08f028f7aade0fbe811837d8bdda20db49876f7ebc37e5792a9efc",
+      "source_sha256": "a70f2fe1ac08f028f7aade0fbe811837d8bdda20db49876f7ebc37e5792a9efc",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/audit.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/audit.json",
+      "bytes": 2479,
+      "sha256": "f4865ab904a7dd5b2022e52fc96b1fa7f74554cef4f98b20e30930c7c98dfd80",
+      "source_sha256": "f4865ab904a7dd5b2022e52fc96b1fa7f74554cef4f98b20e30930c7c98dfd80",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/input_case.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/input_case.json",
+      "bytes": 1672,
+      "sha256": "7687a8e8e9d9115aca79c933287642ba844fe17d7bdd1df7fc02dace594466d3",
+      "source_sha256": "7687a8e8e9d9115aca79c933287642ba844fe17d7bdd1df7fc02dace594466d3",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/manifest.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/manifest.json",
+      "bytes": 703,
+      "sha256": "bd0664cffd211c3b2a97097c0c41eeddecfc9617a920639077447c1b6e32a05b",
+      "source_sha256": "bd0664cffd211c3b2a97097c0c41eeddecfc9617a920639077447c1b6e32a05b",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/negative_geometry.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/negative_geometry.json",
+      "bytes": 163,
+      "sha256": "2c07b748342092343eb71b3a7d66ffea6ada1884404063598d0eb548c5b30450",
+      "source_sha256": "2c07b748342092343eb71b3a7d66ffea6ada1884404063598d0eb548c5b30450",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/runtime_config.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/runtime_config.json",
+      "bytes": 522,
+      "sha256": "2d80a233ea7e887eba47dcf7b1991ddb4836450fd291eaebedd36348993c92b3",
+      "source_sha256": "2d80a233ea7e887eba47dcf7b1991ddb4836450fd291eaebedd36348993c92b3",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/solution.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/solution.json",
+      "bytes": 123880,
+      "sha256": "0c79096c64a5bd5c6a4af49a27679c937122803ceb1722d159589a9a38d1c1d8",
+      "source_sha256": "0c79096c64a5bd5c6a4af49a27679c937122803ceb1722d159589a9a38d1c1d8",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/strategy_settings.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/strategy_settings.json",
+      "bytes": 826,
+      "sha256": "091ed5b1774b51a4a4e6f1aaa51fd0a80d12f631f21091088a7bddb6da5e472a",
+      "source_sha256": "091ed5b1774b51a4a4e6f1aaa51fd0a80d12f631f21091088a7bddb6da5e472a",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/summary.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/summary.json",
+      "bytes": 543,
+      "sha256": "5b885916f7f76c5a431c122bdca81c1aa4dc518d8889f2f7a4873f7747e05769",
+      "source_sha256": "5b885916f7f76c5a431c122bdca81c1aa4dc518d8889f2f7a4873f7747e05769",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/timing.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/timing.json",
+      "bytes": 27562,
+      "sha256": "5611fbe9347dfcb380c5a9966e2205d5bd32718efe3a19dc20bbb89bd6438bbc",
+      "source_sha256": "5611fbe9347dfcb380c5a9966e2205d5bd32718efe3a19dc20bbb89bd6438bbc",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/trace.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174649_576453fe5969/trace.json",
+      "bytes": 673579,
+      "sha256": "7e2052488be288bfbc358466ddd9a980e9cb2db411c76217cd732bd4211b5c41",
+      "source_sha256": "7e2052488be288bfbc358466ddd9a980e9cb2db411c76217cd732bd4211b5c41",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/actions.jsonl",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/actions.jsonl",
+      "bytes": 160228,
+      "sha256": "2a062a62be55b2450962b61e12a003575bb5c2349199a912c64fd61c4299b4f9",
+      "source_sha256": "2a062a62be55b2450962b61e12a003575bb5c2349199a912c64fd61c4299b4f9",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/audit.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/audit.json",
+      "bytes": 2578,
+      "sha256": "f10264e02c221fc6549ba92f73e53ac943f77004a92ced1d142a2ed2a6811171",
+      "source_sha256": "f10264e02c221fc6549ba92f73e53ac943f77004a92ced1d142a2ed2a6811171",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/input_case.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/input_case.json",
+      "bytes": 1733,
+      "sha256": "7d345afd06a5b93b9bf4bdbfdb3e9d4066bcb8328c1e0dfb9649775000fc4d01",
+      "source_sha256": "7d345afd06a5b93b9bf4bdbfdb3e9d4066bcb8328c1e0dfb9649775000fc4d01",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/manifest.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/manifest.json",
+      "bytes": 698,
+      "sha256": "bce2eb12708cd826f6d4172dde23b1351219d97bd2703a6f8451bc5f9b504531",
+      "source_sha256": "bce2eb12708cd826f6d4172dde23b1351219d97bd2703a6f8451bc5f9b504531",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/runtime_config.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/runtime_config.json",
+      "bytes": 504,
+      "sha256": "0584a80a26c06770b7d4003c1f4b77a4d1a07c4e99518893dc64972aa80a6c48",
+      "source_sha256": "0584a80a26c06770b7d4003c1f4b77a4d1a07c4e99518893dc64972aa80a6c48",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/solution.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/solution.json",
+      "bytes": 69075,
+      "sha256": "d2b2a51d64e813ce3a1621df574e98131dc6ae3c23e77eb4a56326daede7041e",
+      "source_sha256": "d2b2a51d64e813ce3a1621df574e98131dc6ae3c23e77eb4a56326daede7041e",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/strategy_settings.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/strategy_settings.json",
+      "bytes": 551,
+      "sha256": "2cbf593853989b8f8a501119faa9705ec1101ea25cf3a618f6acc49b70be405a",
+      "source_sha256": "2cbf593853989b8f8a501119faa9705ec1101ea25cf3a618f6acc49b70be405a",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/summary.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/summary.json",
+      "bytes": 539,
+      "sha256": "06316288297fb7df2ef8fdc8f70d0bc70dc07e54773b210edf36ce201f08a0d8",
+      "source_sha256": "06316288297fb7df2ef8fdc8f70d0bc70dc07e54773b210edf36ce201f08a0d8",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/timing.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/timing.json",
+      "bytes": 64169,
+      "sha256": "a376da4cf0eb6ff7475a3812f094e15d9eb4f4f2e770a9f2a6d324e3f72cb8e2",
+      "source_sha256": "a376da4cf0eb6ff7475a3812f094e15d9eb4f4f2e770a9f2a6d324e3f72cb8e2",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/trace.json",
+      "source_path": "答辩PPT制作/演示运行/run_20261005_174658_cf0598e842c8/trace.json",
+      "bytes": 1772930,
+      "sha256": "ff3ffdf83da12c386d33503a67b20b33cb81e025adc93a586e2efa3b970a6162",
+      "source_sha256": "ff3ffdf83da12c386d33503a67b20b33cb81e025adc93a586e2efa3b970a6162",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/两局演示摘要.json",
+      "source_path": "答辩PPT制作/演示运行/两局演示摘要.json",
+      "bytes": 1945,
+      "sha256": "629424b081629a6a98e875e9b6e31366f5b1198078dad9691e2984c2f6378080",
+      "source_sha256": "629424b081629a6a98e875e9b6e31366f5b1198078dad9691e2984c2f6378080",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/动作锚点.csv",
+      "source_path": "答辩PPT制作/演示运行/动作锚点.csv",
+      "bytes": 4591,
+      "sha256": "499404a185d4821129849a77e3821f978df7c2e8d36166fde425a2f9f070e154",
+      "source_sha256": "499404a185d4821129849a77e3821f978df7c2e8d36166fde425a2f9f070e154",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/同源失败后续与途中段核验.json",
+      "source_path": "答辩PPT制作/演示运行/同源失败后续与途中段核验.json",
+      "bytes": 7626,
+      "sha256": "9703c3dc7ef4d44612e88d300467b25091e356a397d81bfe47f515d2f24d1b08",
+      "source_sha256": "9703c3dc7ef4d44612e88d300467b25091e356a397d81bfe47f515d2f24d1b08",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩PPT制作/演示运行/现场演示操作提示.md",
+      "source_path": "答辩PPT制作/演示运行/现场演示操作提示.md",
+      "bytes": 5894,
+      "sha256": "0ce69b02c8cd19327b973c04d4ef6aaf734b68796471bd3f80865fa61bec530d",
+      "source_sha256": "0ce69b02c8cd19327b973c04d4ef6aaf734b68796471bd3f80865fa61bec530d",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/PPT统一模板格式声明.md",
+      "source_path": "答辩材料/PPT统一模板格式声明.md",
+      "bytes": 4137,
+      "sha256": "351f4e039d1cf2dd6c0555ebde5feb0ea9c4199a28236f5d2177ffc3d01aa713",
+      "source_sha256": "351f4e039d1cf2dd6c0555ebde5feb0ea9c4199a28236f5d2177ffc3d01aa713",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/总结展望_重写可编辑版.pptx",
+      "source_path": "答辩材料/总结展望_重写可编辑版.pptx",
+      "bytes": 47937,
+      "sha256": "6c20e7fcdf969e139209b9b8f37bad76def23e29f09ec2afbf5fe4b9622776e2",
+      "source_sha256": "6c20e7fcdf969e139209b9b8f37bad76def23e29f09ec2afbf5fe4b9622776e2",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/无线电干扰源定位与清除_答辩_总结展望重写版.pptx",
+      "source_path": "答辩材料/无线电干扰源定位与清除_答辩_总结展望重写版.pptx",
+      "bytes": 71194199,
+      "sha256": "fc82ca3c95acf2b99e8736a0f7d6a3f6ca2a8096e1ff31e0f621258836c7433e",
+      "source_sha256": "fc82ca3c95acf2b99e8736a0f7d6a3f6ca2a8096e1ff31e0f621258836c7433e",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/关键知识点与评委追问.md",
+      "source_path": "答辩材料/答辩准备_20261006/关键知识点与评委追问.md",
+      "bytes": 21059,
+      "sha256": "90fbd0b79c992543b779c4ebe6020d3b824a910f0aaeed151b15fbaaed26bf46",
+      "source_sha256": "90fbd0b79c992543b779c4ebe6020d3b824a910f0aaeed151b15fbaaed26bf46",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/geometry_gpu/geometry.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/geometry_gpu/geometry.json",
+      "bytes": 16893,
+      "sha256": "c8cf1e6913ca955d160e021d7fc1363208e6048a85599e7b7f0e67285c767a61",
+      "source_sha256": "c8cf1e6913ca955d160e021d7fc1363208e6048a85599e7b7f0e67285c767a61",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/geometry_gpu/q1_examples.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/geometry_gpu/q1_examples.json",
+      "bytes": 15449,
+      "sha256": "5a44b36e16fbe48a99c045ded1ea42342516d7de3e283ea354458495a527bb4d",
+      "source_sha256": "5a44b36e16fbe48a99c045ded1ea42342516d7de3e283ea354458495a527bb4d",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/q2/q2_recomputed.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/q2/q2_recomputed.json",
+      "bytes": 1098,
+      "sha256": "77579c87807a013af99b04851e62e7cb61cf65aa9334fd46bdb899974645ce9c",
+      "source_sha256": "77579c87807a013af99b04851e62e7cb61cf65aa9334fd46bdb899974645ce9c",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/stress_py39/stress_replay.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/stress_py39/stress_replay.json",
+      "bytes": 2273,
+      "sha256": "35f488c46a1325529dc3e4cca7edc31973798e193c70d983ed6add2bd710780d",
+      "source_sha256": "35f488c46a1325529dc3e4cca7edc31973798e193c70d983ed6add2bd710780d",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/theory/base_bounds.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/theory/base_bounds.json",
+      "bytes": 1229,
+      "sha256": "5c3ffd591c56debaf46822045ad3188c314991d8a766ef44fdc5a09cb87d7347",
+      "source_sha256": "5c3ffd591c56debaf46822045ad3188c314991d8a766ef44fdc5a09cb87d7347",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/theory/circle_check.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/theory/circle_check.json",
+      "bytes": 5189,
+      "sha256": "975a997694ba596cf9d6e508c84a15579e65836907a0bb1aad5d57a6a8fce4e9",
+      "source_sha256": "975a997694ba596cf9d6e508c84a15579e65836907a0bb1aad5d57a6a8fce4e9",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/theory/latest/checks.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/theory/latest/checks.json",
+      "bytes": 1926,
+      "sha256": "cbda30c558f8ea6eb4e0112e179a85033e243d5c5700a756587893be6bcd834a",
+      "source_sha256": "cbda30c558f8ea6eb4e0112e179a85033e243d5c5700a756587893be6bcd834a",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/theory/latest/interval_bounds.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/theory/latest/interval_bounds.json",
+      "bytes": 122470,
+      "sha256": "f6e3f0ca3e06bed6bc010219a499fc46c79990d6ea4ea2fa41de9c3b25e63f41",
+      "source_sha256": "f6e3f0ca3e06bed6bc010219a499fc46c79990d6ea4ea2fa41de9c3b25e63f41",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/theory/theory_checks.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/theory/theory_checks.json",
+      "bytes": 236,
+      "sha256": "c2563ea0cb1bc26337d0a1e0c659e800998b1eec14d2d352e0155229299b32bc",
+      "source_sha256": "c2563ea0cb1bc26337d0a1e0c659e800998b1eec14d2d352e0155229299b32bc",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/几何反例与边界核验.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/几何反例与边界核验.json",
+      "bytes": 2600,
+      "sha256": "5a66d7acb19f1c2efa8ba68550f964bcaf693496df99ea5e2beff82b78814f25",
+      "source_sha256": "5a66d7acb19f1c2efa8ba68550f964bcaf693496df99ea5e2beff82b78814f25",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/切向退步账本.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/切向退步账本.json",
+      "bytes": 58277,
+      "sha256": "7d519a0f613c70e8f49f7da95a1445d924d20125886beb36cb7637049da63834",
+      "source_sha256": "7d519a0f613c70e8f49f7da95a1445d924d20125886beb36cb7637049da63834",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/本轮检查索引.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/本轮检查索引.json",
+      "bytes": 647,
+      "sha256": "6e961d24cf0075c000098598a8589f3158e6441d19f65427c6d1fede808bee09",
+      "source_sha256": "6e961d24cf0075c000098598a8589f3158e6441d19f65427c6d1fede808bee09",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/正式账本独立计费.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/正式账本独立计费.json",
+      "bytes": 4332,
+      "sha256": "50c4fb0ef25a2162de731ce11e7788bbb8ca1b62afc61fedbf2109eb280b2af1",
+      "source_sha256": "50c4fb0ef25a2162de731ce11e7788bbb8ca1b62afc61fedbf2109eb280b2af1",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/补充核验总览.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/补充核验总览.json",
+      "bytes": 8396,
+      "sha256": "f43a8f5385edcf4116531482d6bcb6802c5b8c2e8cfe4e7b0af3696e3a880915",
+      "source_sha256": "f43a8f5385edcf4116531482d6bcb6802c5b8c2e8cfe4e7b0af3696e3a880915",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/实验/配对统计补充.json",
+      "source_path": "答辩材料/答辩准备_20261006/实验/配对统计补充.json",
+      "bytes": 6482,
+      "sha256": "07c72b240b2ccfb3ea4d51a4c186be3c58e3f974dd4ac3272c6381093eeee552",
+      "source_sha256": "07c72b240b2ccfb3ea4d51a4c186be3c58e3f974dd4ac3272c6381093eeee552",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/提取论文公式清单.py",
+      "source_path": "答辩材料/答辩准备_20261006/提取论文公式清单.py",
+      "bytes": 3296,
+      "sha256": "495b839db6933474bacffb49cd00c661d47b943e7a32d6d48f941e0071c68dd2",
+      "source_sha256": "495b839db6933474bacffb49cd00c661d47b943e7a32d6d48f941e0071c68dd2",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/答辩针对性核验.py",
+      "source_path": "答辩材料/答辩准备_20261006/答辩针对性核验.py",
+      "bytes": 14350,
+      "sha256": "0f02b9b85f35008e86b6af3eb1d6014ab939c301f290af70e84b31c149b5ebf0",
+      "source_sha256": "0f02b9b85f35008e86b6af3eb1d6014ab939c301f290af70e84b31c149b5ebf0",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/论文全部公式详解.md",
+      "source_path": "答辩材料/答辩准备_20261006/论文全部公式详解.md",
+      "bytes": 40877,
+      "sha256": "2a551f0810445586d7b9efef664f581b7f4ac4db26cf463c967fe8788f15b341",
+      "source_sha256": "2a551f0810445586d7b9efef664f581b7f4ac4db26cf463c967fe8788f15b341",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩准备_20261006/论文公式原文清单.json",
+      "source_path": "答辩材料/答辩准备_20261006/论文公式原文清单.json",
+      "bytes": 234855,
+      "sha256": "34dc870605abfb92464058f641eb4937f55d53dbf7c4d84781005faf4789d24c",
+      "source_sha256": "34dc870605abfb92464058f641eb4937f55d53dbf7c4d84781005faf4789d24c",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/答辩讲稿与问答_四板块版.md",
+      "source_path": "答辩材料/答辩讲稿与问答_四板块版.md",
+      "bytes": 25200,
+      "sha256": "05cad63b7f09e7855a624300290dafe62a179e315a9bd8e0ddf29f4eb8dd5932",
+      "source_sha256": "05cad63b7f09e7855a624300290dafe62a179e315a9bd8e0ddf29f4eb8dd5932",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/问题二参数依据补充/参数依据与答辩口径.md",
+      "source_path": "答辩材料/问题二参数依据补充/参数依据与答辩口径.md",
+      "bytes": 6530,
+      "sha256": "7b4465e8e8e99200be11990bc183e0320f9be0c0efccf1737f7f9e19591ccf67",
+      "source_sha256": "7b4465e8e8e99200be11990bc183e0320f9be0c0efccf1737f7f9e19591ccf67",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/问题二参数依据补充/基准参数核验.py",
+      "source_path": "答辩材料/问题二参数依据补充/基准参数核验.py",
+      "bytes": 12382,
+      "sha256": "52a8f9a70e7803762e337aaeb389f10092e045f3451b34b04364b5804c9c077f",
+      "source_sha256": "52a8f9a70e7803762e337aaeb389f10092e045f3451b34b04364b5804c9c077f",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/问题二参数依据补充/核验结果.json",
+      "source_path": "答辩材料/问题二参数依据补充/核验结果.json",
+      "bytes": 15899,
+      "sha256": "98a398e19edc6c02710ce4f673158eb61b7909eb4b0517957729eaa8b926a14a",
+      "source_sha256": "98a398e19edc6c02710ce4f673158eb61b7909eb4b0517957729eaa8b926a14a",
+      "transformation": "none"
+    },
+    {
+      "path": "答辩材料/问题四_27点至21点_三页可编辑版.pptx",
+      "source_path": "答辩材料/问题四_27点至21点_三页可编辑版.pptx",
+      "bytes": 1113462,
+      "sha256": "b5af836be09f75625295630e487a4bd03f7abd35bfaba3dbde952ffb2b9113d7",
+      "source_sha256": "b5af836be09f75625295630e487a4bd03f7abd35bfaba3dbde952ffb2b9113d7",
+      "transformation": "none"
+    }
+  ]
+}

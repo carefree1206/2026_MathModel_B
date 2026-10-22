@@ -1,0 +1,128 @@
+[
+  {
+    "variant": "ring6",
+    "source_count": 10,
+    "cases": 12,
+    "mean_per_source_s": 285.14706823187043
+  },
+  {
+    "variant": "ring6",
+    "source_count": 11,
+    "cases": 12,
+    "mean_per_source_s": 270.0337622900051
+  },
+  {
+    "variant": "ring6",
+    "source_count": 12,
+    "cases": 12,
+    "mean_per_source_s": 253.21842136701596
+  },
+  {
+    "variant": "ring6",
+    "source_count": 13,
+    "cases": 12,
+    "mean_per_source_s": 228.68698386677136
+  },
+  {
+    "variant": "ring6",
+    "source_count": 14,
+    "cases": 12,
+    "mean_per_source_s": 228.91294567535581
+  },
+  {
+    "variant": "ring6",
+    "source_count": 15,
+    "cases": 12,
+    "mean_per_source_s": 211.39791931009538
+  },
+  {
+    "variant": "ring6",
+    "source_count": 16,
+    "cases": 12,
+    "mean_per_source_s": 205.8211685137445
+  },
+  {
+    "variant": "ring7",
+    "source_count": 10,
+    "cases": 12,
+    "mean_per_source_s": 289.25769158091686
+  },
+  {
+    "variant": "ring7",
+    "source_count": 11,
+    "cases": 12,
+    "mean_per_source_s": 274.3110806487361
+  },
+  {
+    "variant": "ring7",
+    "source_count": 12,
+    "cases": 12,
+    "mean_per_source_s": 252.41921785524096
+  },
+  {
+    "variant": "ring7",
+    "source_count": 13,
+    "cases": 12,
+    "mean_per_source_s": 234.97064755680717
+  },
+  {
+    "variant": "ring7",
+    "source_count": 14,
+    "cases": 12,
+    "mean_per_source_s": 226.83586507308215
+  },
+  {
+    "variant": "ring7",
+    "source_count": 15,
+    "cases": 12,
+    "mean_per_source_s": 213.98939039993434
+  },
+  {
+    "variant": "ring7",
+    "source_count": 16,
+    "cases": 12,
+    "mean_per_source_s": 208.01750396536514
+  },
+  {
+    "variant": "ring8",
+    "source_count": 10,
+    "cases": 12,
+    "mean_per_source_s": 296.44806346734396
+  },
+  {
+    "variant": "ring8",
+    "source_count": 11,
+    "cases": 12,
+    "mean_per_source_s": 277.4129655476915
+  },
+  {
+    "variant": "ring8",
+    "source_count": 12,
+    "cases": 12,
+    "mean_per_source_s": 262.41432085862533
+  },
+  {
+    "variant": "ring8",
+    "source_count": 13,
+    "cases": 12,
+    "mean_per_source_s": 239.52799836256088
+  },
+  {
+    "variant": "ring8",
+    "source_count": 14,
+    "cases": 12,
+    "mean_per_source_s": 233.50691016488352
+  },
+  {
+    "variant": "ring8",
+    "source_count": 15,
+    "cases": 12,
+    "mean_per_source_s": 215.81248029348387
+  },
+  {
+    "variant": "ring8",
+    "source_count": 16,
+    "cases": 12,
+    "mean_per_source_s": 206.16337298168767
+  }
+]

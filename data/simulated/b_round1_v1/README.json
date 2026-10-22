@@ -1,0 +1,11 @@
+{
+  "version": "B-R1-A-adversarial-v1",
+  "generator": "validation/generate_b_round1_fixtures.py",
+  "seed": 20260910,
+  "files": [
+    "timing_official_199.jsonl",
+    "timing_retry_reject_clear_channel.jsonl",
+    "adversarial_cases.json"
+  ],
+  "scope": "Offline unit/full fixtures only; no simulator or official interface access."
+}

@@ -1,0 +1,25 @@
+{
+  "version": "B-R1-A-adversarial-v1",
+  "files": [
+    {
+      "path": "timing_official_199.jsonl",
+      "bytes": 1281,
+      "sha256": "2e8765e72f10349841e10722294870223f79ffccf47136343c6a7760d77ce9e4"
+    },
+    {
+      "path": "timing_retry_reject_clear_channel.jsonl",
+      "bytes": 1647,
+      "sha256": "f1edaa43b874421a3158e631583dc2e7240bb608afceba605d58c70f97054489"
+    },
+    {
+      "path": "adversarial_cases.json",
+      "bytes": 7319,
+      "sha256": "2430c373d89b9d5a8d51be9738613e75dcddd2f5fc4fcd94b8ff00c2a5ee4b01"
+    },
+    {
+      "path": "README.json",
+      "bytes": 348,
+      "sha256": "b8d3e10b8d3096e00c5eec64de0edaa78900af9edf8613f76c392c2f4982ca3b"
+    }
+  ]
+}

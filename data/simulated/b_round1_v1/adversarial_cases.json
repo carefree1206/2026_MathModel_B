@@ -1,0 +1,282 @@
+{
+  "schema_version": "b-scenario-v1",
+  "suite_id": "B-R1-A-adversarial-v1",
+  "seed": 20260910,
+  "notes": "Unit cases test one property each and are not full-score scenarios.",
+  "cases": [
+    {
+      "case_id": "full_min_radius_boundary_mix",
+      "case_kind": "full",
+      "seed": 20260910,
+      "sources": [
+        {
+          "id": "s01",
+          "channel": 1,
+          "x_m": 1800.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 0.0
+        },
+        {
+          "id": "s02",
+          "channel": 2,
+          "x_m": -1800.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 180.0
+        },
+        {
+          "id": "s03",
+          "channel": 3,
+          "x_m": 0.0,
+          "y_m": 1800.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 90.0
+        },
+        {
+          "id": "s04",
+          "channel": 4,
+          "x_m": 0.0,
+          "y_m": -1800.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 270.0
+        },
+        {
+          "id": "s05",
+          "channel": 5,
+          "x_m": 1272.792206,
+          "y_m": 1272.792206,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 45.0
+        },
+        {
+          "id": "s06",
+          "channel": 6,
+          "x_m": -1272.792206,
+          "y_m": 1272.792206,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 135.0
+        },
+        {
+          "id": "s07",
+          "channel": 7,
+          "x_m": -1272.792206,
+          "y_m": -1272.792206,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 225.0
+        },
+        {
+          "id": "s08",
+          "channel": 8,
+          "x_m": 1272.792206,
+          "y_m": -1272.792206,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 315.0
+        },
+        {
+          "id": "s09",
+          "channel": 19,
+          "x_m": 3.0,
+          "y_m": 4.0,
+          "reception_radius_m": 1500.0,
+          "orientation_deg": null
+        },
+        {
+          "id": "s10",
+          "channel": 20,
+          "x_m": -20.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": null
+        }
+      ],
+      "error_model": {
+        "kind": "deterministic_position_function",
+        "name": "bounded_hash_v1",
+        "bound_deg": 1.0
+      },
+      "expected_properties": [
+        "10 unique channels",
+        "boundary and outward directional sources",
+        "minimum receive radius",
+        "5 m and 20 m distance cases near the origin"
+      ]
+    },
+    {
+      "case_id": "unit_directional_boundary_outward",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s1",
+          "channel": 1,
+          "x_m": 1800.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": 0.0
+        }
+      ],
+      "expected_properties": [
+        "internal points can all be behind the source",
+        "external grid vertices are required",
+        "a point on the directional +/-90 degree boundary is visible"
+      ]
+    },
+    {
+      "case_id": "unit_receive_radius_exact_1000",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s1",
+          "channel": 20,
+          "x_m": 1000.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": null
+        }
+      ],
+      "expected_properties": [
+        "measurement at origin is in range because the boundary is closed",
+        "moving an epsilon farther gives no_signal"
+      ]
+    },
+    {
+      "case_id": "unit_multi_near_channels",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s1",
+          "channel": 2,
+          "x_m": 3.0,
+          "y_m": 4.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": null
+        },
+        {
+          "id": "s2",
+          "channel": 19,
+          "x_m": -3.0,
+          "y_m": 4.0,
+          "reception_radius_m": 1500.0,
+          "orientation_deg": 270.0
+        }
+      ],
+      "expected_properties": [
+        "near/clear is channel-specific",
+        "clear on channel 19 must not change receiver channel"
+      ]
+    },
+    {
+      "case_id": "unit_wrap_and_error_endpoints",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s1",
+          "channel": 7,
+          "x_m": 1200.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1500.0,
+          "orientation_deg": null
+        }
+      ],
+      "error_model": {
+        "kind": "specified_readings",
+        "readings": [
+          {
+            "x_m": 0.0,
+            "y_m": 0.0,
+            "svd_deg": 359.0
+          },
+          {
+            "x_m": 0.0,
+            "y_m": 30.0,
+            "svd_deg": 1.0
+          }
+        ]
+      },
+      "expected_properties": [
+        "359 and 1 degrees differ by 2 degrees, not 358",
+        "both +/-1 degree endpoints are retained",
+        "repeated detection at a fixed point must return the same reading"
+      ]
+    },
+    {
+      "case_id": "unit_near_collinear",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s1",
+          "channel": 8,
+          "x_m": 1500.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1500.0,
+          "orientation_deg": null
+        }
+      ],
+      "error_model": {
+        "kind": "specified_readings",
+        "readings": [
+          {
+            "x_m": 0.0,
+            "y_m": 0.0,
+            "svd_deg": 0.0
+          },
+          {
+            "x_m": 100.0,
+            "y_m": 0.1,
+            "svd_deg": 0.0
+          }
+        ]
+      },
+      "expected_properties": [
+        "center-line intersection is ill-conditioned",
+        "algorithm must keep an angular feasible region rather than trust one intersection"
+      ]
+    },
+    {
+      "case_id": "unit_closed_distance_thresholds",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s5",
+          "channel": 5,
+          "x_m": 5.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": null
+        },
+        {
+          "id": "s20",
+          "channel": 6,
+          "x_m": 20.0,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": null
+        }
+      ],
+      "expected_properties": [
+        "distance exactly 5 m yields near",
+        "distance exactly 20 m can be cleared",
+        "5+epsilon need not be near",
+        "20+epsilon cannot be cleared"
+      ]
+    },
+    {
+      "case_id": "unit_source_slightly_outside_invalid",
+      "case_kind": "unit",
+      "sources": [
+        {
+          "id": "s1",
+          "channel": 1,
+          "x_m": 1800.001,
+          "y_m": 0.0,
+          "reception_radius_m": 1000.0,
+          "orientation_deg": null
+        }
+      ],
+      "expected_valid": false,
+      "expected_properties": [
+        "source-domain validator rejects even a slight boundary violation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "algorithm": "m021",
+  "version": "M021-v2-q4-selected",
+  "problem": "q4",
+  "module": "transit_policy_v2",
+  "mode": "official",
+  "test_mode": "practice",
+  "case_code": "PEAD-ET89-3T4M-3RFR",
+  "status": "completed",
+  "self_check": "passed",
+  "normal_exit": true,
+  "error": null,
+  "termination": "coverage_complete",
+  "virtual_time_s": 5510.070959,
+  "program_runtime_s": 3.4539999999979045,
+  "cleared_count": 15,
+  "average_virtual_time_per_cleared_s": 367.33806393333333,
+  "cost_breakdown": {
+    "move_m": 20930.35478388793,
+    "move_s": 4186.070956777587,
+    "measure_s": 1055,
+    "switch_s": 188,
+    "optical_s": 51,
+    "laser_s": 30,
+    "measures": 211,
+    "clears": 17,
+    "successes": 15
+  },
+  "official_total_sources": null,
+  "official_clearance_ratio": null,
+  "official_result_verified": false,
+  "official_log": "请从模拟器导出本局原始 .jlog，并保存结果截图。"
+}

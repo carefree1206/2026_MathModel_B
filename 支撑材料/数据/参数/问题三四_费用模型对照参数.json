@@ -1,0 +1,37 @@
+{
+  "q3": [
+    {
+      "name": "m019"
+    },
+    {
+      "name": "physical_optical",
+      "module": "问题三四_完整费用选点",
+      "settings": {
+        "local_mode": "pair",
+        "posterior_mode": "full",
+        "posterior_target": false,
+        "posterior_optical": true,
+        "optical_gain_threshold": 0
+      }
+    }
+  ],
+  "q4": [
+    {
+      "name": "m019"
+    },
+    {
+      "name": "combined_physical",
+      "module": "问题三四_费用驱动候选求解",
+      "settings": {
+        "local_mode": "pair",
+        "posterior_mode": "full",
+        "posterior_target": false,
+        "posterior_optical": true,
+        "optical_gain_threshold": 0,
+        "warm_route": true,
+        "warm_optimize": true,
+        "stationary_gain_m": 120
+      }
+    }
+  ]
+}

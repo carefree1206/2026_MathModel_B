@@ -1,0 +1,2526 @@
+{
+  "passed": true,
+  "runs": 252,
+  "audit_rows": [
+    {
+      "case_id": "v14-confirm-q3-n10-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n10-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n11-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n12-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n13-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n14-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n15-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-00",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-00",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-00",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-01",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-01",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-01",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-02",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-02",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-02",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-03",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-03",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-03",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-04",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-04",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-04",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-05",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-05",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-05",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-06",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-06",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-06",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-07",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-07",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-07",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-08",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-08",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-08",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-09",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-09",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-09",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-10",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-10",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-10",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-11",
+      "variant": "ring6",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-11",
+      "variant": "ring7",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    },
+    {
+      "case_id": "v14-confirm-q3-n16-11",
+      "variant": "ring8",
+      "passed": true,
+      "timing": true,
+      "independent": true,
+      "negative_geometry": true,
+      "full_range_geometry": true,
+      "physical_clearance_ratio": 1.0
+    }
+  ]
+}

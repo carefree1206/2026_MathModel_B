@@ -1,0 +1,33 @@
+{
+  "algorithm": "m020",
+  "version": "M020-q3-physical_optical",
+  "problem": "q3",
+  "module": "localization_lab.policy_cost5",
+  "mode": "official",
+  "test_mode": "practice",
+  "case_code": "RKMV-HG3J-9ZHA-WYCT",
+  "status": "completed",
+  "self_check": "passed",
+  "normal_exit": true,
+  "error": null,
+  "termination": "coverage_complete",
+  "virtual_time_s": 3132.993618,
+  "program_runtime_s": 2.234000000025844,
+  "cleared_count": 14,
+  "average_virtual_time_per_cleared_s": 223.78525842857144,
+  "cost_breakdown": {
+    "move_m": 11939.96807458014,
+    "move_s": 2387.9936149160285,
+    "measure_s": 560,
+    "switch_s": 100,
+    "optical_s": 57,
+    "laser_s": 28,
+    "measures": 112,
+    "clears": 19,
+    "successes": 14
+  },
+  "official_total_sources": null,
+  "official_clearance_ratio": null,
+  "official_result_verified": false,
+  "official_log": "请从模拟器导出本局原始 .jlog，并保存结果截图。"
+}

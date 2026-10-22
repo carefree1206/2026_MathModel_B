@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "lower_bound": {
+    "passed": true,
+    "minimum_station_count": 19,
+    "weighted_demand": "18141/1000",
+    "closed_intervals": 560,
+    "maximum_capacity": {
+      "interval_m": [
+        1495,
+        1500
+      ],
+      "upper_rational": "3141302164609900000000000/3141592653589793238462643",
+      "upper_display": 0.9999075344858726
+    }
+  },
+  "inner_station": {
+    "passed": true,
+    "conditional_station_count": 19,
+    "exactly_one_station_radius_lt_m": 660,
+    "all_other_station_radii_gt_m": 800,
+    "weighted_demand": "19229/1000",
+    "closed_intervals": 400,
+    "maximum_capacity": {
+      "interval_m": [
+        890,
+        895
+      ],
+      "upper_rational": "392664144074582318425348521/392699081698724154807830375",
+      "upper_display": 0.999911032070687
+    },
+    "core660_upper_rational": "480299978205482318425348521/392699081698724154807830375",
+    "core660_upper_display": 1.2230738511733137,
+    "strict_deficit_rational": "18617545617997342667800079/3141592653589793238462643000"
+  },
+  "scope": {
+    "source_disk_radius_m": 1800,
+    "reception_radius_m": 1000,
+    "arbitrary_closed_half_plane_direction": true,
+    "arbitrary_finite_station_coordinates": true,
+    "fixed_layout_only": true
+  },
+  "general_19_and_20_feasibility": "未决",
+  "upper_bound_21": "沿用支撑材料中既有 21 点连续覆盖证书，本入口只重算下界与内站条件",
+  "no_float_proof_decisions": true,
+  "all_radii_covered": true,
+  "outside_2800_all_resources_zero": true,
+  "input_sha256": {
+    "n19_exact.json": "be29c0957913ea667b6c89d98a1a70f147a996ae707cc2c61e94c9a4074d9eae",
+    "inner660_exact.json": "b6d8b7d359c3786cb9be0b34e4a760b6895b5d6328308f4483da599ad08da2a5"
+  },
+  "script_sha256": "13e6cd86f77d0ae387b3f7090b566a93950d61430b5bb3a9d466409bdd654c51",
+  "elapsed_seconds": 3.6410000000032596
+}

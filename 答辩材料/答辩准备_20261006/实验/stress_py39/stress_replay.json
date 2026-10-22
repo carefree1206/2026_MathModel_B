@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "criteria": [
+    {
+      "problem": "q3",
+      "reference": "m020",
+      "kind": "cluster",
+      "case_id": "m021-stress-q3-cluster-000027"
+    },
+    {
+      "problem": "q4",
+      "reference": "m019",
+      "kind": null,
+      "case_id": "m021-stress-q4-cluster-000025"
+    },
+    {
+      "problem": "q4",
+      "reference": "m020",
+      "kind": null,
+      "case_id": "m021-stress-q4-boundary-000018"
+    }
+  ],
+  "results": [
+    {
+      "case_id": "m021-stress-q3-cluster-000027",
+      "variant": "m019",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 1031.8554530268261
+    },
+    {
+      "case_id": "m021-stress-q3-cluster-000027",
+      "variant": "m020",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 929.2767327907553
+    },
+    {
+      "case_id": "m021-stress-q3-cluster-000027",
+      "variant": "m021",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 2223.9305205620126
+    },
+    {
+      "case_id": "m021-stress-q4-boundary-000018",
+      "variant": "m019",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 5599.324633767206
+    },
+    {
+      "case_id": "m021-stress-q4-boundary-000018",
+      "variant": "m020",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 5300.726044319647
+    },
+    {
+      "case_id": "m021-stress-q4-boundary-000018",
+      "variant": "m021",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 5821.075503942903
+    },
+    {
+      "case_id": "m021-stress-q4-cluster-000025",
+      "variant": "m019",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 5171.242116785916
+    },
+    {
+      "case_id": "m021-stress-q4-cluster-000025",
+      "variant": "m020",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 5167.605598185279
+    },
+    {
+      "case_id": "m021-stress-q4-cluster-000025",
+      "variant": "m021",
+      "passed": true,
+      "strict_action_replay": true,
+      "virtual_time_s": 5476.087180596414
+    }
+  ],
+  "network_requests": 0
+}

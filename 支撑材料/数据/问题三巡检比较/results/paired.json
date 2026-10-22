@@ -1,0 +1,2270 @@
+[
+  {
+    "case_id": "v14-confirm-q3-n10-00",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 273.97023471766227,
+    "actual_per_source_s": 273.97023471766227,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-01",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 286.5884946503823,
+    "actual_per_source_s": 286.5884946503823,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-02",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 271.6363868703314,
+    "actual_per_source_s": 271.6363868703314,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-03",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 274.74922156848555,
+    "actual_per_source_s": 274.74922156848555,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-04",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 328.95661947786596,
+    "actual_per_source_s": 328.95661947786596,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-05",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 273.1711534962524,
+    "actual_per_source_s": 273.1711534962524,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-06",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 299.5494143578791,
+    "actual_per_source_s": 299.5494143578791,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-07",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 305.1618195728207,
+    "actual_per_source_s": 305.1618195728207,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-08",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 287.07511962733304,
+    "actual_per_source_s": 287.07511962733304,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-09",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 272.97804238171466,
+    "actual_per_source_s": 272.97804238171466,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-10",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 270.2945508522047,
+    "actual_per_source_s": 270.2945508522047,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-11",
+    "variant": "ring6",
+    "source_count": 10,
+    "base_per_source_s": 277.6337612095133,
+    "actual_per_source_s": 277.6337612095133,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-00",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 252.16214990666893,
+    "actual_per_source_s": 252.16214990666893,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-01",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 287.6975178464001,
+    "actual_per_source_s": 287.6975178464001,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-02",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 231.95550246023805,
+    "actual_per_source_s": 231.95550246023805,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-03",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 274.8128486965563,
+    "actual_per_source_s": 274.8128486965563,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-04",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 254.4242349022564,
+    "actual_per_source_s": 254.4242349022564,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-05",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 255.4963391700964,
+    "actual_per_source_s": 255.4963391700964,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-06",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 278.4190974485957,
+    "actual_per_source_s": 278.4190974485957,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-07",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 257.60921595644044,
+    "actual_per_source_s": 257.60921595644044,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-08",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 276.950200205764,
+    "actual_per_source_s": 276.950200205764,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-09",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 309.7140751933823,
+    "actual_per_source_s": 309.7140751933823,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-10",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 280.55296934527826,
+    "actual_per_source_s": 280.55296934527826,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-11",
+    "variant": "ring6",
+    "source_count": 11,
+    "base_per_source_s": 280.6109963483845,
+    "actual_per_source_s": 280.6109963483845,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-00",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 275.5307764089878,
+    "actual_per_source_s": 275.5307764089878,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-01",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 242.62524771178633,
+    "actual_per_source_s": 242.62524771178633,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-02",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 249.33610498331873,
+    "actual_per_source_s": 249.33610498331873,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-03",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 242.0636497484481,
+    "actual_per_source_s": 242.0636497484481,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-04",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 266.8108493741992,
+    "actual_per_source_s": 266.8108493741992,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-05",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 231.92135297517783,
+    "actual_per_source_s": 231.92135297517783,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-06",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 237.39282479247527,
+    "actual_per_source_s": 237.39282479247527,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-07",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 287.48503326704804,
+    "actual_per_source_s": 287.48503326704804,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-08",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 245.6407033698293,
+    "actual_per_source_s": 245.6407033698293,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-09",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 268.89685866131254,
+    "actual_per_source_s": 268.89685866131254,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-10",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 245.70705838948663,
+    "actual_per_source_s": 245.70705838948663,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-11",
+    "variant": "ring6",
+    "source_count": 12,
+    "base_per_source_s": 245.21059672212166,
+    "actual_per_source_s": 245.21059672212166,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-00",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 206.86160497545472,
+    "actual_per_source_s": 206.86160497545472,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-01",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 219.1211227846078,
+    "actual_per_source_s": 219.1211227846078,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-02",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 206.91562746013318,
+    "actual_per_source_s": 206.91562746013318,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-03",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 243.46819542075005,
+    "actual_per_source_s": 243.46819542075005,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-04",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 230.5196409227454,
+    "actual_per_source_s": 230.5196409227454,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-05",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 231.8198203034561,
+    "actual_per_source_s": 231.8198203034561,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-06",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 236.53375724564194,
+    "actual_per_source_s": 236.53375724564194,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-07",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 255.75215859234424,
+    "actual_per_source_s": 255.75215859234424,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-08",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 247.63038635121828,
+    "actual_per_source_s": 247.63038635121828,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-09",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 228.49254255077105,
+    "actual_per_source_s": 228.49254255077105,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-10",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 226.19775718679497,
+    "actual_per_source_s": 226.19775718679497,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-11",
+    "variant": "ring6",
+    "source_count": 13,
+    "base_per_source_s": 210.93119260733826,
+    "actual_per_source_s": 210.93119260733826,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-00",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 239.55330039415873,
+    "actual_per_source_s": 239.55330039415873,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-01",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 223.7908578202898,
+    "actual_per_source_s": 223.7908578202898,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-02",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 222.27190861965238,
+    "actual_per_source_s": 222.27190861965238,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-03",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 242.01703550540316,
+    "actual_per_source_s": 242.01703550540316,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-04",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 225.97598287191886,
+    "actual_per_source_s": 225.97598287191886,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-05",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 206.81312825759804,
+    "actual_per_source_s": 206.81312825759804,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-06",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 223.71700868546515,
+    "actual_per_source_s": 223.71700868546515,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-07",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 219.04122820028934,
+    "actual_per_source_s": 219.04122820028934,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-08",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 245.93800939193574,
+    "actual_per_source_s": 245.93800939193574,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-09",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 205.36835617587843,
+    "actual_per_source_s": 205.36835617587843,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-10",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 212.64566229191084,
+    "actual_per_source_s": 212.64566229191084,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-11",
+    "variant": "ring6",
+    "source_count": 14,
+    "base_per_source_s": 279.8228698897696,
+    "actual_per_source_s": 279.8228698897696,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-00",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 202.73294504567212,
+    "actual_per_source_s": 202.73294504567212,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-01",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 234.66837001571693,
+    "actual_per_source_s": 234.66837001571693,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-02",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 236.44745529788784,
+    "actual_per_source_s": 236.44745529788784,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-03",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 210.17917907997193,
+    "actual_per_source_s": 210.17917907997193,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-04",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 189.4151807515423,
+    "actual_per_source_s": 189.4151807515423,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-05",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 218.3976749914718,
+    "actual_per_source_s": 218.3976749914718,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-06",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 200.84477193191998,
+    "actual_per_source_s": 200.84477193191998,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-07",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 175.5243404220818,
+    "actual_per_source_s": 175.5243404220818,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-08",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 214.72199688647015,
+    "actual_per_source_s": 214.72199688647015,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-09",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 220.493912535232,
+    "actual_per_source_s": 220.493912535232,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-10",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 202.90251477831174,
+    "actual_per_source_s": 202.90251477831174,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-11",
+    "variant": "ring6",
+    "source_count": 15,
+    "base_per_source_s": 230.4466899848657,
+    "actual_per_source_s": 230.4466899848657,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-00",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 196.24924617272487,
+    "actual_per_source_s": 196.24924617272487,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-01",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 178.45452214246941,
+    "actual_per_source_s": 178.45452214246941,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-02",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 204.08318657402543,
+    "actual_per_source_s": 204.08318657402543,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-03",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 216.68456372217724,
+    "actual_per_source_s": 216.68456372217724,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-04",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 216.26704151873201,
+    "actual_per_source_s": 216.26704151873201,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-05",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 196.2418314534931,
+    "actual_per_source_s": 196.2418314534931,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-06",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 210.27228119962396,
+    "actual_per_source_s": 210.27228119962396,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-07",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 203.20406574950206,
+    "actual_per_source_s": 203.20406574950206,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-08",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 210.57162120423104,
+    "actual_per_source_s": 210.57162120423104,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-09",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 196.34898578512937,
+    "actual_per_source_s": 196.34898578512937,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-10",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 221.41216277296093,
+    "actual_per_source_s": 221.41216277296093,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-11",
+    "variant": "ring6",
+    "source_count": 16,
+    "base_per_source_s": 220.06451386986507,
+    "actual_per_source_s": 220.06451386986507,
+    "relative_change_percent": 0.0,
+    "delta_per_source_s": 0.0
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-00",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 273.97023471766227,
+    "actual_per_source_s": 261.75959927510013,
+    "relative_change_percent": -4.456920458949021,
+    "delta_per_source_s": -12.210635442562136
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-01",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 286.5884946503823,
+    "actual_per_source_s": 299.02059085908013,
+    "relative_change_percent": 4.337960679078945,
+    "delta_per_source_s": 12.432096208697828
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-02",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 271.6363868703314,
+    "actual_per_source_s": 269.2006467998096,
+    "relative_change_percent": -0.8966913816610855,
+    "delta_per_source_s": -2.435740070521831
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-03",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 274.74922156848555,
+    "actual_per_source_s": 288.3319197888866,
+    "relative_change_percent": 4.943671229661817,
+    "delta_per_source_s": 13.582698220401028
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-04",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 328.95661947786596,
+    "actual_per_source_s": 325.45234528420644,
+    "relative_change_percent": -1.065269396074675,
+    "delta_per_source_s": -3.504274193659512
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-05",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 273.1711534962524,
+    "actual_per_source_s": 296.94415085881377,
+    "relative_change_percent": 8.702601668696165,
+    "delta_per_source_s": 23.772997362561398
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-06",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 299.5494143578791,
+    "actual_per_source_s": 319.0457207630976,
+    "relative_change_percent": 6.508544323817578,
+    "delta_per_source_s": 19.496306405218547
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-07",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 305.1618195728207,
+    "actual_per_source_s": 305.39362039318974,
+    "relative_change_percent": 0.07595996795848325,
+    "delta_per_source_s": 0.23180082036901695
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-08",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 287.07511962733304,
+    "actual_per_source_s": 254.6268281638454,
+    "relative_change_percent": -11.303066425822772,
+    "delta_per_source_s": -32.448291463487635
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-09",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 272.97804238171466,
+    "actual_per_source_s": 294.6474795983463,
+    "relative_change_percent": 7.9381612629233045,
+    "delta_per_source_s": 21.66943721663165
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-10",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 270.2945508522047,
+    "actual_per_source_s": 281.2775553555902,
+    "relative_change_percent": 4.063346622696429,
+    "delta_per_source_s": 10.98300450338553
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-11",
+    "variant": "ring7",
+    "source_count": 10,
+    "base_per_source_s": 277.6337612095133,
+    "actual_per_source_s": 275.391841831036,
+    "relative_change_percent": -0.8075096374123847,
+    "delta_per_source_s": -2.2419193784772915
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-00",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 252.16214990666893,
+    "actual_per_source_s": 258.82616854440744,
+    "relative_change_percent": 2.6427513566984695,
+    "delta_per_source_s": 6.664018637738508
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-01",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 287.6975178464001,
+    "actual_per_source_s": 314.131639909883,
+    "relative_change_percent": 9.18816479939042,
+    "delta_per_source_s": 26.434122063482903
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-02",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 231.95550246023805,
+    "actual_per_source_s": 226.1435301885922,
+    "relative_change_percent": -2.505641043217821,
+    "delta_per_source_s": -5.811972271645857
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-03",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 274.8128486965563,
+    "actual_per_source_s": 286.67168311196593,
+    "relative_change_percent": 4.315240161315748,
+    "delta_per_source_s": 11.85883441540966
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-04",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 254.4242349022564,
+    "actual_per_source_s": 260.58409817143917,
+    "relative_change_percent": 2.421099260276538,
+    "delta_per_source_s": 6.159863269182779
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-05",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 255.4963391700964,
+    "actual_per_source_s": 245.9680613402481,
+    "relative_change_percent": -3.7293206864716932,
+    "delta_per_source_s": -9.528277829848292
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-06",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 278.4190974485957,
+    "actual_per_source_s": 283.5137014563619,
+    "relative_change_percent": 1.8298328147934528,
+    "delta_per_source_s": 5.094604007766179
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-07",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 257.60921595644044,
+    "actual_per_source_s": 280.333350257121,
+    "relative_change_percent": 8.821165118767738,
+    "delta_per_source_s": 22.72413430068059
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-08",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 276.950200205764,
+    "actual_per_source_s": 278.3843516401131,
+    "relative_change_percent": 0.5178372982881152,
+    "delta_per_source_s": 1.4341514343490758
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-09",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 309.7140751933823,
+    "actual_per_source_s": 276.0082370593435,
+    "relative_change_percent": -10.882888713725137,
+    "delta_per_source_s": -33.7058381340388
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-10",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 280.55296934527826,
+    "actual_per_source_s": 298.04778983919465,
+    "relative_change_percent": 6.235835084812602,
+    "delta_per_source_s": 17.494820493916393
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-11",
+    "variant": "ring7",
+    "source_count": 11,
+    "base_per_source_s": 280.6109963483845,
+    "actual_per_source_s": 283.120356266163,
+    "relative_change_percent": 0.8942486040935727,
+    "delta_per_source_s": 2.509359917778511
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-00",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 275.5307764089878,
+    "actual_per_source_s": 270.43028683423944,
+    "relative_change_percent": -1.8511505833298858,
+    "delta_per_source_s": -5.100489574748337
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-01",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 242.62524771178633,
+    "actual_per_source_s": 235.2247690621684,
+    "relative_change_percent": -3.0501684055605494,
+    "delta_per_source_s": -7.400478649617924
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-02",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 249.33610498331873,
+    "actual_per_source_s": 247.3450785447629,
+    "relative_change_percent": -0.7985311387971761,
+    "delta_per_source_s": -1.9910264385558207
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-03",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 242.0636497484481,
+    "actual_per_source_s": 253.083318196215,
+    "relative_change_percent": 4.552384655531094,
+    "delta_per_source_s": 11.01966844776689
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-04",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 266.8108493741992,
+    "actual_per_source_s": 269.2037888027442,
+    "relative_change_percent": 0.8968673628368506,
+    "delta_per_source_s": 2.3929394285449916
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-05",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 231.92135297517783,
+    "actual_per_source_s": 248.677183128706,
+    "relative_change_percent": 7.224789756776517,
+    "delta_per_source_s": 16.755830153528166
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-06",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 237.39282479247527,
+    "actual_per_source_s": 227.31801173605706,
+    "relative_change_percent": -4.243941688307318,
+    "delta_per_source_s": -10.074813056418208
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-07",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 287.48503326704804,
+    "actual_per_source_s": 282.3257342535431,
+    "relative_change_percent": -1.7946322126315417,
+    "delta_per_source_s": -5.159299013504949
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-08",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 245.6407033698293,
+    "actual_per_source_s": 262.53839164650344,
+    "relative_change_percent": 6.879026173131209,
+    "delta_per_source_s": 16.89768827667413
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-09",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 268.89685866131254,
+    "actual_per_source_s": 244.04574448086046,
+    "relative_change_percent": -9.241875975856285,
+    "delta_per_source_s": -24.851114180452072
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-10",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 245.70705838948663,
+    "actual_per_source_s": 234.8859695888821,
+    "relative_change_percent": -4.404061027604389,
+    "delta_per_source_s": -10.821088800604542
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-11",
+    "variant": "ring7",
+    "source_count": 12,
+    "base_per_source_s": 245.21059672212166,
+    "actual_per_source_s": 253.95233798820936,
+    "relative_change_percent": 3.564993268212646,
+    "delta_per_source_s": 8.7417412660877
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-00",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 206.86160497545472,
+    "actual_per_source_s": 208.22099859371446,
+    "relative_change_percent": 0.6571512477731245,
+    "delta_per_source_s": 1.3593936182597304
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-01",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 219.1211227846078,
+    "actual_per_source_s": 222.1000357371622,
+    "relative_change_percent": 1.359482333194606,
+    "delta_per_source_s": 2.9789129525543956
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-02",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 206.91562746013318,
+    "actual_per_source_s": 211.19344063129103,
+    "relative_change_percent": 2.0674190846131424,
+    "delta_per_source_s": 4.277813171157845
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-03",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 243.46819542075005,
+    "actual_per_source_s": 246.0100588572964,
+    "relative_change_percent": 1.0440227858729667,
+    "delta_per_source_s": 2.5418634365463504
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-04",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 230.5196409227454,
+    "actual_per_source_s": 251.843785878682,
+    "relative_change_percent": 9.250467713110421,
+    "delta_per_source_s": 21.324144955936617
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-05",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 231.8198203034561,
+    "actual_per_source_s": 247.44437641774473,
+    "relative_change_percent": 6.739956960468607,
+    "delta_per_source_s": 15.624556114288623
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-06",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 236.53375724564194,
+    "actual_per_source_s": 228.10393364418547,
+    "relative_change_percent": -3.5638987430880897,
+    "delta_per_source_s": -8.429823601456462
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-07",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 255.75215859234424,
+    "actual_per_source_s": 236.31236346088443,
+    "relative_change_percent": -7.6010287609911575,
+    "delta_per_source_s": -19.439795131459817
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-08",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 247.63038635121828,
+    "actual_per_source_s": 245.58018405889575,
+    "relative_change_percent": -0.8279283986637576,
+    "delta_per_source_s": -2.050202292322524
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-09",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 228.49254255077105,
+    "actual_per_source_s": 236.4936716996737,
+    "relative_change_percent": 3.5017025324250106,
+    "delta_per_source_s": 8.001129148902663
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-10",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 226.19775718679497,
+    "actual_per_source_s": 284.4559814087225,
+    "relative_change_percent": 25.755438491734317,
+    "delta_per_source_s": 58.25822422192752
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-11",
+    "variant": "ring7",
+    "source_count": 13,
+    "base_per_source_s": 210.93119260733826,
+    "actual_per_source_s": 201.88894029343393,
+    "relative_change_percent": -4.286825576687958,
+    "delta_per_source_s": -9.042252313904328
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-00",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 239.55330039415873,
+    "actual_per_source_s": 243.68432416488798,
+    "relative_change_percent": 1.7244695706267077,
+    "delta_per_source_s": 4.131023770729257
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-01",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 223.7908578202898,
+    "actual_per_source_s": 232.8183848337334,
+    "relative_change_percent": 4.033912332867939,
+    "delta_per_source_s": 9.027527013443603
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-02",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 222.27190861965238,
+    "actual_per_source_s": 226.90487862600466,
+    "relative_change_percent": 2.084370460992502,
+    "delta_per_source_s": 4.632970006352281
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-03",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 242.01703550540316,
+    "actual_per_source_s": 247.3199688434483,
+    "relative_change_percent": 2.191140523216073,
+    "delta_per_source_s": 5.302933338045136
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-04",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 225.97598287191886,
+    "actual_per_source_s": 206.89817640979535,
+    "relative_change_percent": -8.44240446248513,
+    "delta_per_source_s": -19.077806462123505
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-05",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 206.81312825759804,
+    "actual_per_source_s": 218.81140321432912,
+    "relative_change_percent": 5.801505473959323,
+    "delta_per_source_s": 11.99827495673108
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-06",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 223.71700868546515,
+    "actual_per_source_s": 217.9668751052694,
+    "relative_change_percent": -2.5702710821956964,
+    "delta_per_source_s": -5.750133580195751
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-07",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 219.04122820028934,
+    "actual_per_source_s": 223.63409403417117,
+    "relative_change_percent": 2.0968042736147163,
+    "delta_per_source_s": 4.592865833881831
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-08",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 245.93800939193574,
+    "actual_per_source_s": 246.73325695465059,
+    "relative_change_percent": 0.3233528500458549,
+    "delta_per_source_s": 0.7952475627148488
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-09",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 205.36835617587843,
+    "actual_per_source_s": 194.2388206597477,
+    "relative_change_percent": -5.419303987903257,
+    "delta_per_source_s": -11.129535516130744
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-10",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 212.64566229191084,
+    "actual_per_source_s": 218.50639920462686,
+    "relative_change_percent": 2.7561046153251167,
+    "delta_per_source_s": 5.860736912716021
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-11",
+    "variant": "ring7",
+    "source_count": 14,
+    "base_per_source_s": 279.8228698897696,
+    "actual_per_source_s": 244.51379882632136,
+    "relative_change_percent": -12.61836499545499,
+    "delta_per_source_s": -35.30907106344824
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-00",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 202.73294504567212,
+    "actual_per_source_s": 199.39609544243623,
+    "relative_change_percent": -1.6459335716176526,
+    "delta_per_source_s": -3.3368496032358905
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-01",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 234.66837001571693,
+    "actual_per_source_s": 229.04406776935448,
+    "relative_change_percent": -2.396702310578014,
+    "delta_per_source_s": -5.624302246362447
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-02",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 236.44745529788784,
+    "actual_per_source_s": 229.08088107092925,
+    "relative_change_percent": -3.115522735348464,
+    "delta_per_source_s": -7.3665742269585905
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-03",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 210.17917907997193,
+    "actual_per_source_s": 205.75942372726834,
+    "relative_change_percent": -2.1028511825245566,
+    "delta_per_source_s": -4.419755352703589
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-04",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 189.4151807515423,
+    "actual_per_source_s": 193.0052626945259,
+    "relative_change_percent": 1.8953506940358356,
+    "delta_per_source_s": 3.590081942983602
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-05",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 218.3976749914718,
+    "actual_per_source_s": 227.79088926616788,
+    "relative_change_percent": 4.3009680735213385,
+    "delta_per_source_s": 9.393214274696078
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-06",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 200.84477193191998,
+    "actual_per_source_s": 203.11719135562814,
+    "relative_change_percent": 1.1314307073317487,
+    "delta_per_source_s": 2.2724194237081576
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-07",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 175.5243404220818,
+    "actual_per_source_s": 182.83398919636508,
+    "relative_change_percent": 4.164464459291417,
+    "delta_per_source_s": 7.309648774283289
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-08",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 214.72199688647015,
+    "actual_per_source_s": 213.29002633849979,
+    "relative_change_percent": -0.6668951335840556,
+    "delta_per_source_s": -1.4319705479703657
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-09",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 220.493912535232,
+    "actual_per_source_s": 228.60816736312597,
+    "relative_change_percent": 3.6800357590812904,
+    "delta_per_source_s": 8.114254827893973
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-10",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 202.90251477831174,
+    "actual_per_source_s": 228.48964390304144,
+    "relative_change_percent": 12.61055298042304,
+    "delta_per_source_s": 25.5871291247297
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-11",
+    "variant": "ring7",
+    "source_count": 15,
+    "base_per_source_s": 230.4466899848657,
+    "actual_per_source_s": 227.45704667186965,
+    "relative_change_percent": -1.2973253437454035,
+    "delta_per_source_s": -2.9896433129960656
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-00",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 196.24924617272487,
+    "actual_per_source_s": 204.53980160450303,
+    "relative_change_percent": 4.2245030712023235,
+    "delta_per_source_s": 8.29055543177816
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-01",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 178.45452214246941,
+    "actual_per_source_s": 191.2966207150196,
+    "relative_change_percent": 7.196286436662946,
+    "delta_per_source_s": 12.842098572550185
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-02",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 204.08318657402543,
+    "actual_per_source_s": 225.784644521148,
+    "relative_change_percent": 10.633633427343113,
+    "delta_per_source_s": 21.701457947122577
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-03",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 216.68456372217724,
+    "actual_per_source_s": 219.96148401264782,
+    "relative_change_percent": 1.5122998307678603,
+    "delta_per_source_s": 3.2769202904705708
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-04",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 216.26704151873201,
+    "actual_per_source_s": 219.733992860504,
+    "relative_change_percent": 1.6030881624057747,
+    "delta_per_source_s": 3.4669513417719884
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-05",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 196.2418314534931,
+    "actual_per_source_s": 199.58236344610984,
+    "relative_change_percent": 1.702252760216627,
+    "delta_per_source_s": 3.3405319926167465
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-06",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 210.27228119962396,
+    "actual_per_source_s": 220.49151127373585,
+    "relative_change_percent": 4.859998672107513,
+    "delta_per_source_s": 10.219230074111891
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-07",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 203.20406574950206,
+    "actual_per_source_s": 179.7042688161162,
+    "relative_change_percent": -11.564629303409223,
+    "delta_per_source_s": -23.499796933385852
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-08",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 210.57162120423104,
+    "actual_per_source_s": 221.01677023133627,
+    "relative_change_percent": 4.960378310890534,
+    "delta_per_source_s": 10.44514902710523
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-09",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 196.34898578512937,
+    "actual_per_source_s": 201.11456934153514,
+    "relative_change_percent": 2.427098636313252,
+    "delta_per_source_s": 4.7655835564057725
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-10",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 221.41216277296093,
+    "actual_per_source_s": 192.49539276843848,
+    "relative_change_percent": -13.060154258180523,
+    "delta_per_source_s": -28.916770004522448
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-11",
+    "variant": "ring7",
+    "source_count": 16,
+    "base_per_source_s": 220.06451386986507,
+    "actual_per_source_s": 220.48862799328694,
+    "relative_change_percent": 0.1927226320880937,
+    "delta_per_source_s": 0.42411412342187305
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-00",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 273.97023471766227,
+    "actual_per_source_s": 273.1064845330876,
+    "relative_change_percent": -0.3152715423501373,
+    "delta_per_source_s": -0.8637501845746556
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-01",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 286.5884946503823,
+    "actual_per_source_s": 302.2188494245302,
+    "relative_change_percent": 5.453936590586395,
+    "delta_per_source_s": 15.630354774147918
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-02",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 271.6363868703314,
+    "actual_per_source_s": 280.088477298433,
+    "relative_change_percent": 3.1115457415269887,
+    "delta_per_source_s": 8.452090428101599
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-03",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 274.74922156848555,
+    "actual_per_source_s": 296.4432169497456,
+    "relative_change_percent": 7.89592605846654,
+    "delta_per_source_s": 21.693995381260038
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-04",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 328.95661947786596,
+    "actual_per_source_s": 334.178635697771,
+    "relative_change_percent": 1.5874482867052953,
+    "delta_per_source_s": 5.222016219905072
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-05",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 273.1711534962524,
+    "actual_per_source_s": 301.9590927610256,
+    "relative_change_percent": 10.538425780439574,
+    "delta_per_source_s": 28.78793926477323
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-06",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 299.5494143578791,
+    "actual_per_source_s": 315.97120538700835,
+    "relative_change_percent": 5.482164291434666,
+    "delta_per_source_s": 16.42179102912928
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-07",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 305.1618195728207,
+    "actual_per_source_s": 298.0817501967555,
+    "relative_change_percent": -2.3201032770011176,
+    "delta_per_source_s": -7.080069376065239
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-08",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 287.07511962733304,
+    "actual_per_source_s": 277.9296951861476,
+    "relative_change_percent": -3.1857252042801765,
+    "delta_per_source_s": -9.145424441185412
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-09",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 272.97804238171466,
+    "actual_per_source_s": 279.1056054602769,
+    "relative_change_percent": 2.2447091440394473,
+    "delta_per_source_s": 6.127563078562218
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-10",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 270.2945508522047,
+    "actual_per_source_s": 295.31425798152924,
+    "relative_change_percent": 9.256460054574012,
+    "delta_per_source_s": 25.01970712932456
+  },
+  {
+    "case_id": "v14-confirm-q3-n10-11",
+    "variant": "ring8",
+    "source_count": 10,
+    "base_per_source_s": 277.6337612095133,
+    "actual_per_source_s": 302.9794907318163,
+    "relative_change_percent": 9.12919574762241,
+    "delta_per_source_s": 25.34572952230303
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-00",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 252.16214990666893,
+    "actual_per_source_s": 266.96012024053897,
+    "relative_change_percent": 5.868434394038569,
+    "delta_per_source_s": 14.79797033387004
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-01",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 287.6975178464001,
+    "actual_per_source_s": 298.9888579469385,
+    "relative_change_percent": 3.924726283723712,
+    "delta_per_source_s": 11.291340100538378
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-02",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 231.95550246023805,
+    "actual_per_source_s": 235.94210623520092,
+    "relative_change_percent": 1.7186933410412442,
+    "delta_per_source_s": 3.986603774962873
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-03",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 274.8128486965563,
+    "actual_per_source_s": 284.1580064352319,
+    "relative_change_percent": 3.400553424994479,
+    "delta_per_source_s": 9.345157738675653
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-04",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 254.4242349022564,
+    "actual_per_source_s": 260.05786922446646,
+    "relative_change_percent": 2.214267962473926,
+    "delta_per_source_s": 5.633634322210071
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-05",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 255.4963391700964,
+    "actual_per_source_s": 269.2403780296736,
+    "relative_change_percent": 5.379348645158899,
+    "delta_per_source_s": 13.744038859577188
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-06",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 278.4190974485957,
+    "actual_per_source_s": 285.5025341121801,
+    "relative_change_percent": 2.544163359660412,
+    "delta_per_source_s": 7.0834366635843935
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-07",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 257.60921595644044,
+    "actual_per_source_s": 268.16307115461547,
+    "relative_change_percent": 4.096846907821661,
+    "delta_per_source_s": 10.553855198175029
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-08",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 276.950200205764,
+    "actual_per_source_s": 296.83217442074607,
+    "relative_change_percent": 7.178898661279343,
+    "delta_per_source_s": 19.88197421498205
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-09",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 309.7140751933823,
+    "actual_per_source_s": 295.9410064274746,
+    "relative_change_percent": -4.447027070793597,
+    "delta_per_source_s": -13.773068765907738
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-10",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 280.55296934527826,
+    "actual_per_source_s": 292.09591824694894,
+    "relative_change_percent": 4.114356347255299,
+    "delta_per_source_s": 11.542948901670684
+  },
+  {
+    "case_id": "v14-confirm-q3-n11-11",
+    "variant": "ring8",
+    "source_count": 11,
+    "base_per_source_s": 280.6109963483845,
+    "actual_per_source_s": 275.0735440982831,
+    "relative_change_percent": -1.9733554002376086,
+    "delta_per_source_s": -5.53745225010141
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-00",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 275.5307764089878,
+    "actual_per_source_s": 282.8035391079483,
+    "relative_change_percent": 2.639546403398918,
+    "delta_per_source_s": 7.272762698960548
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-01",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 242.62524771178633,
+    "actual_per_source_s": 238.85003649162817,
+    "relative_change_percent": -1.555984488738249,
+    "delta_per_source_s": -3.7752112201581554
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-02",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 249.33610498331873,
+    "actual_per_source_s": 253.04636973822025,
+    "relative_change_percent": 1.4880575579496291,
+    "delta_per_source_s": 3.710264754901516
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-03",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 242.0636497484481,
+    "actual_per_source_s": 264.0659658660265,
+    "relative_change_percent": 9.089475491443322,
+    "delta_per_source_s": 22.002316117578374
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-04",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 266.8108493741992,
+    "actual_per_source_s": 274.26792972348136,
+    "relative_change_percent": 2.7948939733045464,
+    "delta_per_source_s": 7.457080349282137
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-05",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 231.92135297517783,
+    "actual_per_source_s": 234.44191814770332,
+    "relative_change_percent": 1.0868189324487298,
+    "delta_per_source_s": 2.520565172525494
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-06",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 237.39282479247527,
+    "actual_per_source_s": 234.32209553918702,
+    "relative_change_percent": -1.2935223530755935,
+    "delta_per_source_s": -3.070729253288249
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-07",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 287.48503326704804,
+    "actual_per_source_s": 296.8519004499729,
+    "relative_change_percent": 3.258210375850723,
+    "delta_per_source_s": 9.366867182924864
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-08",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 245.6407033698293,
+    "actual_per_source_s": 278.43837360931667,
+    "relative_change_percent": 13.351887447622302,
+    "delta_per_source_s": 32.79767023948736
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-09",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 268.89685866131254,
+    "actual_per_source_s": 271.7791846655142,
+    "relative_change_percent": 1.0719076520830928,
+    "delta_per_source_s": 2.8823260042016727
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-10",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 245.70705838948663,
+    "actual_per_source_s": 252.33400984125706,
+    "relative_change_percent": 2.6970944567923594,
+    "delta_per_source_s": 6.626951451770424
+  },
+  {
+    "case_id": "v14-confirm-q3-n12-11",
+    "variant": "ring8",
+    "source_count": 12,
+    "base_per_source_s": 245.21059672212166,
+    "actual_per_source_s": 267.7705271232483,
+    "relative_change_percent": 9.200226541062605,
+    "delta_per_source_s": 22.55993040112665
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-00",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 206.86160497545472,
+    "actual_per_source_s": 207.4973631134293,
+    "relative_change_percent": 0.3073350117582141,
+    "delta_per_source_s": 0.6357581379745625
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-01",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 219.1211227846078,
+    "actual_per_source_s": 223.86764577972798,
+    "relative_change_percent": 2.166164053378794,
+    "delta_per_source_s": 4.746522995120188
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-02",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 206.91562746013318,
+    "actual_per_source_s": 225.45011774501484,
+    "relative_change_percent": 8.957511093961589,
+    "delta_per_source_s": 18.534490284881656
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-03",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 243.46819542075005,
+    "actual_per_source_s": 239.8264545363598,
+    "relative_change_percent": -1.4957768418568107,
+    "delta_per_source_s": -3.6417408843902592
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-04",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 230.5196409227454,
+    "actual_per_source_s": 251.8635769367565,
+    "relative_change_percent": 9.259053123878559,
+    "delta_per_source_s": 21.343936014011092
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-05",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 231.8198203034561,
+    "actual_per_source_s": 265.185129503159,
+    "relative_change_percent": 14.392776750506965,
+    "delta_per_source_s": 33.365309199702864
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-06",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 236.53375724564194,
+    "actual_per_source_s": 245.7610525706728,
+    "relative_change_percent": 3.9010479656179653,
+    "delta_per_source_s": 9.227295325030866
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-07",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 255.75215859234424,
+    "actual_per_source_s": 243.60401363449094,
+    "relative_change_percent": -4.749967712771808,
+    "delta_per_source_s": -12.148144957853305
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-08",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 247.63038635121828,
+    "actual_per_source_s": 251.98300015278843,
+    "relative_change_percent": 1.7577058557735947,
+    "delta_per_source_s": 4.352613801570158
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-09",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 228.49254255077105,
+    "actual_per_source_s": 256.3345626254973,
+    "relative_change_percent": 12.185089177927889,
+    "delta_per_source_s": 27.842020074726264
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-10",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 226.19775718679497,
+    "actual_per_source_s": 240.28021116413785,
+    "relative_change_percent": 6.225726617489635,
+    "delta_per_source_s": 14.08245397734288
+  },
+  {
+    "case_id": "v14-confirm-q3-n13-11",
+    "variant": "ring8",
+    "source_count": 13,
+    "base_per_source_s": 210.93119260733826,
+    "actual_per_source_s": 222.68285258869645,
+    "relative_change_percent": 5.571323916626514,
+    "delta_per_source_s": 11.751659981358188
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-00",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 239.55330039415873,
+    "actual_per_source_s": 246.63402845228137,
+    "relative_change_percent": 2.95580484446345,
+    "delta_per_source_s": 7.080728058122645
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-01",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 223.7908578202898,
+    "actual_per_source_s": 246.45077149597373,
+    "relative_change_percent": 10.125486758659497,
+    "delta_per_source_s": 22.659913675683924
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-02",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 222.27190861965238,
+    "actual_per_source_s": 230.03518917779567,
+    "relative_change_percent": 3.492695323648687,
+    "delta_per_source_s": 7.763280558143293
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-03",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 242.01703550540316,
+    "actual_per_source_s": 238.55226626146796,
+    "relative_change_percent": -1.4316220495386722,
+    "delta_per_source_s": -3.4647692439351943
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-04",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 225.97598287191886,
+    "actual_per_source_s": 214.9815145019103,
+    "relative_change_percent": -4.865326053804631,
+    "delta_per_source_s": -10.994468370008548
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-05",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 206.81312825759804,
+    "actual_per_source_s": 217.88053263550833,
+    "relative_change_percent": 5.3514032069207795,
+    "delta_per_source_s": 11.067404377910293
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-06",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 223.71700868546515,
+    "actual_per_source_s": 216.25174211688542,
+    "relative_change_percent": -3.3369240061114525,
+    "delta_per_source_s": -7.465266568579722
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-07",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 219.04122820028934,
+    "actual_per_source_s": 226.8371024680259,
+    "relative_change_percent": 3.559089917359337,
+    "delta_per_source_s": 7.795874267736565
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-08",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 245.93800939193574,
+    "actual_per_source_s": 264.6510616927909,
+    "relative_change_percent": 7.6088492165655275,
+    "delta_per_source_s": 18.713052300855168
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-09",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 205.36835617587843,
+    "actual_per_source_s": 214.9052168717141,
+    "relative_change_percent": 4.643782943691788,
+    "delta_per_source_s": 9.536860695835657
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-10",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 212.64566229191084,
+    "actual_per_source_s": 212.16803466795633,
+    "relative_change_percent": -0.22461197600111005,
+    "delta_per_source_s": -0.4776276239545041
+  },
+  {
+    "case_id": "v14-confirm-q3-n14-11",
+    "variant": "ring8",
+    "source_count": 14,
+    "base_per_source_s": 279.8228698897696,
+    "actual_per_source_s": 272.7354616362923,
+    "relative_change_percent": -2.5328195140980503,
+    "delta_per_source_s": -7.087408253477292
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-00",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 202.73294504567212,
+    "actual_per_source_s": 201.03075838000132,
+    "relative_change_percent": -0.8396201541329806,
+    "delta_per_source_s": -1.7021866656708085
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-01",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 234.66837001571693,
+    "actual_per_source_s": 247.49667462173073,
+    "relative_change_percent": 5.466567396856514,
+    "delta_per_source_s": 12.828304606013802
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-02",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 236.44745529788784,
+    "actual_per_source_s": 223.91267707873467,
+    "relative_change_percent": -5.301295462605527,
+    "delta_per_source_s": -12.534778219153168
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-03",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 210.17917907997193,
+    "actual_per_source_s": 217.74290430817092,
+    "relative_change_percent": 3.5987033831362814,
+    "delta_per_source_s": 7.56372522819899
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-04",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 189.4151807515423,
+    "actual_per_source_s": 200.08069284455573,
+    "relative_change_percent": 5.630758870907759,
+    "delta_per_source_s": 10.665512093013433
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-05",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 218.3976749914718,
+    "actual_per_source_s": 228.78294523995004,
+    "relative_change_percent": 4.755210992463077,
+    "delta_per_source_s": 10.385270248478236
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-06",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 200.84477193191998,
+    "actual_per_source_s": 207.2044199538752,
+    "relative_change_percent": 3.1664493732059595,
+    "delta_per_source_s": 6.359648021955223
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-07",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 175.5243404220818,
+    "actual_per_source_s": 181.1692566945114,
+    "relative_change_percent": 3.2160304712470777,
+    "delta_per_source_s": 5.644916272429612
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-08",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 214.72199688647015,
+    "actual_per_source_s": 209.30314344427188,
+    "relative_change_percent": -2.5236601376538825,
+    "delta_per_source_s": -5.4188534421982695
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-09",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 220.493912535232,
+    "actual_per_source_s": 238.45877085799538,
+    "relative_change_percent": 8.147552971510198,
+    "delta_per_source_s": 17.964858322763376
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-10",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 202.90251477831174,
+    "actual_per_source_s": 218.61792186168705,
+    "relative_change_percent": 7.745299313094134,
+    "delta_per_source_s": 15.715407083375311
+  },
+  {
+    "case_id": "v14-confirm-q3-n15-11",
+    "variant": "ring8",
+    "source_count": 15,
+    "base_per_source_s": 230.4466899848657,
+    "actual_per_source_s": 215.94959823632203,
+    "relative_change_percent": -6.2908656876328966,
+    "delta_per_source_s": -14.497091748543681
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-00",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 196.24924617272487,
+    "actual_per_source_s": 203.14945468649057,
+    "relative_change_percent": 3.5160433216098186,
+    "delta_per_source_s": 6.900208513765705
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-01",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 178.45452214246941,
+    "actual_per_source_s": 190.66913589242097,
+    "relative_change_percent": 6.8446647377195635,
+    "delta_per_source_s": 12.214613749951553
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-02",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 204.08318657402543,
+    "actual_per_source_s": 201.27370155893317,
+    "relative_change_percent": -1.3766371753869078,
+    "delta_per_source_s": -2.809485015092264
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-03",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 216.68456372217724,
+    "actual_per_source_s": 200.8312368707178,
+    "relative_change_percent": -7.316315744478152,
+    "delta_per_source_s": -15.853326851459457
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-04",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 216.26704151873201,
+    "actual_per_source_s": 217.75317573937124,
+    "relative_change_percent": 0.6871755447352745,
+    "delta_per_source_s": 1.4861342206392294
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-05",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 196.2418314534931,
+    "actual_per_source_s": 205.31781873277575,
+    "relative_change_percent": 4.624899396861548,
+    "delta_per_source_s": 9.075987279282657
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-06",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 210.27228119962396,
+    "actual_per_source_s": 217.71842657573058,
+    "relative_change_percent": 3.541192083723832,
+    "delta_per_source_s": 7.446145376106614
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-07",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 203.20406574950206,
+    "actual_per_source_s": 188.79848110493793,
+    "relative_change_percent": -7.089220676481189,
+    "delta_per_source_s": -14.40558464456413
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-08",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 210.57162120423104,
+    "actual_per_source_s": 224.20838836627925,
+    "relative_change_percent": 6.476070746884766,
+    "delta_per_source_s": 13.636767162048216
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-09",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 196.34898578512937,
+    "actual_per_source_s": 198.82742684426003,
+    "relative_change_percent": 1.2622632346280138,
+    "delta_per_source_s": 2.4784410591306596
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-10",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 221.41216277296093,
+    "actual_per_source_s": 200.39867886370828,
+    "relative_change_percent": -9.490663767554697,
+    "delta_per_source_s": -21.013483909252642
+  },
+  {
+    "case_id": "v14-confirm-q3-n16-11",
+    "variant": "ring8",
+    "source_count": 16,
+    "base_per_source_s": 220.06451386986507,
+    "actual_per_source_s": 225.01455054462656,
+    "relative_change_percent": 2.2493570579437794,
+    "delta_per_source_s": 4.950036674761492
+  }
+]

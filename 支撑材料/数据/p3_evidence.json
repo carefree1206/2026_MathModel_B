@@ -1,0 +1,764 @@
+{
+  "q3_layouts": [
+    {
+      "name": "ring6",
+      "ring_points": 6,
+      "radius_m": 1125.0,
+      "max_distance_m": 999.1106618753616,
+      "fixed_open_route_m": 6749.999999999999,
+      "cases": 84,
+      "passed": true,
+      "source_count": 1092,
+      "cleared_count": 1092,
+      "mean_per_source_s": 240.4597527506941,
+      "median_per_source_s": 236.49060627176488,
+      "p90_per_source_s": 280.59358824745266,
+      "max_per_source_s": 328.95661947786596,
+      "tail10_per_source_s": 296.9821211490551,
+      "faster_vs_ring6": 0,
+      "equal_vs_ring6": 84,
+      "slower_vs_ring6": 0,
+      "worst_relative_change_percent": 0.0,
+      "mean_costs_per_case": {
+        "move_m": 11719.547123457596,
+        "move_s": 2343.9094246915197,
+        "measure_s": 549.047619047619,
+        "switch_s": 102.58333333333333,
+        "optical_s": 50.214285714285715,
+        "laser_s": 26.0,
+        "measures": 109.80952380952381
+      },
+      "mean_costs_per_source": {
+        "move_m": 914.175972853894,
+        "move_s": 182.83519457077878,
+        "measure_s": 43.603885697635704,
+        "switch_s": 8.159279262404258,
+        "optical_s": 3.861393219875362,
+        "laser_s": 2.0,
+        "measures": 8.720777139527137
+      }
+    },
+    {
+      "name": "ring7",
+      "ring_points": 7,
+      "radius_m": 998.0,
+      "max_distance_m": 999.5014013998122,
+      "fixed_open_route_m": 6194.191659671876,
+      "cases": 84,
+      "passed": true,
+      "source_count": 1092,
+      "cleared_count": 1092,
+      "mean_per_source_s": 242.82877101144044,
+      "median_per_source_s": 236.40301758027908,
+      "p90_per_source_s": 287.8338487858104,
+      "max_per_source_s": 325.45234528420644,
+      "tail10_per_source_s": 304.557250810522,
+      "faster_vs_ring6": 31,
+      "equal_vs_ring6": 0,
+      "slower_vs_ring6": 53,
+      "worst_relative_change_percent": 25.755438491734317,
+      "mean_costs_per_case": {
+        "move_m": 11597.241094700947,
+        "move_s": 2319.4482189401892,
+        "measure_s": 594.7619047619048,
+        "switch_s": 110.78571428571429,
+        "optical_s": 50.07142857142857,
+        "laser_s": 26.0,
+        "measures": 118.95238095238095
+      },
+      "mean_costs_per_source": {
+        "move_m": 904.2627069394465,
+        "move_s": 180.85254138788937,
+        "measure_s": 47.309355574980565,
+        "switch_s": 8.825857178535747,
+        "optical_s": 3.8410168700347262,
+        "laser_s": 2.0,
+        "measures": 9.461871114996113
+      }
+    },
+    {
+      "name": "ring8",
+      "ring_points": 8,
+      "radius_m": 940.0,
+      "max_distance_m": 998.5948437588719,
+      "fixed_open_route_m": 5976.113969924581,
+      "cases": 84,
+      "passed": true,
+      "source_count": 1092,
+      "cleared_count": 1092,
+      "mean_per_source_s": 247.32658738232527,
+      "median_per_source_s": 244.68253310258189,
+      "p90_per_source_s": 296.7154871794459,
+      "max_per_source_s": 334.178635697771,
+      "tail10_per_source_s": 305.34021744628495,
+      "faster_vs_ring6": 22,
+      "equal_vs_ring6": 0,
+      "slower_vs_ring6": 62,
+      "worst_relative_change_percent": 14.392776750506965,
+      "mean_costs_per_case": {
+        "move_m": 11550.064523189862,
+        "move_s": 2310.0129046379725,
+        "measure_s": 646.8452380952381,
+        "switch_s": 120.32142857142857,
+        "optical_s": 51.642857142857146,
+        "laser_s": 26.0,
+        "measures": 129.36904761904762
+      },
+      "mean_costs_per_source": {
+        "move_m": 900.921629865498,
+        "move_s": 180.18432597309965,
+        "measure_s": 51.57025588498804,
+        "switch_s": 9.605063834974553,
+        "optical_s": 3.9669416892631184,
+        "laser_s": 2.0,
+        "measures": 10.314051176997603
+      }
+    }
+  ],
+  "sensitivity_rows": [
+    [
+      "Q3 求积点数",
+      "256",
+      "237.40",
+      "366.11",
+      "4.07"
+    ],
+    [
+      "Q3 求积点数",
+      "512",
+      "235.29",
+      "366.19",
+      "0.00"
+    ],
+    [
+      "Q3 求积点数",
+      "1024",
+      "236.83",
+      "366.20",
+      "2.64"
+    ],
+    [
+      "Q4 补测门槛 / m",
+      "20",
+      "454.29",
+      "586.56",
+      "0.20"
+    ],
+    [
+      "Q4 补测门槛 / m",
+      "30",
+      "454.41",
+      "586.38",
+      "0.00"
+    ],
+    [
+      "Q4 补测门槛 / m",
+      "40",
+      "456.91",
+      "585.78",
+      "5.28"
+    ]
+  ],
+  "sensitivity_raw": [
+    {
+      "problem": "q3",
+      "panel": "confirmation_subset",
+      "value": 256,
+      "default": 512,
+      "cases": 7,
+      "passed": true,
+      "cleared": 91,
+      "sources": 91,
+      "mean_total_s": 3030.721589715199,
+      "mean_per_source_s": 237.39881723866077,
+      "mean_delta_per_source_s": 2.1044947213279914,
+      "slower_cases": 4,
+      "worst_change": {
+        "case_id": "v14-confirm-q3-n13-00",
+        "delta_total_s": 109.48824469539659,
+        "delta_per_source_s": 8.422172668876641,
+        "change_percent": 4.071404487979291
+      },
+      "mean_wall_s": 0.7254285714256444,
+      "paired_changes": [
+        {
+          "case_id": "v14-confirm-q3-n10-00",
+          "delta_total_s": 70.74200363639284,
+          "delta_per_source_s": 7.0742003636393065,
+          "change_percent": 2.582105450590122
+        },
+        {
+          "case_id": "v14-confirm-q3-n11-00",
+          "delta_total_s": -0.24576004951586583,
+          "delta_per_source_s": -0.02234182268327345,
+          "change_percent": -0.008860101601892989
+        },
+        {
+          "case_id": "v14-confirm-q3-n12-00",
+          "delta_total_s": 4.677066115682919,
+          "delta_per_source_s": 0.3897555096402243,
+          "change_percent": 0.14145625208188406
+        },
+        {
+          "case_id": "v14-confirm-q3-n13-00",
+          "delta_total_s": 109.48824469539659,
+          "delta_per_source_s": 8.422172668876641,
+          "change_percent": 4.071404487979291
+        },
+        {
+          "case_id": "v14-confirm-q3-n14-00",
+          "delta_total_s": -25.996161585145728,
+          "delta_per_source_s": -1.85686868465325,
+          "change_percent": -0.7751380096195692
+        },
+        {
+          "case_id": "v14-confirm-q3-n15-00",
+          "delta_total_s": -15.1277588447374,
+          "delta_per_source_s": -1.0085172563158267,
+          "change_percent": -0.49746096081652036
+        },
+        {
+          "case_id": "v14-confirm-q3-n16-00",
+          "delta_total_s": 27.728996332673887,
+          "delta_per_source_s": 1.733062270792118,
+          "change_percent": 0.8830924472783996
+        }
+      ]
+    },
+    {
+      "problem": "q3",
+      "panel": "confirmation_subset",
+      "value": 512,
+      "default": 512,
+      "cases": 7,
+      "passed": true,
+      "cleared": 91,
+      "sources": 91,
+      "mean_total_s": 3006.254928243664,
+      "mean_per_source_s": 235.29432251733277,
+      "mean_delta_per_source_s": 0.0,
+      "slower_cases": 0,
+      "worst_change": {
+        "case_id": "v14-confirm-q3-n10-00",
+        "delta_total_s": 0.0,
+        "delta_per_source_s": 0.0,
+        "change_percent": 0.0
+      },
+      "mean_wall_s": 0.8589999999967404,
+      "paired_changes": [
+        {
+          "case_id": "v14-confirm-q3-n10-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q3-n11-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q3-n12-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q3-n13-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q3-n14-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q3-n15-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q3-n16-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        }
+      ]
+    },
+    {
+      "problem": "q3",
+      "panel": "confirmation_subset",
+      "value": 1024,
+      "default": 512,
+      "cases": 7,
+      "passed": true,
+      "cleared": 91,
+      "sources": 91,
+      "mean_total_s": 3023.642992195072,
+      "mean_per_source_s": 236.82637253572412,
+      "mean_delta_per_source_s": 1.532050018391333,
+      "slower_cases": 6,
+      "worst_change": {
+        "case_id": "v14-confirm-q3-n10-00",
+        "delta_total_s": 72.20333937813075,
+        "delta_per_source_s": 7.220333937813109,
+        "change_percent": 2.635444666189346
+      },
+      "mean_wall_s": 1.147142857142691,
+      "paired_changes": [
+        {
+          "case_id": "v14-confirm-q3-n10-00",
+          "delta_total_s": 72.20333937813075,
+          "delta_per_source_s": 7.220333937813109,
+          "change_percent": 2.635444666189346
+        },
+        {
+          "case_id": "v14-confirm-q3-n11-00",
+          "delta_total_s": 0.3443310549941998,
+          "delta_per_source_s": 0.03130282318127797,
+          "change_percent": 0.012413767566976652
+        },
+        {
+          "case_id": "v14-confirm-q3-n12-00",
+          "delta_total_s": 4.979589955582014,
+          "delta_per_source_s": 0.41496582963185347,
+          "change_percent": 0.1506059813136451
+        },
+        {
+          "case_id": "v14-confirm-q3-n13-00",
+          "delta_total_s": 35.57898285205192,
+          "delta_per_source_s": 2.7368448347732226,
+          "change_percent": 1.3230318091643767
+        },
+        {
+          "case_id": "v14-confirm-q3-n14-00",
+          "delta_total_s": -24.372329463776623,
+          "delta_per_source_s": -1.7408806759840445,
+          "change_percent": -0.726719553902877
+        },
+        {
+          "case_id": "v14-confirm-q3-n15-00",
+          "delta_total_s": 0.09000279462634353,
+          "delta_per_source_s": 0.00600018630839827,
+          "change_percent": 0.002959650345468745
+        },
+        {
+          "case_id": "v14-confirm-q3-n16-00",
+          "delta_total_s": 32.892531088248234,
+          "delta_per_source_s": 2.0557831930155146,
+          "change_percent": 1.047536860960041
+        }
+      ]
+    },
+    {
+      "problem": "q3",
+      "panel": "mechanism_stress",
+      "value": 256,
+      "default": 512,
+      "cases": 2,
+      "passed": true,
+      "cleared": 26,
+      "sources": 26,
+      "mean_total_s": 4528.322952875369,
+      "mean_per_source_s": 366.113788680554,
+      "mean_delta_per_source_s": -0.07792576172397503,
+      "slower_cases": 0,
+      "worst_change": {
+        "case_id": "p3-sensitivity-q3-outer_outward-16",
+        "delta_total_s": -0.5020402687559908,
+        "delta_per_source_s": -0.03137751679724943,
+        "change_percent": -0.010853777023767108
+      },
+      "mean_wall_s": 1.3980000000010477,
+      "paired_changes": [
+        {
+          "case_id": "p3-sensitivity-q3-outer_tangent-10",
+          "delta_total_s": -1.2447400665068926,
+          "delta_per_source_s": -0.12447400665070063,
+          "change_percent": -0.02807956525352484
+        },
+        {
+          "case_id": "p3-sensitivity-q3-outer_outward-16",
+          "delta_total_s": -0.5020402687559908,
+          "delta_per_source_s": -0.03137751679724943,
+          "change_percent": -0.010853777023767108
+        }
+      ]
+    },
+    {
+      "problem": "q3",
+      "panel": "mechanism_stress",
+      "value": 512,
+      "default": 512,
+      "cases": 2,
+      "passed": true,
+      "cleared": 26,
+      "sources": 26,
+      "mean_total_s": 4529.1963430430005,
+      "mean_per_source_s": 366.191714442278,
+      "mean_delta_per_source_s": 0.0,
+      "slower_cases": 0,
+      "worst_change": {
+        "case_id": "p3-sensitivity-q3-outer_tangent-10",
+        "delta_total_s": 0.0,
+        "delta_per_source_s": 0.0,
+        "change_percent": 0.0
+      },
+      "mean_wall_s": 1.5470000000059372,
+      "paired_changes": [
+        {
+          "case_id": "p3-sensitivity-q3-outer_tangent-10",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "p3-sensitivity-q3-outer_outward-16",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        }
+      ]
+    },
+    {
+      "problem": "q3",
+      "panel": "mechanism_stress",
+      "value": 1024,
+      "default": 512,
+      "cases": 2,
+      "passed": true,
+      "cleared": 26,
+      "sources": 26,
+      "mean_total_s": 4529.335153626753,
+      "mean_per_source_s": 366.20057151301705,
+      "mean_delta_per_source_s": 0.008857070739026085,
+      "slower_cases": 2,
+      "worst_change": {
+        "case_id": "p3-sensitivity-q3-outer_outward-16",
+        "delta_total_s": 0.26794600726407225,
+        "delta_per_source_s": 0.016746625454004516,
+        "change_percent": 0.005792814637084476
+      },
+      "mean_wall_s": 1.875499999994645,
+      "paired_changes": [
+        {
+          "case_id": "p3-sensitivity-q3-outer_tangent-10",
+          "delta_total_s": 0.009675160240476544,
+          "delta_per_source_s": 0.0009675160240476544,
+          "change_percent": 0.0002182578520804057
+        },
+        {
+          "case_id": "p3-sensitivity-q3-outer_outward-16",
+          "delta_total_s": 0.26794600726407225,
+          "delta_per_source_s": 0.016746625454004516,
+          "change_percent": 0.005792814637084476
+        }
+      ]
+    },
+    {
+      "problem": "q4",
+      "panel": "confirmation_subset",
+      "value": 20,
+      "default": 30,
+      "cases": 7,
+      "passed": true,
+      "cleared": 91,
+      "sources": 91,
+      "mean_total_s": 5749.719951198732,
+      "mean_per_source_s": 454.2947881645447,
+      "mean_delta_per_source_s": -0.11842462550550538,
+      "slower_cases": 2,
+      "worst_change": {
+        "case_id": "v14-confirm-q4-n16-00",
+        "delta_total_s": 11.44595995187592,
+        "delta_per_source_s": 0.715372496992245,
+        "change_percent": 0.1972401189986206
+      },
+      "mean_wall_s": 1.089714285718011,
+      "paired_changes": [
+        {
+          "case_id": "v14-confirm-q4-n10-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n11-00",
+          "delta_total_s": -8.953648514868291,
+          "delta_per_source_s": -0.8139680468062807,
+          "change_percent": -0.1568614941379165
+        },
+        {
+          "case_id": "v14-confirm-q4-n12-00",
+          "delta_total_s": -8.505053551052697,
+          "delta_per_source_s": -0.7087544625877058,
+          "change_percent": -0.13862126518698892
+        },
+        {
+          "case_id": "v14-confirm-q4-n13-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n14-00",
+          "delta_total_s": -5.017772995007363,
+          "delta_per_source_s": -0.35841235678623207,
+          "change_percent": -0.09053650767050225
+        },
+        {
+          "case_id": "v14-confirm-q4-n15-00",
+          "delta_total_s": 5.051849859741196,
+          "delta_per_source_s": 0.3367899906494358,
+          "change_percent": 0.09318346199505001
+        },
+        {
+          "case_id": "v14-confirm-q4-n16-00",
+          "delta_total_s": 11.44595995187592,
+          "delta_per_source_s": 0.715372496992245,
+          "change_percent": 0.1972401189986206
+        }
+      ]
+    },
+    {
+      "problem": "q4",
+      "panel": "confirmation_subset",
+      "value": 30,
+      "default": 30,
+      "cases": 7,
+      "passed": true,
+      "cleared": 91,
+      "sources": 91,
+      "mean_total_s": 5750.574046234348,
+      "mean_per_source_s": 454.4132127900502,
+      "mean_delta_per_source_s": 0.0,
+      "slower_cases": 0,
+      "worst_change": {
+        "case_id": "v14-confirm-q4-n10-00",
+        "delta_total_s": 0.0,
+        "delta_per_source_s": 0.0,
+        "change_percent": 0.0
+      },
+      "mean_wall_s": 0.9865714285697322,
+      "paired_changes": [
+        {
+          "case_id": "v14-confirm-q4-n10-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n11-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n12-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n13-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n14-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n15-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n16-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        }
+      ]
+    },
+    {
+      "problem": "q4",
+      "panel": "confirmation_subset",
+      "value": 40,
+      "default": 30,
+      "cases": 7,
+      "passed": true,
+      "cleared": 91,
+      "sources": 91,
+      "mean_total_s": 5785.475730202464,
+      "mean_per_source_s": 456.907922319254,
+      "mean_delta_per_source_s": 2.4947095292038006,
+      "slower_cases": 1,
+      "worst_change": {
+        "case_id": "v14-confirm-q4-n14-00",
+        "delta_total_s": 292.8115713788402,
+        "delta_per_source_s": 20.915112241345753,
+        "change_percent": 5.283247589025986
+      },
+      "mean_wall_s": 1.004428571426875,
+      "paired_changes": [
+        {
+          "case_id": "v14-confirm-q4-n10-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n11-00",
+          "delta_total_s": -13.952343069828203,
+          "delta_per_source_s": -1.268394824529878,
+          "change_percent": -0.24443503416777812
+        },
+        {
+          "case_id": "v14-confirm-q4-n12-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n13-00",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "v14-confirm-q4-n14-00",
+          "delta_total_s": 292.8115713788402,
+          "delta_per_source_s": 20.915112241345753,
+          "change_percent": 5.283247589025986
+        },
+        {
+          "case_id": "v14-confirm-q4-n15-00",
+          "delta_total_s": -5.888562990317041,
+          "delta_per_source_s": -0.3925708660211171,
+          "change_percent": -0.10861698206561243
+        },
+        {
+          "case_id": "v14-confirm-q4-n16-00",
+          "delta_total_s": -28.658877541890433,
+          "delta_per_source_s": -1.791179846368152,
+          "change_percent": -0.4938581333934433
+        }
+      ]
+    },
+    {
+      "problem": "q4",
+      "panel": "mechanism_stress",
+      "value": 20,
+      "default": 30,
+      "cases": 2,
+      "passed": true,
+      "cleared": 26,
+      "sources": 26,
+      "mean_total_s": 7323.833483949532,
+      "mean_per_source_s": 586.5632980626085,
+      "mean_delta_per_source_s": 0.18667855946569034,
+      "slower_cases": 1,
+      "worst_change": {
+        "case_id": "p3-sensitivity-q4-outer_tangent-10",
+        "delta_total_s": 3.7335711893147163,
+        "delta_per_source_s": 0.3733571189313807,
+        "change_percent": 0.05437083309780544
+      },
+      "mean_wall_s": 0.9060000000026776,
+      "paired_changes": [
+        {
+          "case_id": "p3-sensitivity-q4-outer_tangent-10",
+          "delta_total_s": 3.7335711893147163,
+          "delta_per_source_s": 0.3733571189313807,
+          "change_percent": 0.05437083309780544
+        },
+        {
+          "case_id": "p3-sensitivity-q4-outer_outward-16",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        }
+      ]
+    },
+    {
+      "problem": "q4",
+      "panel": "mechanism_stress",
+      "value": 30,
+      "default": 30,
+      "cases": 2,
+      "passed": true,
+      "cleared": 26,
+      "sources": 26,
+      "mean_total_s": 7321.966698354874,
+      "mean_per_source_s": 586.3766195031428,
+      "mean_delta_per_source_s": 0.0,
+      "slower_cases": 0,
+      "worst_change": {
+        "case_id": "p3-sensitivity-q4-outer_tangent-10",
+        "delta_total_s": 0.0,
+        "delta_per_source_s": 0.0,
+        "change_percent": 0.0
+      },
+      "mean_wall_s": 0.9060000000026776,
+      "paired_changes": [
+        {
+          "case_id": "p3-sensitivity-q4-outer_tangent-10",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        },
+        {
+          "case_id": "p3-sensitivity-q4-outer_outward-16",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        }
+      ]
+    },
+    {
+      "problem": "q4",
+      "panel": "mechanism_stress",
+      "value": 40,
+      "default": 30,
+      "cases": 2,
+      "passed": true,
+      "cleared": 26,
+      "sources": 26,
+      "mean_total_s": 7315.966698354874,
+      "mean_per_source_s": 585.7766195031429,
+      "mean_delta_per_source_s": -0.6000000000000227,
+      "slower_cases": 0,
+      "worst_change": {
+        "case_id": "p3-sensitivity-q4-outer_outward-16",
+        "delta_total_s": 0.0,
+        "delta_per_source_s": 0.0,
+        "change_percent": 0.0
+      },
+      "mean_wall_s": 0.8360000000102445,
+      "paired_changes": [
+        {
+          "case_id": "p3-sensitivity-q4-outer_tangent-10",
+          "delta_total_s": -12.0,
+          "delta_per_source_s": -1.2000000000000455,
+          "change_percent": -0.174752258384947
+        },
+        {
+          "case_id": "p3-sensitivity-q4-outer_outward-16",
+          "delta_total_s": 0.0,
+          "delta_per_source_s": 0.0,
+          "change_percent": 0.0
+        }
+      ]
+    }
+  ]
+}

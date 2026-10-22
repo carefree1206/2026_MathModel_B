@@ -1,0 +1,8515 @@
+{
+  "status": "certified_coverage",
+  "nodes": 1352,
+  "maximum_depth": 10,
+  "leaves": [
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "9/64",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "9/64",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "13/32",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "11/16",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "25/32",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "25/32",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "9/64",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        11,
+        12
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "9/64",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "13/32",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        12,
+        13
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "11/16",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        13
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "25/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        13,
+        14
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "25/32",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "9/64",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "9/64",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "13/32",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "11/16",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "25/32",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "25/32",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "9/64",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        19,
+        7
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "9/64",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "13/32",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        20,
+        8
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "11/16",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "25/32",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "25/32",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": -1,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        10
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        3,
+        1,
+        10
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        4,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        2,
+        12
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        3
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        3
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        14,
+        6,
+        4
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        4
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        5
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        6
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        8
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        1
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        1
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 0,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        2
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "7/16",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "7/16",
+      "hi": "15/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "15/32",
+      "hi": "61/128",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "61/128",
+      "hi": "31/64",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "31/64",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 0,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "5/16",
+      "hi": "41/128",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        11,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "41/128",
+      "hi": "21/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "21/64",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "11/32",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 1,
+      "lo": "31/32",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "33/64",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "33/64",
+      "hi": "17/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "17/32",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        20,
+        8
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "5/16",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "11/32",
+      "hi": "23/64",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "23/64",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 1,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 2,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "5/32",
+      "hi": "21/128",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "21/128",
+      "hi": "11/64",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "11/64",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        11,
+        12
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "13/32",
+      "hi": "53/128",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "53/128",
+      "hi": "425/1024",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "425/1024",
+      "hi": "213/512",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "213/512",
+      "hi": "107/256",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "107/256",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        9,
+        1
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "11/16",
+      "hi": "23/32",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "23/32",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 2,
+      "quadrant": 3,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "5/16",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "11/32",
+      "hi": "23/64",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "23/64",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "7/16",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "7/16",
+      "hi": "15/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "15/32",
+      "hi": "61/128",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "61/128",
+      "hi": "31/64",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "31/64",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 1,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        12,
+        13
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "5/16",
+      "hi": "41/128",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "41/128",
+      "hi": "21/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "21/64",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "11/32",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 2,
+      "lo": "31/32",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "33/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "33/64",
+      "hi": "17/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "17/32",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 3,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        11,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "11/16",
+      "hi": "23/32",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "23/32",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        11,
+        12
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 0,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 4,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        13
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        13
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        13,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "5/32",
+      "hi": "21/128",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        13,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "21/128",
+      "hi": "11/64",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "11/64",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "13/32",
+      "hi": "53/128",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "53/128",
+      "hi": "425/1024",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "425/1024",
+      "hi": "213/512",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "213/512",
+      "hi": "107/256",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "107/256",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 4,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "33/64",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "33/64",
+      "hi": "17/32",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "17/32",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        12,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "5/16",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "11/32",
+      "hi": "23/64",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "23/64",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "7/16",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "7/16",
+      "hi": "15/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "15/32",
+      "hi": "61/128",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "61/128",
+      "hi": "31/64",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "31/64",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 2,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        7,
+        6
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "5/16",
+      "hi": "41/128",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "41/128",
+      "hi": "21/64",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "21/64",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "11/32",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 5,
+      "quadrant": 3,
+      "lo": "31/32",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "13/32",
+      "hi": "53/128",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "53/128",
+      "hi": "425/1024",
+      "kind": "covered",
+      "hull": [
+        5,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "425/1024",
+      "hi": "213/512",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "213/512",
+      "hi": "107/256",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "107/256",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        4,
+        14
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "11/16",
+      "hi": "23/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "23/32",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 1,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 6,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "5/32",
+      "hi": "21/128",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "21/128",
+      "hi": "11/64",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "11/64",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        8,
+        7
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 6,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "5/16",
+      "hi": "41/128",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "41/128",
+      "hi": "21/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "21/64",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "11/32",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 0,
+      "lo": "31/32",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "33/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "33/64",
+      "hi": "17/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "17/32",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "5/16",
+      "hi": "11/32",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "11/32",
+      "hi": "23/64",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "23/64",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "7/16",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "7/16",
+      "hi": "15/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "15/32",
+      "hi": "61/128",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "61/128",
+      "hi": "31/64",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "31/64",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 7,
+      "quadrant": 3,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        20,
+        8
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "5/32",
+      "hi": "21/128",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "21/128",
+      "hi": "11/64",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "11/64",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "13/16",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "13/16",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "13/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "13/32",
+      "hi": "53/128",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "53/128",
+      "hi": "425/1024",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "425/1024",
+      "hi": "213/512",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "213/512",
+      "hi": "107/256",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "107/256",
+      "hi": "27/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "27/64",
+      "hi": "7/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "7/16",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "11/16",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "11/16",
+      "hi": "23/32",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "23/32",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        19,
+        7
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19
+      ]
+    },
+    {
+      "circle": 8,
+      "quadrant": 2,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 8,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 9,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        11,
+        2,
+        10
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        1,
+        10
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        3,
+        1,
+        10
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/128",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        10,
+        3
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/128",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        20,
+        2
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        2
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 9,
+      "quadrant": 2,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 9,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 10,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 10,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 10,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 10,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "17/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        11,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "17/64",
+      "hi": "35/128",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        11,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "35/128",
+      "hi": "71/256",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        11,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "71/256",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "9/16",
+      "hi": "145/256",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "145/256",
+      "hi": "73/128",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "73/128",
+      "hi": "37/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        3
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "37/64",
+      "hi": "19/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "19/32",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 3,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 3,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 10,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 10,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 11,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 11,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        13,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        2,
+        12
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "31/32",
+      "hi": "63/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 2,
+      "lo": "63/64",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        0,
+        1,
+        10,
+        3
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        1,
+        10
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        2,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 11,
+      "quadrant": 3,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 11,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 11,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 12,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 12,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/128",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/128",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        11
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        3,
+        2,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "circle": 12,
+      "quadrant": 3,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 13,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        11,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        11,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 0,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 0,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        12,
+        3,
+        11
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 13,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 13,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 13,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 13,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 13,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        4,
+        14
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "17/64",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "17/64",
+      "hi": "35/128",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "35/128",
+      "hi": "71/256",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "71/256",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "9/16",
+      "hi": "145/256",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "145/256",
+      "hi": "73/128",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "73/128",
+      "hi": "37/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "37/64",
+      "hi": "19/32",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "19/32",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        4,
+        0,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 13,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        4,
+        3,
+        12
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        3
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        13,
+        4,
+        12
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 0,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 14,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 14,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 14,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 14,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        5
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "31/32",
+      "hi": "63/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "circle": 14,
+      "quadrant": 3,
+      "lo": "63/64",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        13,
+        5,
+        0,
+        3
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/128",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/128",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        6,
+        0,
+        4
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        6,
+        4
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        4,
+        13
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        14,
+        5,
+        13
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 0,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 15,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 15,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        6
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        5
+      ]
+    },
+    {
+      "circle": 15,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "17/64",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "17/64",
+      "hi": "35/128",
+      "kind": "covered",
+      "hull": [
+        5,
+        17,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "35/128",
+      "hi": "71/256",
+      "kind": "covered",
+      "hull": [
+        5,
+        17,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "71/256",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "9/16",
+      "hi": "145/256",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "145/256",
+      "hi": "73/128",
+      "kind": "covered",
+      "hull": [
+        15,
+        7,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "73/128",
+      "hi": "37/64",
+      "kind": "covered",
+      "hull": [
+        15,
+        7,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "37/64",
+      "hi": "19/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "19/32",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        15,
+        6,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 1,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 1,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        15,
+        5,
+        14
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 16,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 16,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 16,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 16,
+      "quadrant": 3,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 16,
+      "quadrant": 3,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 16,
+      "quadrant": 3,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "31/32",
+      "hi": "63/64",
+      "kind": "covered",
+      "hull": [
+        5,
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 0,
+      "lo": "63/64",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        0,
+        5
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        16,
+        7,
+        5
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        15,
+        16,
+        6
+      ]
+    },
+    {
+      "circle": 17,
+      "quadrant": 1,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 17,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 17,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 17,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 17,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        8,
+        19,
+        20
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        1
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        1
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/128",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/128",
+      "hi": "1/64",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/64",
+      "hi": "1/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        6,
+        7,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        8
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        6,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        7,
+        6
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        16,
+        17,
+        7
+      ]
+    },
+    {
+      "circle": 18,
+      "quadrant": 1,
+      "lo": "15/16",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 18,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 18,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 19,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 19,
+      "quadrant": 0,
+      "lo": "1/2",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 19,
+      "quadrant": 0,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        1,
+        20,
+        9
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 0,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        9,
+        1
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "17/64",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        20,
+        1
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "17/64",
+      "hi": "35/128",
+      "kind": "covered",
+      "hull": [
+        7,
+        20,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "35/128",
+      "hi": "71/256",
+      "kind": "covered",
+      "hull": [
+        7,
+        20,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "71/256",
+      "hi": "9/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "9/32",
+      "hi": "5/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "5/16",
+      "hi": "3/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "3/8",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "9/16",
+      "hi": "145/256",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "145/256",
+      "hi": "73/128",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "73/128",
+      "hi": "37/64",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "37/64",
+      "hi": "19/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "19/32",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8,
+        0
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        7,
+        18,
+        8
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        8,
+        7
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 2,
+      "lo": "1/8",
+      "hi": "5/32",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        8,
+        7
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 2,
+      "lo": "5/32",
+      "hi": "3/16",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 2,
+      "lo": "3/16",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        17,
+        18,
+        7
+      ]
+    },
+    {
+      "circle": 19,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 19,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 19,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 20,
+      "quadrant": 0,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "0",
+      "hi": "1/32",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "1/32",
+      "hi": "1/16",
+      "kind": "covered",
+      "hull": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "1/16",
+      "hi": "1/8",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "1/8",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        8,
+        9,
+        2
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1,
+        2
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "3/4",
+      "hi": "7/8",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "7/8",
+      "hi": "15/16",
+      "kind": "covered",
+      "hull": [
+        0,
+        8,
+        1
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "15/16",
+      "hi": "31/32",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "31/32",
+      "hi": "63/64",
+      "kind": "covered",
+      "hull": [
+        7,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 1,
+      "lo": "63/64",
+      "hi": "1",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        1,
+        0
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 2,
+      "lo": "0",
+      "hi": "1/4",
+      "kind": "covered",
+      "hull": [
+        7,
+        19,
+        1
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 2,
+      "lo": "1/4",
+      "hi": "1/2",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 2,
+      "lo": "1/2",
+      "hi": "9/16",
+      "kind": "covered",
+      "hull": [
+        18,
+        19,
+        8
+      ]
+    },
+    {
+      "circle": 20,
+      "quadrant": 2,
+      "lo": "9/16",
+      "hi": "5/8",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 20,
+      "quadrant": 2,
+      "lo": "5/8",
+      "hi": "3/4",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 20,
+      "quadrant": 2,
+      "lo": "3/4",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    },
+    {
+      "circle": 20,
+      "quadrant": 3,
+      "lo": "0",
+      "hi": "1",
+      "kind": "outside_source_interior"
+    }
+  ],
+  "unresolved": [],
+  "stations": [
+    [
+      "0",
+      "0"
+    ],
+    [
+      "999",
+      "0"
+    ],
+    [
+      "3532/5",
+      "3532/5"
+    ],
+    [
+      "0",
+      "999"
+    ],
+    [
+      "-3532/5",
+      "3532/5"
+    ],
+    [
+      "-999",
+      "0"
+    ],
+    [
+      "-3532/5",
+      "-3532/5"
+    ],
+    [
+      "0",
+      "-999"
+    ],
+    [
+      "3532/5",
+      "-3532/5"
+    ],
+    [
+      "225423/125",
+      "96643/200"
+    ],
+    [
+      "165021/125",
+      "165021/125"
+    ],
+    [
+      "96643/200",
+      "225423/125"
+    ],
+    [
+      "-96643/200",
+      "225423/125"
+    ],
+    [
+      "-165021/125",
+      "165021/125"
+    ],
+    [
+      "-225423/125",
+      "96643/200"
+    ],
+    [
+      "-225423/125",
+      "-96643/200"
+    ],
+    [
+      "-165021/125",
+      "-165021/125"
+    ],
+    [
+      "-96643/200",
+      "-225423/125"
+    ],
+    [
+      "96643/200",
+      "-225423/125"
+    ],
+    [
+      "165021/125",
+      "-165021/125"
+    ],
+    [
+      "225423/125",
+      "-96643/200"
+    ]
+  ],
+  "station_count": 21,
+  "source_radius": "1800",
+  "reception_radius": "1000",
+  "candidate_path": "m019_target_reset/coverage_results/ring21_999_1867_phase15_certificate.json",
+  "candidate_sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+  "script_sha256": "cc05802caec85420bc5239d26a98e5c18c6c78012fddb1282bce18d7ba991f73",
+  "proof_sha256": "0df310d72432f197eed72c0cba597122b7b1cffb5b3ec51fb6a2812c88f9fd5c",
+  "seconds": 1.5013324,
+  "arbitrary19_or20_resolved": false
+}

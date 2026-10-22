@@ -1,0 +1,30 @@
+{
+  "schema": "q4-fixed-site-bounds-v1",
+  "lower_bound": {
+    "passed": true,
+    "method": "有理正弦/余弦 Taylor 包络及 Machin 恒等式；独立于原反正切-根号计算",
+    "angle_upper_bounds_rad": {
+      "a": "589030971/1000000000",
+      "c": "112756703/250000000",
+      "d": "562960147/1000000000",
+      "e": "127/250"
+    },
+    "N17_capacity_upper_exact": "4708509131/500000000",
+    "positive_gap_lower_rad": "0.0077596987",
+    "universal_fixed_site_lower_bound": 18
+  },
+  "upper_bound": {
+    "passed": true,
+    "site_count": 21,
+    "visited_nodes": 6485,
+    "leaves": 4864,
+    "covered_leaves": 3088,
+    "reception_radius_m": "999.99",
+    "certificate_sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+    "config_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+    "configured_sites_match": true,
+    "method": "整数毫米、平方距离、叉积及完整四叉分区；不导入证书生成程序"
+  },
+  "conclusion": "18≤N*≤21，21/N*≤7/6；仅适用于固定通用无线发现布局的不同测点数",
+  "script_sha256": "2b6e9ba8499163b0139b29aeb9de982bbe0333aa8041e67c4afd266d055179bb"
+}

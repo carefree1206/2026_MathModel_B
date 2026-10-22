@@ -1,0 +1,122 @@
+{
+  "scale": 1000,
+  "source_radius_m": 1800,
+  "reception_radius_m": 1000,
+  "points_mm": [
+    [
+      0,
+      0
+    ],
+    [
+      999000,
+      0
+    ],
+    [
+      706400,
+      706400
+    ],
+    [
+      0,
+      999000
+    ],
+    [
+      -706400,
+      706400
+    ],
+    [
+      -999000,
+      0
+    ],
+    [
+      -706400,
+      -706400
+    ],
+    [
+      0,
+      -999000
+    ],
+    [
+      706400,
+      -706400
+    ],
+    [
+      1803384,
+      483215
+    ],
+    [
+      1320168,
+      1320168
+    ],
+    [
+      483215,
+      1803384
+    ],
+    [
+      -483215,
+      1803384
+    ],
+    [
+      -1320168,
+      1320168
+    ],
+    [
+      -1803384,
+      483215
+    ],
+    [
+      -1803384,
+      -483215
+    ],
+    [
+      -1320168,
+      -1320168
+    ],
+    [
+      -483215,
+      -1803384
+    ],
+    [
+      483215,
+      -1803384
+    ],
+    [
+      1320168,
+      -1320168
+    ],
+    [
+      1803384,
+      -483215
+    ]
+  ],
+  "q4_config": {
+    "cover": "ring22",
+    "ready_radius": 400,
+    "lateral": 300,
+    "pair_probe": true,
+    "extra_scan": false,
+    "q4_inner_n": 8,
+    "q4_inner_radius": 999,
+    "q4_ring_n": 12,
+    "q4_ring_radius": 1867,
+    "q4_outer_phase": 15,
+    "skip_impossible": true,
+    "adaptive_pair": true,
+    "adaptive_clear": true,
+    "local_mode": "pair",
+    "posterior_mode": "full",
+    "posterior_target": false,
+    "posterior_optical": true,
+    "optical_gain_threshold": 0,
+    "warm_route": true,
+    "warm_optimize": true,
+    "stationary_gain_m": 120,
+    "scan_gain_m": 30,
+    "scan_count_stop": true,
+    "intercept_gain_m": 120,
+    "intercept_efficiency": true,
+    "intercept_other_only": true
+  },
+  "q4_config_sha256": "6c95eb45787987d26dd9fb03135d6ad0d550e6702cbc726889b50d4b36eb11f6",
+  "original_box_certificate_sha256": "e006d6c7317ee0a4b04a3111df22c3757c2d8e18a8cbac2333921ae580601948",
+  "original_box_reception_radius_m": "999.99"
+}

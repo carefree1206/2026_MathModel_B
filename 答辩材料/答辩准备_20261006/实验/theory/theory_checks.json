@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "fixed_layout_bounds": [
+    19,
+    21
+  ],
+  "relative_point_gap_upper": "2/19",
+  "unique_inner_station_lt_m": 660,
+  "other_18_stations_gt_m": 800,
+  "circle_leaves": 720,
+  "network_requests": 0
+}

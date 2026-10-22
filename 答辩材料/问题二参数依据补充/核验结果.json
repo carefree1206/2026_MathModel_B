@@ -1,0 +1,490 @@
+{
+  "audit_date_client": "2026-10-05",
+  "provenance": "New supplementary analytical audit; not the original selection history",
+  "scope": "normal first bearing, omnidirectional source, local sector, delta=1.005 deg",
+  "environment": {
+    "python": "3.12.7",
+    "numpy": "2.2.6"
+  },
+  "analytic_certificate": {
+    "outer_triangle": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        1500.0,
+        26.313537168437286
+      ],
+      [
+        1500.0,
+        -26.313537168437286
+      ]
+    ],
+    "fixed_forward_m": 750.0,
+    "safe_nonnegative_lateral_interval_m": [
+      0.0,
+      635.1242905977103
+    ],
+    "baseline_uniform_distance_upper_m": 916.2455671962359,
+    "baseline_uniform_reception_margin_m": 83.75443280376408,
+    "x_midpoint_in_zero_angle_outer_ray_model_m": 750.0,
+    "x_balancing_triangle_vertices_at_lateral500_m": 759.0019798022505,
+    "midpoint_claim_scope": "750 is minimax in the zero-angle [0,1500] outer-ray distance model only",
+    "lateral500_claim_scope": "500 is a preconfigured feasible baseline value; no unique or global optimum proof"
+  },
+  "rows": [
+    {
+      "point_m": [
+        750.0,
+        100.0
+      ],
+      "move_distance_m": 756.6372975210778,
+      "move_time_s": 151.32745950421557,
+      "triangle_uniform_distance_upper_m": 760.5623640912047,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 248.30611722789968,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 362.10898664012666,
+      "diameter_upper_m": 362.1157962921518,
+      "bound_gap_m": 0.006809652025140167,
+      "second_reading_bin_count": 337605,
+      "max_angle_bin_width_deg": 0.000499998849846861,
+      "lower_witness": {
+        "lower_m": 362.10898664012666,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1140.6349095617968,
+            20.0094260589143
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -10.567516189634382,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 362.1157962921518,
+        "angle_step_deg": 0.000499998849846861,
+        "bins": 337605,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -10.567481224880893,
+          "outer_pair_m": [
+            [
+              1140.6280380440544,
+              20.009305516289288
+            ],
+            [
+              1499.7692525092225,
+              -26.30948931332056
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    },
+    {
+      "point_m": [
+        750.0,
+        300.0
+      ],
+      "move_distance_m": 807.7747210701756,
+      "move_time_s": 161.55494421403512,
+      "triangle_uniform_distance_upper_m": 817.9122963615214,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 196.8320395358886,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 177.53658455500758,
+      "diameter_upper_m": 177.54693592152762,
+      "bound_gap_m": 0.010351366520040983,
+      "second_reading_bin_count": 280310,
+      "max_angle_bin_width_deg": 0.0004999994310139755,
+      "lower_witness": {
+        "lower_m": 177.53658455500758,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1329.3103770773089,
+            23.31923867707544
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -24.5243120833979,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 177.54693592152762,
+        "angle_step_deg": 0.0004999994310139755,
+        "bins": 280310,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -24.524493777040817,
+          "outer_pair_m": [
+            [
+              1329.2995510588667,
+              23.319048763182995
+            ],
+            [
+              1499.7692525092225,
+              -26.30948931332056
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    },
+    {
+      "point_m": [
+        750.0,
+        400.0
+      ],
+      "move_distance_m": 850.0,
+      "move_time_s": 170.0,
+      "triangle_uniform_distance_upper_m": 862.6953297503496,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 154.36632495174206,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 147.9127053080827,
+      "diameter_upper_m": 147.92271023531566,
+      "bound_gap_m": 0.010004927232955652,
+      "second_reading_bin_count": 254892,
+      "max_angle_bin_width_deg": 0.0004999980768616297,
+      "lower_witness": {
+        "lower_m": 147.9127053080827,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1360.6278653894278,
+            23.868621272224132
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -30.627022708541272,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 147.92271023531566,
+        "angle_step_deg": 0.0004999980768616297,
+        "bins": 254892,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -30.627233482568577,
+          "outer_pair_m": [
+            [
+              1360.6171728011725,
+              23.868433699011813
+            ],
+            [
+              1499.7692525092225,
+              -26.30948931332056
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    },
+    {
+      "point_m": [
+        750.0,
+        500.0
+      ],
+      "move_distance_m": 901.3878188659974,
+      "move_time_s": 180.27756377319946,
+      "triangle_uniform_distance_upper_m": 916.2455671962359,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 102.71863273822248,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 130.32238780845282,
+      "diameter_upper_m": 130.33228906077957,
+      "bound_gap_m": 0.009901252326756094,
+      "second_reading_bin_count": 232072,
+      "max_angle_bin_width_deg": 0.0004999999293886503,
+      "lower_witness": {
+        "lower_m": 130.32238780845282,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1379.6338661947907,
+            24.20203134463431
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -36.07239475199654,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 130.33228906077957,
+        "angle_step_deg": 0.0004999999293886503,
+        "bins": 232072,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -36.072698182603794,
+          "outer_pair_m": [
+            [
+              1379.6215091100937,
+              24.20181457222933
+            ],
+            [
+              1499.7677277236826,
+              -26.30946256498658
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      },
+      "recorded_lower_exact_match": true,
+      "recorded_upper_exact_match": true
+    },
+    {
+      "point_m": [
+        750.0,
+        550.0
+      ],
+      "move_distance_m": 930.0537618869137,
+      "move_time_s": 186.01075237738274,
+      "triangle_uniform_distance_upper_m": 945.8526804548347,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 73.92083391054734,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 124.16630884367719,
+      "diameter_upper_m": 124.17502750237684,
+      "bound_gap_m": 0.008718658699649495,
+      "second_reading_bin_count": 221647,
+      "max_angle_bin_width_deg": 0.0004999980164654971,
+      "lower_witness": {
+        "lower_m": 124.16630884367719,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1386.394371607998,
+            24.32062655161288
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -38.55264959401241,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 124.17502750237684,
+        "angle_step_deg": 0.0004999980164654971,
+        "bins": 221647,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -38.552833561087695,
+          "outer_pair_m": [
+            [
+              1386.3847587949313,
+              24.320457920203598
+            ],
+            [
+              1499.7692525092225,
+              -26.30948931332056
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    },
+    {
+      "point_m": [
+        750.0,
+        600.0
+      ],
+      "move_distance_m": 960.4686356149273,
+      "move_time_s": 192.09372712298546,
+      "triangle_uniform_distance_upper_m": 977.1226365407975,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 43.374999440895294,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 119.22315396736377,
+      "diameter_upper_m": 119.23121331607008,
+      "bound_gap_m": 0.008059348706311198,
+      "second_reading_bin_count": 211858,
+      "max_angle_bin_width_deg": 0.0004999979318540682,
+      "lower_witness": {
+        "lower_m": 119.22315396736377,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1391.87575995203,
+            24.41678302889643
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -40.87823325298163,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 119.23121331607008,
+        "angle_step_deg": 0.0004999979318540682,
+        "bins": 211858,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -40.87886144477989,
+          "outer_pair_m": [
+            [
+              1391.8563464137494,
+              24.416442469655685
+            ],
+            [
+              1499.7589783275544,
+              -26.309309079946427
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    },
+    {
+      "point_m": [
+        750.0,
+        625.0
+      ],
+      "move_distance_m": 976.2812094883318,
+      "move_time_s": 195.25624189766637,
+      "triangle_uniform_distance_upper_m": 993.3324336287733,
+      "triangle_uniform_reception_certified": true,
+      "four_disk_constraint_slack_m": 27.49767269708161,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 117.12055160168494,
+      "diameter_upper_m": 117.12975619265558,
+      "bound_gap_m": 0.00920459097063997,
+      "second_reading_bin_count": 207195,
+      "max_angle_bin_width_deg": 0.0004999979476849603,
+      "lower_witness": {
+        "lower_m": 117.12055160168494,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1394.223581122434,
+            24.45796934865128
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -41.98519039023292,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 117.12975619265558,
+        "angle_step_deg": 0.0004999979476849603,
+        "bins": 207195,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -41.98558614756869,
+          "outer_pair_m": [
+            [
+              1394.2092926820303,
+              24.45771869571285
+            ],
+            [
+              1499.7653206358477,
+              -26.30942033898977
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    },
+    {
+      "point_m": [
+        750.0,
+        650.0
+      ],
+      "move_distance_m": 992.4716620639604,
+      "move_time_s": 198.49433241279206,
+      "triangle_uniform_distance_upper_m": 1009.9009855214932,
+      "triangle_uniform_reception_certified": false,
+      "four_disk_constraint_slack_m": 11.243123146807989,
+      "four_disk_reception_certified": true,
+      "diameter_lower_m": 115.22790407621186,
+      "diameter_upper_m": 115.23670715189888,
+      "bound_gap_m": 0.008803075687026762,
+      "second_reading_bin_count": 202681,
+      "max_angle_bin_width_deg": 0.0004999998386665538,
+      "lower_witness": {
+        "lower_m": 115.22790407621186,
+        "points_m": [
+          [
+            1499.7692525092225,
+            -26.30948931332056
+          ],
+          [
+            1396.3460775300705,
+            24.495202940726088
+          ]
+        ],
+        "first_reading_deg": 0.0,
+        "second_reading_deg": -43.05620240172475,
+        "reception_radius_m": 1500.0
+      },
+      "upper_witness": {
+        "upper_m": 115.23670715189888,
+        "angle_step_deg": 0.0004999998386665538,
+        "bins": 202681,
+        "arc_segments": 16,
+        "outer_arc_excess_m": 0.0009013809478819468,
+        "witness_bin": {
+          "reading_bin_center_deg": -43.0563980870677,
+          "outer_pair_m": [
+            [
+              1396.3361957557424,
+              24.49502959110204
+            ],
+            [
+              1499.7692525092225,
+              -26.30948931332056
+            ]
+          ]
+        },
+        "numerics": "outward 1e-7 m halfplanes, 1e-5 m reported guard; floating-point geometry"
+      }
+    }
+  ],
+  "baseline_exact_reproduction": true,
+  "original_files_unchanged": true,
+  "source_sha256": {
+    "支撑材料\\问题一_定位区域与包围圆.py": "601b4c0daeb961b83eb7de6c65674258a5a270bc2c12b620419e7743609d31a5",
+    "支撑材料\\问题二_安全第二测点.py": "31fe84e958b57e86079d45a096d3c0c1a3dddc370541ddd2c3d0671626a92f18",
+    "支撑材料\\问题二_定位直径上下界.py": "ebdf1bfd09ce592d7cc29e3fb13ee840c158b22c98a35f8b1e6ba567af0cbb71",
+    "支撑材料\\数据\\q2_results.json": "97f481281c10fc2b25513eb7929823040179c89aac76d3a599fdfd29abcd11aa",
+    "我的论文.docx": "e3f7134166d1bdc147bfc419f5d092944f1cab2065dd74d2ab1dd404c9c69aad"
+  },
+  "numerics": "Analytic reception proof plus existing float64 polygon outer bounds; not interval arithmetic",
+  "evaluation_parameters": {
+    "delta_deg": 1.005,
+    "angle_bin_width_max_deg": 0.0005,
+    "arc_segments": 16
+  },
+  "elapsed_s": 25.5,
+  "historical_selection_record": "Not present in current Q2 scripts",
+  "global_optimality_proven": false
+}

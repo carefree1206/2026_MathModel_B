@@ -1,0 +1,102 @@
+{
+  "q3": {
+    "run_id": "run_20261005_174649_576453fe5969",
+    "virtual_time_s": 3042.632014551312,
+    "cleared": 10,
+    "source_count": 10,
+    "clearance_ratio": 1.0,
+    "per_source_s": 304.2632014551312,
+    "actions": 131,
+    "normal_exit": true,
+    "completed": true,
+    "costs": {
+      "move_m": 11458.160072756558,
+      "move_s": 2291.6320145513127,
+      "measure_s": 585,
+      "switch_s": 110,
+      "optical_s": 36,
+      "laser_s": 20,
+      "measures": 117,
+      "clears": 12,
+      "successes": 10
+    },
+    "termination": "coverage_complete",
+    "audit_passed": true,
+    "timing_passed": true,
+    "version": "M020-q3-physical_optical",
+    "cleared_channels": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      12,
+      14,
+      15,
+      16,
+      18
+    ],
+    "absent_channels": [
+      3,
+      5,
+      6,
+      9,
+      10,
+      11,
+      13,
+      17,
+      19,
+      20
+    ]
+  },
+  "q4": {
+    "run_id": "run_20261005_174658_cf0598e842c8",
+    "virtual_time_s": 5876.202528137749,
+    "cleared": 10,
+    "source_count": 10,
+    "clearance_ratio": 1.0,
+    "per_source_s": 587.6202528137749,
+    "actions": 323,
+    "normal_exit": true,
+    "completed": true,
+    "costs": {
+      "move_m": 19941.012640688743,
+      "move_s": 3988.2025281377496,
+      "measure_s": 1550,
+      "switch_s": 285,
+      "optical_s": 33,
+      "laser_s": 20,
+      "measures": 310,
+      "clears": 11,
+      "successes": 10
+    },
+    "termination": "coverage_complete",
+    "audit_passed": true,
+    "timing_passed": true,
+    "version": "M021-v2-q4-selected",
+    "cleared_channels": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      12,
+      14,
+      15,
+      16,
+      18
+    ],
+    "absent_channels": [
+      3,
+      5,
+      6,
+      9,
+      10,
+      11,
+      13,
+      17,
+      19,
+      20
+    ]
+  }
+}

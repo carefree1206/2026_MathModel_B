@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Q3 / Q4 模拟器</title>
+<style>
+:root{--navy:#234f6d;--teal:#4b898b;--ink:#283842;--muted:#687984;--line:#d7dfe3;--bg:#edf0f2;--rust:#965e4c}
+*{box-sizing:border-box}body{margin:0;color:var(--ink);background:var(--bg);font:13px/1.45 "Microsoft YaHei","PingFang SC",sans-serif}
+button,input,select{font:inherit;border:1px solid #bcc9d0;border-radius:2px;color:var(--ink)}button{padding:4px 9px;background:#f9fafb;cursor:pointer;white-space:nowrap}button:hover:not(:disabled){background:#e8eff3;border-color:#8fa5b2}button:disabled{cursor:default;opacity:.42}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #7babbf;outline-offset:1px}
+input,select{width:100%;height:29px;padding:3px 6px;background:white}input[type=checkbox]{width:auto;height:auto;accent-color:var(--teal);margin:0}input[type=range]{height:16px;padding:0;border:0;accent-color:var(--navy);cursor:pointer}h1,h2,h3,p{margin:0}h1{font-size:15px;font-weight:600}h2,h3{font-size:13px;font-weight:600}
+.header{height:40px;padding:0 10px;display:flex;align-items:center;justify-content:space-between;background:#fafbfc;border-bottom:1px solid var(--line)}.header-right{display:flex;align-items:center;gap:12px}.quiet,.service{color:var(--muted);font-size:12px}.workspace{height:calc(100dvh - 40px);min-height:600px;padding:8px;display:grid;grid-template-columns:220px minmax(360px,1fr) 250px;gap:8px}
+.panel{background:white;border:1px solid var(--line);border-radius:2px;min-width:0;min-height:0;overflow:hidden}.parameters,.data-panel{overflow:auto}.panel-body{padding:10px}.tabs{display:grid;grid-template-columns:1fr 1fr;border-bottom:1px solid var(--line);background:#f0f3f5}.tab{border:0;border-radius:0;padding:8px 2px;color:var(--muted)}.tab[aria-selected=true]{background:white;color:var(--navy);box-shadow:inset 0 -2px var(--navy);font-weight:600}
+.field{display:block;margin-bottom:10px}.field>span{display:block;margin-bottom:3px;color:#435964}.hint{font-size:12px;color:var(--muted);line-height:1.5;margin-top:6px}.full{width:100%}.primary{background:var(--navy);border-color:var(--navy);color:white}.primary:hover:not(:disabled){background:#1e4259;color:white}.danger{color:var(--rust);border-color:#cdb6aa}.check{display:flex;align-items:flex-start;gap:6px;font-size:12px;line-height:1.5}.check input{margin-top:3px;flex-shrink:0}.connect-row{display:flex;gap:9px;align-items:center;margin-top:10px}.connect-row .primary{flex:1}.connect-row .hint{margin:0;white-space:nowrap}
+.map-panel{display:flex;flex-direction:column}.map-head{min-height:33px;padding:5px 9px;display:flex;align-items:center;justify-content:space-between;gap:10px;border-bottom:1px solid var(--line)}.run-title{font-weight:600;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.status{font-size:12px;color:var(--navy);white-space:nowrap}.status[data-status=failed],.status[data-status=stopped]{color:var(--rust)}
+.map-tools{padding:5px 8px;display:flex;gap:8px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}.channel-field{display:flex;align-items:center;gap:6px;white-space:nowrap}.map-tools select{width:118px;height:26px}.segments{display:flex}.segments button{border-radius:0;font-size:12px;padding:3px 9px}.segments button+button{border-left:0}.segments button.active{background:var(--navy);color:white;border-color:var(--navy)}
+.map-stage{position:relative;flex:1;min-height:220px;background:#fcfdfd}#map{position:absolute;inset:0;width:100%;height:100%;display:block}.map-empty{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none;color:var(--muted)}.map-badge{position:absolute;left:8px;top:6px;font-size:11px;color:var(--muted);background:#ffffffdb;padding:1px 4px}
+.map-layers{display:flex;flex-wrap:wrap;gap:6px 13px;padding:5px 8px;border-top:1px solid var(--line);font-size:12px}.map-layers label{display:flex;align-items:center;gap:4px}.legend{display:flex;flex-wrap:wrap;gap:3px 11px;padding:2px 8px 6px;color:var(--muted);font-size:11px}.legend span{display:flex;align-items:center;gap:4px}.legend i{width:6px;height:6px;border-radius:50%;background:var(--teal)}.legend .failed{background:var(--rust);border-radius:0;transform:rotate(45deg)}.legend .measure{background:#a2b3bc}.legend .region{border-radius:0;background:#bfd3dd;width:9px;height:6px}.legend .mec,.legend .optical{background:none;border-radius:0;width:14px;height:0;border-top:2px dashed var(--teal)}.legend .optical{border-top:2px dotted #aabeb3}
+.timeline{padding:6px 8px;border-top:1px solid var(--line);background:#fafbfc}.timeline-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12px}.timeline-top strong{font-weight:500;font-variant-numeric:tabular-nums}.timeline-controls{display:flex;align-items:center;gap:5px;margin-top:3px}.timeline-controls button{font-size:12px;padding:3px 8px}.timeline-controls select{width:61px;height:26px;padding:2px 4px;font-size:12px}.follow{margin-left:auto;display:flex;align-items:center;gap:4px;font-size:12px;color:var(--muted)}
+.data-section{padding:8px 10px;border-bottom:1px solid var(--line)}.data-section:last-child{border-bottom:0}.data-section h2{margin-bottom:5px}.data-row{display:flex;justify-content:space-between;gap:8px;padding:2px 0;font-size:12px}.data-row>span{color:var(--muted)}.data-row>strong{font-weight:500;font-variant-numeric:tabular-nums;text-align:right}.action-type{display:flex;justify-content:space-between;gap:5px;margin-bottom:4px}.action-tag{font-size:11px;color:var(--teal);white-space:nowrap}.explanation{font-size:12px;line-height:1.55;overflow-wrap:anywhere}.geometry-status{font-size:12px;color:var(--muted);line-height:1.5;margin-top:5px}.geometry-status.safe{color:#36745d}.track-table{border-collapse:collapse;width:100%;font-size:12px;font-variant-numeric:tabular-nums}.track-table th{color:var(--muted);font-weight:400;text-align:left}.track-table th,.track-table td{padding:3px 4px;border-bottom:1px solid #e8edef}.track-table th:last-child,.track-table td:last-child{text-align:right}.track-table button{padding:0;border:0;background:none;color:var(--navy);text-decoration:underline}.track-table tr.selected{background:#edf4f7}.track-scroll{max-height:170px;overflow:auto}.output-path{overflow-wrap:anywhere;font-size:11px;color:var(--muted);margin-top:4px}
+.banner{position:fixed;z-index:5;top:44px;left:236px;right:266px;padding:7px 9px;border:1px solid #dbc0af;background:#fff6ee;font-size:12px;display:flex;align-items:center;justify-content:space-between;gap:10px}.banner button{border:0;background:none;padding:0 2px;color:var(--rust)}.stop-confirm{display:flex;align-items:center;gap:7px;padding:7px 8px;border-bottom:1px solid #dbc0af;background:#fff8f1;font-size:12px}.stop-confirm span{flex:1}.stop-confirm button{font-size:12px}[hidden]{display:none!important}
+@media(max-width:1000px){.workspace{grid-template-columns:190px minmax(330px,1fr) 215px}.panel-body,.data-section{padding:8px}.map-tools{flex-wrap:wrap}.banner{left:206px;right:231px}.map-layers{gap:5px 9px}.legend{gap:3px 8px}}
+@media(max-width:760px){.workspace{height:auto;display:flex;flex-direction:column;min-height:0}.map-panel{height:680px;order:-1}.data-panel{overflow:visible}.parameters{overflow:visible}.header .service{display:none}.banner{left:8px;right:8px}.stop-confirm{flex-wrap:wrap}.track-scroll{max-height:none}}
+</style>
+</head>
+<body>
+<header class="header"><h1>Q3 / Q4 模拟器</h1><div class="header-right"><span id="service" class="service">连接本机服务中</span><button id="stopButton" class="danger" disabled>停止运行</button></div></header>
+<div id="banner" class="banner" role="alert" hidden><span id="bannerText"></span><button id="dismissBanner" aria-label="关闭提示">×</button></div>
+<main class="workspace">
+<aside class="panel parameters">
+<nav class="tabs" role="tablist" aria-label="运行入口"><button class="tab" data-mode="simulate" role="tab" aria-selected="true">离线模拟</button><button class="tab" data-mode="official" role="tab" aria-selected="false">官方接口</button></nav>
+<div class="panel-body">
+<section id="pane-simulate"><form id="simulateForm">
+<label class="field"><span>题号</span><select id="simProblem"><option value="q3">Q3 全向源</option><option value="q4">Q4 混合源</option></select></label>
+<label class="field"><span>场景</span><select id="caseSelect"><option value="">随机生成</option></select></label>
+<div id="seedFields"><label class="field"><span>随机种子</span><input id="seed" type="number" min="0" max="2147483647" value="20260912" required></label><label class="field"><span>分布</span><select id="kind"><option value="random">随机</option><option value="boundary">边界</option><option value="cluster">聚集</option></select></label></div>
+<button class="primary full run-trigger" type="submit">开始模拟</button>
+</form></section>
+<section id="pane-official" hidden><form id="officialForm">
+<label class="field"><span>题号</span><select id="officialProblem"><option value="q3">Q3 全向源</option><option value="q4">Q4 混合源</option></select></label>
+<label class="field"><span>比赛种类</span><select id="testMode" required><option value="">请选择</option><option value="practice">官方演练</option><option value="formal">正式测试</option></select></label>
+<label class="field"><span>本机接口地址</span><input id="officialUrl" type="url" value="http://127.0.0.1:2026" placeholder="http://127.0.0.1:2026" autocomplete="off" required></label>
+<label class="field"><span>队号</span><input id="robotId" type="text" autocomplete="off" required></label>
+<label class="field"><span>场景 / 测试编码</span><input id="caseCode" type="text" autocomplete="off" required></label>
+<label class="check"><input id="manualStarted" type="checkbox" required><span>已在官方模拟器开始本局</span></label>
+<div class="connect-row"><button class="primary run-trigger" type="submit">连接运行</button><span class="hint">先手动开局</span></div>
+</form></section>
+</div>
+</aside>
+<section class="panel map-panel">
+<div class="map-head"><div id="runTitle" class="run-title">当前单局</div><span id="status" class="status">未运行</span></div>
+<div id="stopConfirm" class="stop-confirm" hidden><span id="stopMessage">停止本局运行，保留已有动作供回放。</span><button id="cancelStop">取消</button><button id="confirmStop" class="danger">确认停止</button></div>
+<div class="map-tools"><label class="channel-field">频道<select id="channel"><option value="current">跟随动作</option></select></label><div class="segments" aria-label="地图范围"><button id="globalView" class="active">全局</button><button id="localView">局部</button></div></div>
+<div class="map-stage"><svg id="map" role="img" aria-label="机器人轨迹、观测角楔与定位区域"></svg><div id="empty" class="map-empty">尚无动作数据</div><span id="mapBadge" class="map-badge">单位：m</span></div>
+<div class="map-layers"><label><input id="showWedge" type="checkbox" checked>角楔</label><label><input id="showPoly" type="checkbox" checked>可行域</label><label><input id="showCircle" type="checkbox" checked>包围圆</label><label><input id="showSites" type="checkbox" checked>测点</label><label id="truthLabel" hidden><input id="showTruth" type="checkbox">合成真值</label></div>
+<div class="legend"><span><i class="measure"></i>无线电</span><span><i></i>清除成功</span><span><i class="failed"></i>光学失败</span><span><i class="region"></i><span id="regionLegend">所选频道可行域</span></span><span id="mecLegend"><i class="mec"></i>最小包围圆</span><span id="opticalLegend" title="以包围圆圆心为中心，用于比较光学清除半径。" hidden><i class="optical"></i>20 m 参照圆</span></div>
+<div class="timeline"><div class="timeline-top"><span>单局回放 <span id="frameCount" class="quiet">0 / 0</span></span><strong id="timelineTime">00:00.0</strong></div><input id="timeline" type="range" min="0" max="0" value="0" step="1" disabled aria-label="动作进度"><div class="timeline-controls"><button id="prev" disabled aria-label="上一步">上一步</button><button id="play" disabled>播放</button><button id="next" disabled aria-label="下一步">下一步</button><select id="speed" aria-label="动作播放倍率"><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select><label class="follow"><input id="follow" type="checkbox" checked>跟随最新</label></div></div>
+</section>
+<aside class="panel data-panel">
+<section class="data-section"><h2>状态数据</h2><div class="data-row"><span>当前运行</span><strong id="runMode">—</strong></div><div class="data-row"><span>累计费用 / s</span><strong id="timeValue">0.0</strong></div><div class="data-row"><span>已发现 / 已清除</span><strong><span id="discovered">—</span> / <span id="cleared">—</span></strong></div><div class="data-row"><span>坐标 / m</span><strong id="coordinates">—</strong></div><div class="data-row"><span>测向机频道</span><strong id="radioChannel">—</strong></div></section>
+<section class="data-section"><div class="action-type"><h3 id="actionTitle">当前动作</h3><span id="channelTag" class="action-tag">频道 —</span></div><p id="explanation" class="explanation">—</p></section>
+<section class="data-section"><h2 id="geometryChannel">所选频道 —</h2><div class="data-row"><span>区域直径</span><strong id="diameter">—</strong></div><div class="data-row"><span>包围半径</span><strong id="radius">—</strong></div><p id="geometryStatus" class="geometry-status">尚无几何数据。</p></section>
+<section class="data-section"><h2>费用明细 / s</h2><div id="costs"></div></section>
+<section class="data-section"><h2>频道数据</h2><div class="track-scroll"><table class="track-table"><thead><tr><th scope="col">频道</th><th scope="col">状态</th><th scope="col">半径 / m</th></tr></thead><tbody id="trackRows"></tbody></table></div></section>
+<section class="data-section"><p id="runInfo" class="quiet">未运行</p><p id="outputPath" class="output-path"></p></section>
+</aside>
+</main>
+<script>
+'use strict';
+// 服务端文本只通过 textContent 显示；SVG 使用安全的 DOM 属性，不拼接 HTML。
+const $=id=>document.getElementById(id),token='__GUI_TOKEN__',NS='http://www.w3.org/2000/svg';
+const state={catalog:null,run:null,index:-1,mode:'simulate',local:false,playing:false,follow:true,active:null,starting:false,poll:0,loadSeq:0};
+const names={queued:'等待启动',running:'运行中',completed:'已完成',failed:'运行失败',stopped:'已停止'};
+const actionNames={enter:'进入场景',measure:'无线电测量',clear:'光学清除',exit:'退出场景'};
+const resultNames={direction:'返回示向',near:'近距离信号',no_signal:'未收到信号',success:'清除成功',no_target_in_range:'光学范围内无目标',entered:'已进入',exited:'已退出'};
+const costDefs=[['move_s','移动'],['measure_s','检测'],['switch_s','切频'],['optical_s','光学尝试'],['laser_s','激光清除']];
+const finite=v=>Number.isFinite(Number(v))?Number(v):0,fixed=(v,n=1)=>finite(v).toFixed(n);
+const point=p=>Array.isArray(p)&&p.length>=2&&Number.isFinite(Number(p[0]))&&Number.isFinite(Number(p[1]));
+const points=p=>Array.isArray(p)?p.filter(point).map(v=>[Number(v[0]),Number(v[1])]):[];
+const frames=()=>Array.isArray(state.run?.frames)?state.run.frames:[],current=()=>frames()[state.index]||null;
+const clock=v=>{v=Math.max(0,finite(v));return String(Math.floor(v/60)).padStart(2,'0')+':'+(v%60).toFixed(1).padStart(4,'0')};
+function showError(message){$('bannerText').textContent=String(message);$('banner').hidden=false}
+async function api(url,body){
+  const options=body===undefined?{}:{method:'POST',headers:{'Content-Type':'application/json','X-GUI-Token':token},body:JSON.stringify(body)};
+  const response=await fetch(url,options);let data;
+  try{data=await response.json()}catch{throw Error('本机服务未返回有效数据。')}
+  if(!response.ok)throw Error(data.error||'请求失败');return data;
+}
+function option(select,value,label){const node=document.createElement('option');node.value=value;node.textContent=label;select.append(node)}
+function setMode(mode){
+  if(!['simulate','official'].includes(mode))return;
+  state.mode=mode;document.querySelectorAll('[data-mode]').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.mode===mode)));
+  for(const m of ['simulate','official'])$('pane-'+m).hidden=m!==mode;
+}
+function refreshCases(){
+  const select=$('caseSelect'),old=select.value;select.replaceChildren();option(select,'','随机生成');
+  for(const c of state.catalog?.cases||[])if(c.problem===$('simProblem').value)option(select,c.id,c.label||c.id);
+  if([...select.options].some(o=>o.value===old))select.value=old;
+  $('seedFields').hidden=Boolean(select.value);$('seed').required=!select.value;
+}
+async function catalog(initial=false){
+  try{
+    state.catalog=await api('/api/catalog');state.active=state.catalog.active||null;
+    $('service').textContent='本机已连接 · Python '+String(state.catalog.python||'');
+    refreshCases();updateControls();
+    // 页面重开仅恢复仍在运行的本局，不读取已完成任务。
+    if(initial&&state.active){await loadRun(state.active);setMode(state.run?.mode)}
+  }catch(e){$('service').textContent='本机服务连接失败';showError(e.message)}
+}
+function updateControls(){
+  const fs=frames(),busy=Boolean(state.active)||state.starting||!state.catalog;
+  document.querySelectorAll('.run-trigger').forEach(b=>b.disabled=busy);
+  $('stopButton').disabled=!state.active;
+  $('timeline').disabled=!fs.length;$('timeline').max=Math.max(0,fs.length-1);$('timeline').value=Math.max(0,state.index);
+  $('prev').disabled=state.index<=0;$('next').disabled=state.index<0||state.index>=fs.length-1;
+  $('play').disabled=!fs.length;$('play').textContent=state.playing?'暂停':'播放';
+  $('frameCount').textContent=(fs.length?state.index+1:0)+' / '+fs.length;$('timelineTime').textContent=clock(current()?.time_s);
+}
+async function loadRun(id){
+  const seq=++state.loadSeq;clearTimeout(state.poll);state.playing=false;state.follow=true;
+  $('follow').checked=true;$('showTruth').checked=false;
+  state.run={id,frames:[],status:'queued'};state.index=-1;render();await pollRun(id,seq);
+}
+async function pollRun(id,seq){
+  try{
+    const run=await api('/api/run/'+encodeURIComponent(id));if(seq!==state.loadSeq)return;state.run=run;
+    if(['queued','running'].includes(run.status))state.active=id;else if(state.active===id)state.active=null;
+    state.index=state.follow?frames().length-1:Math.min(Math.max(0,state.index),frames().length-1);render();
+    if(['queued','running'].includes(run.status))state.poll=setTimeout(()=>pollRun(id,seq),700);
+    else{if(run.status==='failed'&&run.error)showError(run.error);catalog()}
+  }catch(e){
+    if(seq!==state.loadSeq)return;showError(e.message);state.poll=setTimeout(()=>pollRun(id,seq),1800);
+  }
+}
+async function start(body){
+  if(state.starting||state.active)return;
+  state.starting=true;updateControls();
+  try{
+    $('banner').hidden=true;const run=await api('/api/run',body);state.active=run.id;
+    if(body.mode==='official')$('manualStarted').checked=false;
+    $('stopConfirm').hidden=true;await loadRun(run.id);
+  }catch(e){showError(e.message);catalog()}finally{state.starting=false;updateControls()}
+}
+function manualSeek(index){
+  state.playing=false;state.follow=false;$('follow').checked=false;
+  state.index=Math.max(0,Math.min(frames().length-1,index));render();
+}
+function selectedTrack(frame){
+  const channel=$('channel').value==='current'?frame?.channel:Number($('channel').value);
+  return(frame?.tracks||[]).find(t=>Number(t.channel)===Number(channel))||null;
+}
+function diameter(poly){
+  let d=0;for(let i=0;i<poly.length;i++)for(let j=0;j<i;j++)d=Math.max(d,Math.hypot(poly[i][0]-poly[j][0],poly[i][1]-poly[j][1]));return d;
+}
+function renderTracks(frame){
+  const body=$('trackRows'),selected=$('channel').value==='current'?frame?.channel:Number($('channel').value);
+  body.replaceChildren();
+  for(const track of frame?.tracks||[]){
+    const row=document.createElement('tr'),channel=document.createElement('td'),button=document.createElement('button');
+    button.type='button';button.textContent=String(track.channel);button.setAttribute('aria-label','查看频道 '+track.channel);
+    button.addEventListener('click',()=>{$('channel').value=String(track.channel);render()});channel.append(button);
+    const status=document.createElement('td'),radius=document.createElement('td');
+    status.textContent=track.cleared?'已清除':track.inconsistent?'不一致':'未清除';
+    radius.textContent=track.circle?.radius_m!==undefined&&track.circle?.radius_m!==null?fixed(track.circle.radius_m,2):'—';
+    row.classList.toggle('selected',Number(selected)===Number(track.channel));row.append(channel,status,radius);body.append(row);
+  }
+  if(!body.children.length){const row=document.createElement('tr'),cell=document.createElement('td');cell.colSpan=3;cell.textContent='—';row.append(cell);body.append(row)}
+}
+function render(){
+  const run=state.run,frame=current(),track=selectedTrack(frame),fs=frames();
+  $('empty').hidden=Boolean(frame);$('runTitle').textContent=run?.label||'当前单局';$('runTitle').title=run?.label||'';
+  $('status').textContent=names[run?.status]||'未运行';$('status').dataset.status=run?.status||'';
+  $('runMode').textContent=run?.problem?(run.problem==='q4'?'Q4':'Q3')+' / '+(run.mode==='official'?'官方接口':'离线模拟'):'—';
+  $('timeValue').textContent=frame?fixed(frame.time_s):'0.0';$('discovered').textContent=frame?.discovered??'—';$('cleared').textContent=frame?.cleared??'—';
+  $('actionTitle').textContent=actionNames[frame?.action]||'当前动作';$('channelTag').textContent='动作频道 '+(frame?.channel??'—');
+  $('explanation').textContent=frame?String(frame.explanation||resultNames[frame.result]||'已记录动作。')+(frame.state_pending?' 几何更新中。':''):'—';
+  $('coordinates').textContent=point(frame?.position)?fixed(frame.position[0])+', '+fixed(frame.position[1]):'—';
+  $('radioChannel').textContent=frame?.radio_channel??'—';
+  const channel=$('channel').value==='current'?(frame?.channel??'—'):$('channel').value;
+  $('geometryChannel').textContent='所选频道 '+channel;$('regionLegend').textContent='频道 '+channel+' 可行域';
+  $('mecLegend').hidden=!$('showCircle').checked;$('opticalLegend').hidden=!state.local||!track?.circle||!$('showCircle').checked;
+  const poly=points(track?.poly),rawRadius=track?.circle?.radius_m;
+  const radius=rawRadius!==null&&rawRadius!==undefined&&Number.isFinite(Number(rawRadius))?Number(rawRadius):null;
+  $('diameter').textContent=poly.length?fixed(diameter(poly),2)+' m':'—';$('radius').textContent=radius===null?'—':fixed(radius,2)+' m';
+  const safe=radius!==null&&radius<=19.99&&!track?.inconsistent&&!frame?.state_pending&&!track?.cleared;
+  $('geometryStatus').classList.toggle('safe',safe);
+  $('geometryStatus').textContent=frame?.state_pending?'几何更新中。':track?.inconsistent?'几何不一致，使用策略回退。':track?.cleared?'已清除，显示最后几何状态。':safe?'满足一次光学清除的几何条件。':radius!==null?'半径 > 19.99 m，尚不能保证一次清除。':'尚无有界可行域。';
+  const allowTruth=Boolean(run?.mode==='simulate'&&Array.isArray(run.truth)&&run.truth.length);
+  $('truthLabel').hidden=!allowTruth;if(!allowTruth)$('showTruth').checked=false;
+  for(const [key]of costDefs)$('cost-'+key).textContent=frame?fixed(Math.max(0,finite(frame.costs?.[key]))):'0.0';
+  $('runInfo').textContent=run?fs.length+' 个动作 · 本机耗时 '+fixed(run.elapsed_s)+' s':'未运行';
+  $('outputPath').textContent=run?.output_directory?'目录：'+run.output_directory:'';
+  $('mapBadge').textContent=state.local?'所选频道 '+channel+' · 单位：m':'区域半径 1800 m · 单位：m';
+  renderTracks(frame);updateControls();drawMap(frame,track);
+}
+// SVG 按米制坐标绘制；y 轴向上，图形缩放保持真实比例。
+function svgNode(tag,attrs={},text){const n=document.createElementNS(NS,tag);for(const [k,v]of Object.entries(attrs))n.setAttribute(k,String(v));if(text!==undefined)n.textContent=String(text);return n}
+function drawMap(f,t){const svg=$('map');svg.replaceChildren();const r=state.run,poly=points(t?.poly),circle=t?.circle;let center=[0,0],span=4500;if(state.local){if(circle&&point(circle.center)){center=circle.center;span=Math.max(70,Math.min(3800,finite(circle.radius_m)*3.6))}else if(poly.length){center=[(Math.min(...poly.map(p=>p[0]))+Math.max(...poly.map(p=>p[0])))/2,(Math.min(...poly.map(p=>p[1]))+Math.max(...poly.map(p=>p[1])))/2];span=Math.max(100,...poly.map(p=>Math.hypot(p[0]-center[0],p[1]-center[1])*3))}else if(point(f?.position)){center=f.position;span=1800}}
+  const width=Math.max(300,svg.clientWidth),height=Math.max(220,svg.clientHeight),pad=44,scale=(Math.min(width,height)-2*pad)/span;svg.setAttribute('viewBox','0 0 '+width+' '+height);const project=p=>[width/2+(p[0]-center[0])*scale,height/2-(p[1]-center[1])*scale];const worldLeft=center[0]-(width/2-pad)/scale,worldRight=center[0]+(width/2-pad)/scale,worldBottom=center[1]-(height/2-pad)/scale,worldTop=center[1]+(height/2-pad)/scale;
+  const defs=svgNode('defs'),clip=svgNode('clipPath',{id:'plotClip'});clip.append(svgNode('rect',{x:pad,y:pad,width:width-2*pad,height:height-2*pad}));defs.append(clip);svg.append(defs);const g=svgNode('g',{'clip-path':'url(#plotClip)'});svg.append(g);
+  function line(a,b,attrs={}){const x=project(a),y=project(b);g.append(svgNode('line',{x1:x[0],y1:x[1],x2:y[0],y2:y[1],stroke:'#bfd0d9','stroke-width':1,...attrs}))}
+  function dot(p,radius,color,attrs={}){const q=project(p);g.append(svgNode('circle',{cx:q[0],cy:q[1],r:radius,fill:color,...attrs}))}
+  function ring(p,radius,color,dash=''){const q=project(p);g.append(svgNode('circle',{cx:q[0],cy:q[1],r:Math.max(0,radius*scale),fill:'none',stroke:color,'stroke-width':1.5,'stroke-dasharray':dash}))}
+  function shape(ps,attrs={}){if(ps.length)g.append(svgNode('polygon',{points:ps.map(p=>project(p).join(',')).join(' '),...attrs}))}
+  const raw=span/5,power=10**Math.floor(Math.log10(raw)),step=[1,2,5,10].map(z=>z*power).find(z=>z>=raw)||power*10;
+  for(let x=Math.ceil(worldLeft/step)*step;x<=worldRight;x+=step){line([x,worldBottom],[x,worldTop],{stroke:'#e8eef1'});const q=project([x,worldBottom]);svg.append(svgNode('text',{x:q[0],y:height-19,'text-anchor':'middle',fill:'#8a9ca7','font-size':11},Math.round(x)))}
+  for(let y=Math.ceil(worldBottom/step)*step;y<=worldTop;y+=step){line([worldLeft,y],[worldRight,y],{stroke:'#e8eef1'});const q=project([worldLeft,y]);svg.append(svgNode('text',{x:pad-8,y:q[1]+4,'text-anchor':'end',fill:'#8a9ca7','font-size':11},Math.round(y)))}
+  ring([0,0],1800,'#bdcdd5');svg.append(svgNode('text',{x:width-7,y:height-19,'text-anchor':'end',fill:'#8a9ca7','font-size':11},'x / m'));svg.append(svgNode('text',{x:6,y:39,fill:'#8a9ca7','font-size':11},'y / m'));if(!f)return;
+  if($('showSites').checked){for(const p of points(f.planned_sites))dot(p,3.5,'white',{stroke:'#a6bac5','stroke-width':1});for(const p of points(f.measured_sites))dot(p,2.2,'#c0cdd4')}
+  const observations=Array.isArray(t?.observations)?t.observations:[];
+  if($('showWedge').checked){const selected=observations.filter(o=>point(o.position)&&o.bearing_deg!==null&&o.bearing_deg!==undefined);for(const [i,o]of selected.entries()){const theta=finite(o.bearing_deg)*Math.PI/180,delta=1.005*Math.PI/180,len=1500;const a=[o.position[0]+len*Math.cos(theta-delta),o.position[1]+len*Math.sin(theta-delta)],b=[o.position[0]+len*Math.cos(theta+delta),o.position[1]+len*Math.sin(theta+delta)];shape([o.position,a,b],{fill:'#9dbacc','fill-opacity':i===selected.length-1?.13:.06,stroke:'none'});line(o.position,a,{stroke:'#90acbd','stroke-width':.8,'stroke-opacity':.7});line(o.position,b,{stroke:'#90acbd','stroke-width':.8,'stroke-opacity':.7})}}
+  if($('showPoly').checked&&poly.length>=3)shape(poly,{fill:'#729eb3','fill-opacity':.22,stroke:'#234f6d','stroke-width':1.8});else if($('showPoly').checked&&poly.length===2)line(poly[0],poly[1],{stroke:'#234f6d','stroke-width':2});else if($('showPoly').checked&&poly.length===1)dot(poly[0],3,'#234f6d');
+  if($('showCircle').checked&&circle&&point(circle.center)){ring(circle.center,finite(circle.radius_m),'#4b898b','5 4');dot(circle.center,2.5,'#4b898b');if(state.local)ring(circle.center,20,'#aabeb3','2 5')}
+  const visited=frames().slice(0,state.index+1).filter(z=>point(z.position));const route=visited.map(z=>z.position);if(route.length)g.append(svgNode('polyline',{points:route.map(p=>project(p).join(',')).join(' '),fill:'none',stroke:'#557e96','stroke-width':1.3,'stroke-opacity':.72}));
+  for(const z of visited){if(z.action==='measure')dot(z.position,2.5,'#9caeb9');if(z.action==='clear'){if(z.result==='success')dot(z.position,4.5,'#4b898b',{stroke:'white','stroke-width':1});else{const p=project(z.position);g.append(svgNode('path',{d:`M${p[0]-4},${p[1]-4}l8,8m-8,0l8,-8`,stroke:'#9a6555','stroke-width':2,fill:'none'}))}}}
+  if($('showTruth').checked&&r?.mode==='simulate')for(const source of r.truth||[]){if(!point(source.position))continue;const p=project(source.position);g.append(svgNode('path',{d:`M${p[0]},${p[1]-6}l6,6l-6,6l-6,-6Z`,fill:'none',stroke:'#8d8874','stroke-width':1.5}));if(source.kind==='directional'&&source.direction_deg!==null&&source.direction_deg!==undefined){const a=finite(source.direction_deg)*Math.PI/180;line(source.position,[source.position[0]+90*Math.cos(a),source.position[1]+90*Math.sin(a)],{stroke:'#8d8874','stroke-width':1.5})}g.append(svgNode('text',{x:p[0]+9,y:p[1]-6,fill:'#8d8874','font-size':10},'真值 '+source.channel))}
+  if(point(f.position)){const p=project(f.position);dot(f.position,9,'#ffffff',{stroke:'#234f6d','stroke-width':1.8});dot(f.position,4.5,'#234f6d');g.append(svgNode('text',{x:p[0]+13,y:p[1]+4,fill:'#234f6d','font-size':11},'机器人'))}
+  const barMeters=step,barPixels=barMeters*scale;svg.append(svgNode('line',{x1:width-pad-barPixels,x2:width-pad,y1:height-37,y2:height-37,stroke:'#8fa6b3','stroke-width':2}));svg.append(svgNode('text',{x:width-pad,y:height-43,'text-anchor':'end',fill:'#718b9a','font-size':10},barMeters+' m'))}
+function viewButtons(){
+  $('globalView').classList.toggle('active',!state.local);$('localView').classList.toggle('active',state.local);
+}
+document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>setMode(b.dataset.mode)));
+$('simulateForm').addEventListener('submit',e=>{
+  e.preventDefault();const body={mode:'simulate',problem:$('simProblem').value,seed:Number($('seed').value),kind:$('kind').value};
+  if($('caseSelect').value)body.case_id=$('caseSelect').value;start(body);
+});
+$('officialForm').addEventListener('submit',e=>{
+  e.preventDefault();
+  start({mode:'official',problem:$('officialProblem').value,url:$('officialUrl').value.trim(),robot_id:$('robotId').value.trim(),case_code:$('caseCode').value.trim(),test_mode:$('testMode').value,manual_started:$('manualStarted').checked});
+});
+$('simProblem').addEventListener('change',refreshCases);
+$('caseSelect').addEventListener('change',()=>{$('seedFields').hidden=Boolean($('caseSelect').value);$('seed').required=!$('caseSelect').value});
+$('dismissBanner').addEventListener('click',()=>$('banner').hidden=true);
+$('stopButton').addEventListener('click',()=>$('stopConfirm').hidden=false);
+$('cancelStop').addEventListener('click',()=>$('stopConfirm').hidden=true);
+$('confirmStop').addEventListener('click',async()=>{
+  try{
+    const id=state.active;if(!id)return;
+    await api('/api/stop',{id});$('stopConfirm').hidden=true;state.active=null;await loadRun(id);
+  }catch(e){showError(e.message)}
+});
+$('timeline').addEventListener('input',()=>manualSeek(Number($('timeline').value)));
+$('prev').addEventListener('click',()=>manualSeek(state.index-1));
+$('next').addEventListener('click',()=>manualSeek(state.index+1));
+$('play').addEventListener('click',()=>{
+  state.playing=!state.playing;state.follow=false;$('follow').checked=false;
+  if(state.playing&&state.index>=frames().length-1)state.index=0;render();
+});
+$('follow').addEventListener('change',()=>{
+  state.follow=$('follow').checked;if(state.follow){state.playing=false;state.index=frames().length-1;render()}
+});
+$('globalView').addEventListener('click',()=>{state.local=false;viewButtons();render()});
+$('localView').addEventListener('click',()=>{state.local=true;viewButtons();render()});
+$('channel').addEventListener('change',render);
+for(const id of ['showWedge','showPoly','showCircle','showSites','showTruth'])$(id).addEventListener('change',render);
+for(let channel=1;channel<=20;channel++)option($('channel'),String(channel),'频道 '+channel);
+for(const [key,label]of costDefs){
+  const row=document.createElement('div'),name=document.createElement('span'),value=document.createElement('strong');
+  row.className='data-row';name.textContent=label;value.id='cost-'+key;value.textContent='0.0';
+  row.append(name,value);$('costs').append(row);
+}
+// 播放只移动当前单局的帧索引，不重新执行任何机器人动作。
+let lastTick=0;
+function tick(now){
+  if(state.playing&&now-lastTick>650/Number($('speed').value)){
+    lastTick=now;
+    if(state.index<frames().length-1){state.index++;render()}
+    else if(!['running','queued'].includes(state.run?.status)){state.playing=false;updateControls()}
+  }
+  requestAnimationFrame(tick);
+}
+// SVG 取景随容器调整，保持米制坐标等比例。
+new ResizeObserver(()=>requestAnimationFrame(()=>drawMap(current(),selectedTrack(current())))).observe($('map').parentElement);
+render();catalog(true);requestAnimationFrame(tick);
+// 完成帧可能早于工作进程退出；继续核对活动状态，收尾后解除按钮禁用。
+setInterval(()=>{if(state.active||!state.catalog)catalog()},3000);
+</script>
+</body>
+</html>
